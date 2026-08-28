@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Long Distance Dad"
 author: "Dave in the Shack"
 date:   2015-01-24 14:45:00 -0600
 original_url: https://daveintheshack.blogspot.com/2015/01/long-distance-dad.html
-tags: [Family, Gardening, Food, Christmas]
+tags: [Family, The-Shack, Cars, Food, 2015]
 ---
 
 Driven by opportunity and a powerful desire to see my kids I spent Thursday and Thursday night in Chicago, where both my children live. I both miss being an everyday parent and enjoy not being one at the same time. Is that possible? I saw them both at Christmas. I used a Chicago annual meeting of an outfit I’m still part of to ask for an invitation to spend the night with my son. After I accomplished that, I arranged to buy dinner for him and my daughter, along with her boyfriend. Never hard to do.  

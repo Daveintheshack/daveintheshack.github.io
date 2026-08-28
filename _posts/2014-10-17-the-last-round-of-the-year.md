@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "The Last Round of the Year"
 author: "Dave in the Shack"
 date:   2014-10-17 12:43:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/10/the-last-roundof-year.html
-tags: [Politics, Current-Events, Aging]
+tags: [Personal-Essays, 2014]
 ---
 
 We picked Thursday because it promised to be the warmest day of the week. A friend from Chicago, who had to be back in the city late afternoon, picked a park district course by Joliet neither of us had golfed before. It was easier for me to reach than him, though it was about halfway. He had to fight the morning traffic some. We were to meet at ten, tee off at eleven.  

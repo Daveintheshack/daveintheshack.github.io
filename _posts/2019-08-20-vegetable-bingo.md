@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Vegetable Bingo"
 author: "Dave in the Shack"
 date:   2019-08-20 10:19:00 -0500
 original_url: https://daveintheshack.blogspot.com/2019/08/vegetable-bingo.html
-tags: [Family, Gardening, Food]
+tags: [Gardening, 2019]
 ---
 
 My wife and I celebrated our anniversary, and my birthday, by going to Chicago for three nights.  My wife plans these trips and occasionally consults with me.  We were packing a lot in.  

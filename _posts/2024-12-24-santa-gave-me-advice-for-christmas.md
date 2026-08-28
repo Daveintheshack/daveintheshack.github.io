@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Santa Gave Me Advice for Christmas"
 author: "Dave in the Shack"
 date:   2024-12-24 08:52:00 -0600
 original_url: https://daveintheshack.blogspot.com/2024/12/santa-gave-me-advice-for-christmas.html
-tags: [Family, Christmas]
+tags: [The-Shack, Christmas, 2024]
 ---
 
 *I've been writing for the local paper these past six months.  When I do that I write shorter pieces to keep within their word limit and tend not to put them on my blog.  I'll start the year off their team and hope to communicate with you more through regular postings.  Hope you like this one.  Merry Christmas.*

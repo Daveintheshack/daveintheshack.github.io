@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Making the Jerk"
 author: "Dave in the Shack"
 date:   2017-10-28 18:31:00 -0500
 original_url: https://daveintheshack.blogspot.com/2017/10/making-jerk.html
-tags: [Family, Gardening, Food, Christmas]
+tags: [Family, Gardening, Food, 2017]
 ---
 
 This started when I grew Habanero peppers without a clear purpose.  I liked the looks of them, knew they were hot, and figured they would fit right in with the serranos, poblanos, jalapenos, and those little red cherry peppers I grow.  They didn’t.  

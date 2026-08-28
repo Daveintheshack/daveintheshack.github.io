@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Governor Rauner Comes to Ottawa"
 author: "Dave in the Shack"
 date:   2016-06-24 09:11:00 -0500
 original_url: https://daveintheshack.blogspot.com/2016/06/illinois-state-government-is-wearing-me.html
-tags: [Politics, Current-Events, Community]
+tags: [Politics, 2016]
 ---
 
 Illinois state government is wearing me out.  I find it hard to keep up.  Here’s news from the beginning of June.   

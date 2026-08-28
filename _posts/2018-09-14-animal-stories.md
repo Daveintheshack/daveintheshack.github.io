@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Animal Stories"
 author: "Dave in the Shack"
 date:   2018-09-14 14:41:00 -0500
 original_url: https://daveintheshack.blogspot.com/2018/09/animal-stories.html
-tags: [Fishing, Politics]
+tags: [The-Shack, Fishing, 2018]
 ---
 
 Yesterday a red fox trotted into our yard.  It was  sunny summer, but the air had a hint of fall.  The fox was enjoying the day.  He slowed to a walk then sat in a patch of sun.  He scratched for a while, stood and stretched, doing a downward facing fox, then laid out flat.  I was taking pictures of him through the patio door.  As I looked at him, he looked at me.  

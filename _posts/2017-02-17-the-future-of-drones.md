@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "The Future of Drones"
 author: "Dave in the Shack"
 date:   2017-02-17 13:58:00 -0600
 original_url: https://daveintheshack.blogspot.com/2017/02/the-future-of-drones.html
-tags: [Road-Trips, Civil-Rights-History, Travel, Current-Events]
+tags: [Civil-Rights-History, Current-Events, 2017]
 ---
 
 Usually when I write on a topic too long readership falls off, with the notable exception of “The Hot Dog Blog” which I ended only because I was tired of writing about wieners, while genuinely amazed at the widespread and growing interest in the variety of ways they are cooked and served.  Usually though I find hits to the blog page decrease the longer I write about the same thing.  The cross country road trip blogs proved that.  You can drive a good thing into the ground.  

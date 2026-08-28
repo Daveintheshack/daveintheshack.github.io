@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Panimatzalan, Guatemala 2025"
 author: "Dave in the Shack"
 date:   2025-03-21 11:48:00 -0500
 original_url: https://daveintheshack.blogspot.com/2025/03/panimatzalan-guatemala-2025.html
-tags: [Guatemala]
+tags: [Guatemala, I-Care, 2025]
 ---
 
 **I Care - Panimatzalan, Guatemala 2025**

@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "And I thought the snow was bad"
 author: "Dave in the Shack"
 date:   2014-03-07 12:40:00 -0600
 original_url: https://daveintheshack.blogspot.com/2014/03/and-i-thought-snow-was-bad.html
-tags: [Politics, Community, Health]
+tags: [Politics, Community, 2014]
 ---
 
 I went to Springfield last week to attend a board meeting of our state association for youth service organizations. I’m starting my ninth month of retirement from a job in which I was closely linked to state budgets and funding for services for kids. The state was our biggest funder. Nearly every organization that serves abused, neglected, or troubled kids in a concrete and tangible way here in Illinois is in the same boat. I know it’s a perspective that will fade, that someday I will either forget or just stop feeling it. That being the perspective that makes you realize how important politics are to the community of not for profit agencies devoted by mission, rather than profit, to help communities stay whole and healthy. But I haven’t lost that perspective yet.  

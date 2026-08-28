@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Machu Picchu"
 author: "Dave in the Shack"
 date:   2015-04-10 14:16:00 -0500
 original_url: https://daveintheshack.blogspot.com/2015/04/machu-picchu.html
-tags: [Guatemala, Aging]
+tags: [Personal-Essays, 2015]
 ---
 
 It wasn’t exactly a pilgrimage. I attached no real religious significance to my trip to Machu Picchu. It wasn’t exactly a lifelong goal. What was it then? What made this trip, this one day outing in the Andes mountains, so special to me? Why was I so filled with anticipation?  

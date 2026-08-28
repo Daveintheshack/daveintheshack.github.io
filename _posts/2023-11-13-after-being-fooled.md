@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "After Being Fooled"
 author: "Dave in the Shack"
 date:   2023-11-13 13:46:00 -0600
 original_url: https://daveintheshack.blogspot.com/2023/11/after-being-fooled.html
-tags: [Travel, Fishing, Christmas]
+tags: [Travel, Health, 2023]
 ---
 
 In the fall of 1974 in Aberdeen Scotland, after being fooled, quitting a perfectly good job, getting cheated out a hundred bucks, and losing out on a job that never existed I retreated a bit.  It’s instinct, I think.  I slowed down, slept in, withdrew from most conversations, and stayed to myself. 

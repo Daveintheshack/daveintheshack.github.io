@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Kids in Lock Up"
 author: "Dave in the Shack"
 date:   2013-09-20 01:04:00 -0500
 original_url: https://daveintheshack.blogspot.com/2013/09/kids-in-lock-up.html
-tags: [Gardening, Christmas]
+tags: [Christmas, 2013]
 ---
 
 It’s hard to see kids locked up. This week I visited, as a volunteer of the John Howard Association, the Illinois Youth Center at St. Charles, operated by the Illinois Department of Juvenile Justice. The John Howard Association advocates for prison and justice system reform by encouraging the adoption of enlightened public policy while at the same time ensuring government adheres to the policies now on the books for incarcerated people. We toured the many buildings that make up the campus of St. Charles, those still in use that is. A number of buildings are old and ramshackle, awaiting demolition. Demolition costs money, however, and money is in short supply at St. Charles, which is ironic.  

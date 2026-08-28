@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Imagining a Warmer Day"
 author: "Dave in the Shack"
 date:   2014-11-20 15:14:00 -0600
 original_url: https://daveintheshack.blogspot.com/2014/11/imagining-warmer-day.html
-tags: [Family, Gardening]
+tags: [Personal-Essays, 2014]
 ---
 
 Tuesday, November 18, 2014, it was 8 degrees at 6:30 in the morning. That’s the coldest temperature on record since 1903. Heck, it was 5 degrees in Red Lake, Ontario 1100 miles north of here, not unusual for them. But Thanksgiving is next week. It’s not supposed to be that cold in Illinois.  

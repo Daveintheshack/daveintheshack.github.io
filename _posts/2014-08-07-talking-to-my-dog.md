@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Talking to My Dog"
 author: "Dave in the Shack"
 date:   2014-08-07 10:43:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/08/talking-to-my-dog.html
-tags: [Family]
+tags: [The-Shack, 2014]
 ---
 
 *I knew I had written something about Ally, my dog who was recently and mercifully killed, but I couldn’t find it. I’ve written lots of things I didn’t know what to do with and where I put them is anybody’s guess. I finally found it in this blog. There are seventy (70) posts now on Dave in the Shack, although I know the old ones rarely appear on your screen. You have to click around to find them. It was written in 2011, while I was still working, and the blog was just beginning. I didn’t know exactly what to do with a blog then; how people would find it or who would read it. So I tweaked it and moved it up to the top of the Dave in the Shack list. Hope you like it. I’m writing one more dog drama after this, about farm dogs, for something like a canine trilogy. After that I promise I’ll get off dogs and on to something else.*  

@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "The Feel of a Good Book"
 author: "Dave in the Shack"
 date:   2019-07-31 16:51:00 -0500
 original_url: https://daveintheshack.blogspot.com/2019/07/the-feel-of-good-book.html
-tags: [Family, Travel, Fishing, Aging, Books]
+tags: [Family, Fishing, Aging, Books, 2019]
 ---
 
 Besides the obvious there is a difference between traveling and staying home.  When you travel you seek out the new: foods, people, places, experiences, conversations.  When you stay home you bask in the familiar, and the new comes to you almost accidentally.  But it’s possible, with age, to rediscover what was once new and enjoy it again no matter where you are.  

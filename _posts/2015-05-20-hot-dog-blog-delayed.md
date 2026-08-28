@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Hot Dog Blog delayed"
 author: "Dave in the Shack"
 date:   2015-05-20 11:30:00 -0500
 original_url: https://daveintheshack.blogspot.com/2015/05/hot-dog-blog-delayed.html
-tags: [Personal-Essays]
+tags: [The-Shack, 2015]
 ---
 
 I haven’t posted to Dave in the Shack for nearly a week. I’m working on a hot dog blog and have run into a snag. I’d like to say it is due to circumstances beyond my control, but that’s not true. When you write and self publish a personal blog you control everything.  

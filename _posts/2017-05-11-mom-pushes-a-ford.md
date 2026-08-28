@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Mom Pushes a Ford"
 author: "Dave in the Shack"
 date:   2017-05-11 16:53:00 -0500
 original_url: https://daveintheshack.blogspot.com/2017/05/the-piece-below-is-memory-of-my-mom-her.html
-tags: [Christmas]
+tags: [Personal-Essays, 2017]
 ---
 
 *The piece below is a  memory of my Mom in her fifties.  It is taken from my* *nearly completed* *and upcoming collection of farm stories.*   

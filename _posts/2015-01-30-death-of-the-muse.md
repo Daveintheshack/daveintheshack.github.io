@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Death of the Muse"
 author: "Dave in the Shack"
 date:   2015-01-30 15:27:00 -0600
 original_url: https://daveintheshack.blogspot.com/2015/01/death-of-muse.html
-tags: [Gardening]
+tags: [Books, 2015]
 ---
 
 This Dave in the Shack blog has always been a first person narrative. The person is me. It’s my voice that comes through, and I’ve worked to make it as genuine and consistent as possible. It’s creative non-fiction. Some of my posts are diary like, some essays, but all of them are an account of something that I’ve done, something that has happened to me, or something I’ve been thinking. I unabashedly use the pronoun “I” all the time, like I’m doing now. I change things for story purposes sometimes, but for the most part what I write is life as I see it shared with you. You all know that right? I don’t have a tape recorder and a movie camera out there. I make things up when it suits the story better, but it’s by and large true.  

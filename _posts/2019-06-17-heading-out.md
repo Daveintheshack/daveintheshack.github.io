@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Heading Out"
 author: "Dave in the Shack"
 date:   2019-06-17 11:26:00 -0500
 original_url: https://daveintheshack.blogspot.com/2019/06/heading-out.html
-tags: [Road-Trips, Civil-Rights-History, Travel, Politics, Current-Events, Music, Christmas]
+tags: [Civil-Rights-History, Travel, Cars, Current-Events, 2019]
 ---
 
 My road trip plan, such that it was, was completed.   1.       Get to Alabama 2.       Visit Birmingham, Montgomery, Selma 3.       Take notes  

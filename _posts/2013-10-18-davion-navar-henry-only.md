@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Davion Navar Henry Only"
 author: "Dave in the Shack"
 date:   2013-10-18 12:38:00 -0500
 original_url: https://daveintheshack.blogspot.com/2013/10/davion-navar-henry-only.html
-tags: [Personal-Essays]
+tags: [Personal-Essays, 2013]
 ---
 
 *You might not think retired guys have busy weeks but it happens. Rather than slap out an update in an hour or so I decided to pass on this story that appeared in the Huffington Post. It began, I think, in the Tampa Bay Times and also was written up in Newsweek. I subscribe to a virtual clipping service that e mails me articles about child welfare and juvenile justice in the Midwest and beyond. This one caught my eye. There are so many more kids like this boy out there. Few of us are aware of them, and almost none of them are able to communicate their plight, let alone see it make national news. This boy was lucky. It could save his life I think. Make sure you read this one.  

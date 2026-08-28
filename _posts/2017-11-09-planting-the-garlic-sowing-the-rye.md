@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Planting the Garlic, Sowing the Rye"
 author: "Dave in the Shack"
 date:   2017-11-09 08:46:00 -0600
 original_url: https://daveintheshack.blogspot.com/2017/11/planting-garlic-sowing-rye.html
-tags: [Gardening]
+tags: [Gardening, 2017]
 ---
 
 It’s amazing how fast it comes upon me, the cold, the change, the diminishing sun, the slowly expanding night.   I’m no doubt in denial, refusing to acknowledge shorter days, the signs of fall.  

@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Road Trip Re-routed."
 author: "Dave in the Shack"
 date:   2018-05-01 16:52:00 -0500
 original_url: https://daveintheshack.blogspot.com/2018/05/road-trip-re-routed.html
-tags: [Road-Trips, Travel]
+tags: [Road-Trips, Travel, Cars, 2018]
 ---
 
 There’s not much Kentucky between Cairo and Tennessee.  Before I knew it I was crossing the state line on Route 51 into South Fulton and heading down Route 43 to Greenfield, Tennessee. Route 43 was still a little well traveled for my taste.  I was looking for America’s backcountry.  At Greenfield I turned off on Route 54 and headed toward Trenton on my way to Humboldt.  The towns thinned out considerably.  About the time I turned onto Rt. 54 the sprinkles on the windshield turned into bona fide rain.  I switched my wipers from intermittent to low and hunched forward a little in the seat.  

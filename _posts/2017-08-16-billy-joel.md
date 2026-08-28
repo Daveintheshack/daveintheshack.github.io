@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Billy Joel"
 author: "Dave in the Shack"
 date:   2017-08-16 20:57:00 -0500
 original_url: https://daveintheshack.blogspot.com/2017/08/billy-joel.html
-tags: [Music]
+tags: [Music, 2017]
 ---
 
 *Note to Readers:  I didn’t give you the links for all the songs I’m writing about tonight.  They’re easily searchable and playable.  But here’s an idea.  If you have one of those devices, an Amazon Echo, an Echo dot, or some other such AI device that responds to your voice commands, tell it to play those songs for you while I write about them.  It will enhance your Dave in the Shack experience.*  

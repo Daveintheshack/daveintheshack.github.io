@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Back to Work in Guatemala"
 author: "Dave in the Shack"
 date:   2023-03-18 09:42:00 -0500
 original_url: https://daveintheshack.blogspot.com/2023/03/back-to-work-in-guatemala.html
-tags: [Family, Guatemala, Current-Events]
+tags: [Guatemala, I-Care, Current-Events, Health, 2023]
 ---
 
 I have a lot to write about, starting with something I used to feel every day.  Being part of a larger whole, doing more with many than you can as one.

@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "The 2014 Cubs: Best of the Worst"
 author: "Dave in the Shack"
 date:   2016-10-24 09:50:00 -0500
 original_url: https://daveintheshack.blogspot.com/2016/10/the-2014-cubs-best-of-worst_24.html
-tags: [Gardening]
+tags: [Personal-Essays, 2016]
 ---
 
 *I wrote this post at the end of the 2014 baseball season.  It is worth another look.  It’s about my Dad, a true blue Cub fan, and the team he loved.  The Cubs, two years after this was posted, are in the World Series.  My Dad, born in 1909, is gone.  But as he always said "You Are Where You Are."*  

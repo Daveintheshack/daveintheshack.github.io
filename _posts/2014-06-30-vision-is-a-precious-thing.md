@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Vision is a Precious Thing"
 author: "Dave in the Shack"
 date:   2014-06-30 16:05:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/06/vision-is-precious-thing.html
-tags: [Family, Health]
+tags: [Health, 2014]
 ---
 
 “Hey Dave, would you mind if Ben looks at your corneas?”  

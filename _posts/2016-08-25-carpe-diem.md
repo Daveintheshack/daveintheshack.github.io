@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Carpe Diem"
 author: "Dave in the Shack"
 date:   2016-08-25 09:21:00 -0500
 original_url: https://daveintheshack.blogspot.com/2016/08/im-getting-out-of-here.html
-tags: [Gardening, Fishing, Politics]
+tags: [Gardening, Fishing, 2016]
 ---
 
 Golf has been going well.  If you have golfed much at all you know that as a game golf presents great challenges.  You can play really well Tuesday, hitting the ball a long way, more or less where you intended, connecting solidly on nearly all your swings, chaining together three or four good shots in a row, putts included, to score well.  Try as you might, knowing it’s not true but unable to stop yourself, you begin to secretly believe that golf, at least for you, after all these years, has at long last become a fairly easy game.  There’s a bounce to your step.  You feel skilled and accomplished.  If life was an ocean you would be skimming over it like a surfer, ahead of the wave, triumphant.  

@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Road Trip Epilogue"
 author: "Dave in the Shack"
 date:   2014-12-24 08:50:00 -0600
 original_url: https://daveintheshack.blogspot.com/2014/12/road-trip-epilogue.html
-tags: [Road-Trips, Travel, Gardening, Fishing, Community, Music]
+tags: [Road-Trips, Travel, The-Shack, Fishing, Cars, 2014]
 ---
 
 It’s good to be home. When I got back to the shack everything was as I’d left it Thanksgiving night. It smelled like cigar smoke and from the empty bottles by the stove it was evident the family and I had seriously depleted my stash of hard liquor. I started a fire in the stove, lit a stick of incense, and began to tidy up. Eventually I started writing. As you can see I’m writing now. The shack is warming up.  

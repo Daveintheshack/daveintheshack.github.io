@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Farewell 2015 Cubs and Thank You"
 author: "Dave in the Shack"
 date:   2015-11-04 11:18:00 -0600
 original_url: https://daveintheshack.blogspot.com/2015/11/farewell-2015-cubs-and-thank-you.html
-tags: [Personal-Essays]
+tags: [Personal-Essays, 2015]
 ---
 
 [<img src="/assets/img/blog/2015-11-04-farewell-2015-cubs-and-thank-you-1.jpg" width="240" height="320" />](/assets/img/blog/2015-11-04-farewell-2015-cubs-and-thank-you-1.jpg) So much has been written about the Cubs, but now with the World Series over and the time changed, all the hype fades till February when pitchers and catchers report to spring training.  The baseball news gets skinny in the regular press; confined to trades, acquisitions, and the business side of baseball.  I took down the Tribune full page player photos and the W towel from the shack.   

@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Bushwhacked Again"
 author: "Dave in the Shack"
 date:   2018-09-10 12:59:00 -0500
 original_url: https://daveintheshack.blogspot.com/2018/09/bushwhacked-again.html
-tags: [Fishing, Community, Health]
+tags: [Health, 2018]
 ---
 
 Once again I was bushwhacked by our health care system and, while not exactly held against my will, told by a nice ER doc (everyone is nice of course) I would more or less be a fool to leave.   

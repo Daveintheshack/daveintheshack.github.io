@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "A Picture is Worth a Thousand Words?"
 author: "Dave in the Shack"
 date:   2022-07-15 09:20:00 -0500
 original_url: https://daveintheshack.blogspot.com/2022/07/a-picture-is-worth-thousand-words.html
-tags: [Family, Politics]
+tags: [June, The-Shack, 2022]
 ---
 
 **A Picture is Worth a Thousand Words**

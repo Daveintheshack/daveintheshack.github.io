@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Ebola Fever"
 author: "Dave in the Shack"
 date:   2014-10-23 14:49:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/10/ebola-fever.html
-tags: [Personal-Essays]
+tags: [Books, 2014]
 ---
 
 When I left work on September 11, 2001 there were long lines at the gas station in Ottawa. Cars clogged the drive of the Clark Station on Jefferson, and Conroy’s up by Route 80. I stopped by Kroger, not in reaction to the death and destruction in New York but because we were out of eggs. The aisles were jammed with shoppers buying canned goods, bread, and milk. I’d never seen it, the type of group fear that human beings exhibit when they sense danger, but there it was. Bad things had happened in the homeland, every airplane in the nation was grounded, the future was uncertain, and America was hunkering down.  

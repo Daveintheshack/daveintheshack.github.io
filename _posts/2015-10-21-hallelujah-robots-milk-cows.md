@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Hallelujah! Robots Milk Cows!"
 author: "Dave in the Shack"
 date:   2015-10-21 09:14:00 -0500
 original_url: https://daveintheshack.blogspot.com/2015/10/hallelujah-robots-milk-cows.html
-tags: [Travel, Gardening]
+tags: [Personal-Essays, 2015]
 ---
 
 Graniteville, Vt. (AP)- (Excerpt) *Robots have taken up residence at some small and medium sized dairy farms across the country, providing reliable and more efficient labor and helping businesses remain viable.* *  

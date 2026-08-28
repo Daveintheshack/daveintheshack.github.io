@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "The Road to Belfast"
 author: "Dave in the Shack"
 date:   2019-11-14 12:06:00 -0600
 original_url: https://daveintheshack.blogspot.com/2019/11/the-road-to-belfast.html
-tags: [Ireland, Current-Events, Aging]
+tags: [Ireland, Current-Events, 2019]
 ---
 
 Tooling around Ireland is not like traveling in the States.  Distance is abbreviated.   You can drive from coast to coast, from way south Cork to way north Ballycastle, in 5 hours and 10 minutes.  We could have driven straight east from Donegal to Belfast, west coast to east, in just over two hours.  Instead, we looped up north.  We found we had plenty of time.  Besides, we had places to go and things to see.   

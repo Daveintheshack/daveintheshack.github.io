@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "A Day in Court"
 author: "Dave in the Shack"
 date:   2025-05-23 13:21:00 -0500
 original_url: https://daveintheshack.blogspot.com/2025/05/a-day-in-court.html
-tags: [Family, Politics, Current-Events]
+tags: [Politics, Current-Events, 2025]
 ---
 
 For Antonio, long a friend of our son and our family, April 23, 2025, was not a normal day. He was scheduled to appear in federal court at the Dirksen building, 77 W. Jackson, downtown Chicago.

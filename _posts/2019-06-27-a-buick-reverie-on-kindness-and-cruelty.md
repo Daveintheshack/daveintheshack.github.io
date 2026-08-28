@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "A Buick Reverie on Kindness and Cruelty"
 author: "Dave in the Shack"
 date:   2019-06-27 14:53:00 -0500
 original_url: https://daveintheshack.blogspot.com/2019/06/a-buick-reverie-on-kindness-and-cruelty.html
-tags: [Civil-Rights-History, Travel, Cars, Politics, Music]
+tags: [Civil-Rights-History, Travel, Cars, Politics, Music, 2019]
 ---
 
 [<img src="/assets/img/blog/2019-06-27-a-buick-reverie-on-kindness-and-cruelty-1.jpg" width="320" height="240" />](/assets/img/blog/2019-06-27-a-buick-reverie-on-kindness-and-cruelty-1.jpg)  

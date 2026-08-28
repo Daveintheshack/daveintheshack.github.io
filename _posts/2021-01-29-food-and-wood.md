@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Food and Wood"
 author: "Dave in the Shack"
 date:   2021-01-29 13:03:00 -0600
 original_url: https://daveintheshack.blogspot.com/2021/01/food-and-wood.html
-tags: [Family, Gardening, Food, Politics, Current-Events]
+tags: [Gardening, The-Shack, Food, Politics, Current-Events, 2021]
 ---
 
 I worked as a volunteer for the Obama campaign in 2007.  The weekend before the election between he and John McCain I went to Easton, Iowa in Madison County, where the famous covered bridges are, and went door to door for a weekend passing out campaign material and engaging targeted voters.  As I drove home, I had a feeling he would win.  And when he did, I was relieved.  I purposely turned away from politics for some months after that, taking a break as his administration got settled.  I wanted to see how he shaped the ongoing American debate and created change.   

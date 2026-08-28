@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Baby in the Sun Remembered"
 author: "Dave in the Shack"
 date:   2015-12-30 10:11:00 -0600
 original_url: https://daveintheshack.blogspot.com/2015/12/baby-in-sun-remembered.html
-tags: [Aging, Christmas]
+tags: [The-Shack, Books, 2015]
 ---
 
 If you are new to Dave in the Shack let me tell you how it came to be.  I was the director of Youth Service Bureau of Illinois Valley, a social service agency that serves troubled, abused, neglected and otherwise needy kids and their families.  It was hard work.  I realized at one point that I had to communicate what my organization did, what we valued, and why we mattered much better to everyone involved: my staff, my board of directors, our foster parents, donors, funders, and the community we served.  When we were a little organization I used to brag that we were “too small for rumor.”  You could put everyone in a room and tell them the same thing all at once.  We grew.  It got complicated.   When I realized how easy it was to share information by e mail I began sending out a weekly communiqué to a limited list in house.  Then we found Constant Contact and compiled an even bigger list.  At some point in 2007 I named it the Friday Update.  Then we created a YSB Face Book page and readership grew even larger.  When I retired in 2012 I hadn’t missed a Friday.  

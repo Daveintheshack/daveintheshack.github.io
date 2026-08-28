@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Answer Your Phone"
 author: "Dave in the Shack"
 date:   2016-12-30 10:27:00 -0600
 original_url: https://daveintheshack.blogspot.com/2016/12/answer-your-phone.html
-tags: [Health, Christmas]
+tags: [Christmas, 2016]
 ---
 
 Bad things happen in our own lives and the lives of those around us.  If we can, we protect ourselves by turning away.  We shield ourselves, if possible, from trauma, from ugliness, from imagined scenes we fear will turn to fact and haunt us.  

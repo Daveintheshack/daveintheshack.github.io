@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Road Trip Day One"
 author: "Dave in the Shack"
 date:   2019-03-22 13:06:00 -0500
 original_url: https://daveintheshack.blogspot.com/2019/03/road-trip-day-one.html
-tags: [Road-Trips, Civil-Rights-History, Travel, Christmas]
+tags: [Road-Trips, Travel, Cars, 2019]
 ---
 
 The trouble with old people, just one of the many troubles old people suffer, is they take what they encountered personally or learned from others in the past as truth and ignore new information.  The world changes without them.  History is not so much rewritten as it is scrutinized and made fresh with new facts.  Old people think they know things, when in fact it’s often only half the story.  

@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Change Can Be Infectious"
 author: "Dave in the Shack"
 date:   2020-09-21 13:25:00 -0500
 original_url: https://daveintheshack.blogspot.com/2020/09/change-can-be-infectious.html
-tags: [Family, Ireland, Gardening, Cars, Politics, Current-Events, Music]
+tags: [Gardening, The-Shack, Politics, Current-Events, 2020]
 ---
 
 September 21<sup>st</sup> marks the Autumnal Equinox.  If you’re a nit picker, it officially happens at exactly 8:30 a.m. on the 22<sup>nd</sup>.  At that precise moment length of day is the same everywhere on the planet from the poles to the equator. 

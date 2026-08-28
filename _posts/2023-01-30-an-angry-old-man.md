@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "An Angry Old Man"
 author: "Dave in the Shack"
 date:   2023-01-30 16:12:00 -0600
 original_url: https://daveintheshack.blogspot.com/2023/01/an-angry-old-man.html
-tags: [Family, Current-Events, Aging, Health]
+tags: [Current-Events, 2023]
 ---
 
 [<img src="/assets/img/blog/2023-01-30-an-angry-old-man-1.jpg" width="100" height="100" />](/assets/img/blog/2023-01-30-an-angry-old-man-1.jpg)  

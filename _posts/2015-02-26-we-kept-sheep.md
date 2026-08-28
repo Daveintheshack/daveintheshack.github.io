@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "We Kept Sheep"
 author: "Dave in the Shack"
 date:   2015-02-26 15:28:00 -0600
 original_url: https://daveintheshack.blogspot.com/2015/02/we-kept-sheep.html
-tags: [Food, Cocktails-Spirits]
+tags: [The-Shack, Food, Books, 2015]
 ---
 
 Overall you, my readers, seemed to like the Hot Toddy post last week. Comments were as follows:  

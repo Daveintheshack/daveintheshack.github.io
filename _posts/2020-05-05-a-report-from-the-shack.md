@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "A Report from the Shack"
 author: "Dave in the Shack"
 date:   2020-05-05 15:22:00 -0500
 original_url: https://daveintheshack.blogspot.com/2020/05/a-report-from-shack.html
-tags: [The-Shack, Current-Events]
+tags: [The-Shack, 2020]
 ---
 
 [<img src="/assets/img/blog/2020-05-05-a-report-from-the-shack-1.jpg" width="240" height="320" />](/assets/img/blog/2020-05-05-a-report-from-the-shack-1.jpg) That is the view out the patio doors to the right of my writing desk.  It is a small patch of woods that  comprises most of my world view during these slow days. I feel fortunate to have it.  More happens out there than you might think.   

@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Goodbye to the Trib"
 author: "Dave in the Shack"
 date:   2025-04-07 15:50:00 -0500
 original_url: https://daveintheshack.blogspot.com/2025/04/goodbye-to-trib.html
-tags: [Family, Fishing, Memoir-Writing]
+tags: [Personal-Essays, 2025]
 ---
 
 [<img src="/assets/img/blog/2025-04-07-goodbye-to-the-trib-1.jpg" width="318" height="320" />](/assets/img/blog/2025-04-07-goodbye-to-the-trib-1.jpg)  

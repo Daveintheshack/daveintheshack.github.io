@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "What Did You Expect?"
 author: "Dave in the Shack"
 date:   2016-01-12 06:05:00 -0600
 original_url: https://daveintheshack.blogspot.com/2016/01/what-did-you-expect.html
-tags: [Road-Trips, Travel, Politics, Community, Christmas]
+tags: [Politics, Christmas, 2016]
 ---
 
 Every time I sit down to write a piece about the squalor now called a budget process in Illinois something happens in the news that changes the story.  By the time I finish a piece it’s out of date.  So let’s start with the past in Springfield, that sleepy Central Illinois town where the people we elect to govern our state strive to act in our best interests.  Indulge me while I recall some history.  

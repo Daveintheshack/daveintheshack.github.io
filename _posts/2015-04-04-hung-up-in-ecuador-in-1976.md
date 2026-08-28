@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Hung Up in Ecuador in 1976"
 author: "Dave in the Shack"
 date:   2015-04-04 13:03:00 -0500
 original_url: https://daveintheshack.blogspot.com/2015/04/hung-up-in-ecuador-in-1976.html
-tags: [Road-Trips, Travel, Fishing, Christmas]
+tags: [Road-Trips, Travel, The-Shack, Fishing, 2015]
 ---
 
 A blog reader posed this question: “What did you mean when you said you got hung up in Ecuador in 1976? I thought you did anything you wanted on those trips. What kept you from going to Peru and Machu Picchu?”  

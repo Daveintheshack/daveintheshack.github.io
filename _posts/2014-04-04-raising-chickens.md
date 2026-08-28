@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Raising Chickens"
 author: "Dave in the Shack"
 date:   2014-04-04 13:12:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/04/raising-chickens.html
-tags: [Family, Food]
+tags: [Personal-Essays, 2014]
 ---
 
 On our farm, a 190 acre dairy farm with timber, pasture, and good tillable McLean county soil for crops, Dad was master of the dairy barn and the sheep lot and my Mom the absolute ruler of the hen house. She bought baby chicks, nurtured them, fed them generously, took their eggs, killed them, butchered them, cooked their flesh in various ways, ate them, and started the cycle over the next spring with more baby chicks. To the chickens, had they been able to think like humans, she would have been God-mother, sustainer of life, their executioner and destiny. She filled her roles in the life cycle of those chickens with ease and grace. It was something to behold.  

@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "End of the Road"
 author: "Dave in the Shack"
 date:   2018-06-27 08:18:00 -0500
 original_url: https://daveintheshack.blogspot.com/2018/06/end-of-road.html
-tags: [Road-Trips, Travel, Gardening, Politics]
+tags: [Road-Trips, Travel, Gardening, Cars, Politics, 2018]
 ---
 
 I find the last day of a solo road trip a little sad.  I knew the following day and from then on I would be in the company of friends and family, which is far from a bad thing, but that feeling of traveling alone, being one with your thoughts, free to do whatever you chose without compromise, is gone until the next time.  I assume there will always be a next time, but in truth travels end.  There is a last trip somewhere out there for all of us.  I hope mine is far off.  Yours too. That last day all I had to do was angle across the bottom of Mississippi, cross over a tiny part of Alabama and head into the panhandle of Florida, where I would settle into Pensacola and meet my golfing buddies from Ottawa the following day.  The end was in sight.  

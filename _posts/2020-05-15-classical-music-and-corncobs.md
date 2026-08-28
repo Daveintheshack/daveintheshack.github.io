@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Classical Music and Corncobs"
 author: "Dave in the Shack"
 date:   2020-05-15 14:56:00 -0500
 original_url: https://daveintheshack.blogspot.com/2020/05/classical-music-and-corncobs.html
-tags: [Family, Road-Trips, Travel, Current-Events, Music]
+tags: [The-Shack, Music, 2020]
 ---
 
 I intentionally skipped the news today.  It was driving me crazy.  Instead, bright and early in the shack, I poured a cup of espresso and put Beethoven in the CD changer.  Ludwig von was born 250 years ago, and because of that the discount CD catalog I get featured his stuff.  I bought a couple.  I hadn't gotten around to listening to them.  Somehow, I decided today was the day.   

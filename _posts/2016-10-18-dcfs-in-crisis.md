@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "DCFS in Crisis"
 author: "Dave in the Shack"
 date:   2016-10-18 08:31:00 -0500
 original_url: https://daveintheshack.blogspot.com/2016/10/dcfs-in-crisis.html
-tags: [Family, Politics, Community]
+tags: [Family, Community, 2016]
 ---
 
 After Trump loses the election and those Republicans still standing desperately search for, retrieve, and reassemble the fragments of the GOP, reduced to small jagged pieces like an airliner blown to bits over the ocean, desperately trying to figure out what went wrong and how to fix it, Illinois will still be in trouble.  

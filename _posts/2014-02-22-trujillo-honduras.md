@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Trujillo Honduras"
 author: "Dave in the Shack"
 date:   2014-02-22 16:36:00 -0600
 original_url: https://daveintheshack.blogspot.com/2014/02/trujillo-honduras.html
-tags: [Health]
+tags: [Health, 2014]
 ---
 
 I Care International, a volunteer organization that brings large scale vision clinics to parts of the world where eye care is desperately needed, went back to Trujillo, Honduras for the second year in a row. We just returned from a ten day trip in the early last Sunday, February 16th. I’m just now rested up and reflecting on our experience.  

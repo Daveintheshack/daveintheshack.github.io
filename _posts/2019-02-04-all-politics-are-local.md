@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "All Politics are Local"
 author: "Dave in the Shack"
 date:   2019-02-04 09:43:00 -0600
 original_url: https://daveintheshack.blogspot.com/2019/02/all-politics-are-local.html
-tags: [Politics, Christmas]
+tags: [Politics, 2019]
 ---
 
 I’ve never had an editor, a censor, oversight for my writing in any way.   Memo, letters, press releases, grant applications, stories, and poems have always been what I wanted and how I wanted them for good or ill.  I think of editors mostly in regard to newspapers.  Plenty of good writers were born from the discipline of writing the tight, to the point, factual copy for which newspapers are known.  I’ve always admired good print reporting by writers who churn out words every day for a living.   I subscribe to two newspapers, the Chicago Tribune and my local paper The Times, which primarily covers the Ottawa and Streator communities.   They are both still delivered to my house in addition to my email inbox.  It’s a luxurious expense, most likely unnecessary, especially the print editions, but I hesitate to end them.  Newspapers are being squeezed by a business model which every day favors ink and paper less and digital distribution more.  The problem is financing both in order to pay the writers.  Ads and subscriptions create the money behind newspapers and somehow we all now expect content for free.  

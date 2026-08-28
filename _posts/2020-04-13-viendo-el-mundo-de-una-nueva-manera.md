@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Viendo El Mundo de Una Nueva Manera"
 author: "Dave in the Shack"
 date:   2020-04-13 08:43:00 -0500
 original_url: https://daveintheshack.blogspot.com/2020/04/para-nuestros-amigos-y-nuestras-amigas.html
-tags: [Health]
+tags: [I-Care, 2020]
 ---
 
 *Para Nuestros Amigos y Nuestras Amigas en El Salvador y mas*   

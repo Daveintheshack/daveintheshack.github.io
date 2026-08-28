@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "June is Three"
 author: "Dave in the Shack"
 date:   2024-03-01 21:12:00 -0600
 original_url: https://daveintheshack.blogspot.com/2024/03/june-is-three.html
-tags: [Family, June]
+tags: [June, 2024]
 ---
 
 We spent a long weekend in Chicago celebrating our granddaughter June’s birthday.  It was a doozy.  She can make the “b” sound but somehow has not connected it to the beginning of birthday.  When I walked into her house on Friday, she ran to me busting to talk.

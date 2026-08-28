@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "The Hot Dog Blog"
 author: "Dave in the Shack"
 date:   2015-05-28 09:07:00 -0500
 original_url: https://daveintheshack.blogspot.com/2015/05/the-hot-dog-blog.html
-tags: [Gardening, Fishing, Community]
+tags: [Gardening, 2015]
 ---
 
 We take hot dogs for granted. They are a staple of summer and yet we treat them like a commodity. Nothing could be further from the truth. I could say that hot dogs are as different, one from another, as snowflakes but that would be overdoing it. That would be hot dogging it, another meaning of the word.  I could, and should, be labeled a hot dog for even suggesting no one wiener in a bun is like another. They are. Writing hyperbole like that would be showing off.  

@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Dinner in the Field and other stories"
 author: "Dave in the Shack"
 date:   2026-08-25 17:34:46 -0500
 original_url: https://daveintheshack.blogspot.com/2026/08/dinner-in-field-and-other-stories.html
-tags: [Memoir-Writing]
+tags: [The-Shack, Books, 2026]
 ---
 
 I find you can discover your strengths at any age.  For example, I find I’m a better writer than I am an editor.  I have a full-length draft of a memoir that I’ve devoted countless hours to, and it’s finally finished.  I’m anxious to move on to new material. 

@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Hey, how about the clock?"
 author: "Dave in the Shack"
 date:   2024-04-29 18:57:00 -0500
 original_url: https://daveintheshack.blogspot.com/2024/04/hey-how-about-clock.html
-tags: [Current-Events]
+tags: [The-Shack, 2024]
 ---
 
 I was asked to speak to a local service club by a friend. 

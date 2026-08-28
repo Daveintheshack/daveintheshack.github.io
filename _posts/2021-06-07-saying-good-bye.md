@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Saying Good-Bye"
 author: "Dave in the Shack"
 date:   2021-06-07 11:14:00 -0500
 original_url: https://daveintheshack.blogspot.com/2021/06/dale-and-his-sister-pat-first-of.html
-tags: [Family]
+tags: [Family, Health, 2021]
 ---
 
 [<img src="/assets/img/blog/2021-06-07-saying-good-bye-1.jpg" height="320" />](/assets/img/blog/2021-06-07-saying-good-bye-1.jpg)

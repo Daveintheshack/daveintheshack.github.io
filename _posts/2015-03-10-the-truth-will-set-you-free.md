@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "The Truth Will Set You Free"
 author: "Dave in the Shack"
 date:   2015-03-10 09:02:00 -0500
 original_url: https://daveintheshack.blogspot.com/2015/03/the-truth-will-set-you-free.html
-tags: [Civil-Rights-History, Politics]
+tags: [Marriage, 2015]
 ---
 
 There are times you learn things you wish you had never known. But you cannot avoid the truth, at least you should not. How does that cliché’ go? “The truth will set you free?” It may, but before it does it may well sadden the hell out of you.  

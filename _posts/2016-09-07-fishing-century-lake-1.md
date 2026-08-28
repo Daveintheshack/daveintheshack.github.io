@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Fishing Century Lake 1"
 author: "Dave in the Shack"
 date:   2016-09-07 12:24:00 -0500
 original_url: https://daveintheshack.blogspot.com/2016/09/fishing-century-lake.html
-tags: [Gardening, Fishing, Food, Current-Events]
+tags: [Fishing, 2016]
 ---
 
 A brace of ducks skittered off the water as we rounded the first bend in the Musclow River.  We had eased slowly into the river from the west side of Job Lake.  The ducks flew low with the pines as background and then rose, clearing the tree line into a blue sky where we could see them more clearly before they flew out of sight.  Buffleheads we thought, maybe Mergansers.  Four of us in two boats were on our way to fish Century Lake.  We were worried about the portage.  At least I was.  

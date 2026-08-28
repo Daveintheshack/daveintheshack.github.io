@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Alone Again"
 author: "Dave in the Shack"
 date:   2015-07-02 09:09:00 -0500
 original_url: https://daveintheshack.blogspot.com/2015/07/alone-again_2.html
-tags: [Family]
+tags: [Personal-Essays, 2015]
 ---
 
 I swear tunes migrate from one part of my brain to another and come out of my mouth spontaneously as a whistle. I don’t know where they come from and I don’t know why. At times I don’t even know the name of the song until I hear myself whistling the tune and recognize it. And from time to time they remain just random unnamed tunes. Sometimes I know why that particular song leaps out, because I’ve thought of a related topic, or see something printed that is relevant, or someone speaks words that trigger it in conversation. It’s almost eerie. I must have hundreds of both musical scores and sets of lyrics up there. Because I don’t read music they can’t be visual like sheet music. I don’t know what they are. But both the notes and the lyrics come from somewhere. I hit the right notes with my whistle, usually right away, or I know without thinking what notes to sing if I give voice to the lyrics, also imprinted in my brain.   

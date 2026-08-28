@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "We Kept Sheep"
 author: "Dave in the Shack"
 date:   2012-01-01 14:05:00 -0600
 original_url: https://daveintheshack.blogspot.com/2012/01/we-kept-sheep.html
-tags: [Personal-Essays]
+tags: [Personal-Essays, 2012]
 ---
 
 *I thought I'd kick off 2012 with a farm story from a January long ago. Happy New Year.*  

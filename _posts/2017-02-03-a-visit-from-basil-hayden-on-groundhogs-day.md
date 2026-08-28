@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "A Visit from Basil Hayden on Groundhog's Day"
 author: "Dave in the Shack"
 date:   2017-02-03 10:14:00 -0600
 original_url: https://daveintheshack.blogspot.com/2017/02/a-visit-from-basil-hayden-on-groundhogs.html
-tags: [Travel, Food, Cocktails-Spirits]
+tags: [Cocktails-Spirits, 2017]
 ---
 
 My friend *Basil Hayden* unexpectedly showed up at my door on Groundhog’s Day.  He’s looking good.  Prosperous.  I haven’t seen him since college.  He comes from Kentucky, was in Chicago on business, and stopped by to pay me a visit on his way home.   

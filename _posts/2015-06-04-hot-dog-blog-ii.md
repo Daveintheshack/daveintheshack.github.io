@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Hot Dog Blog II"
 author: "Dave in the Shack"
 date:   2015-06-04 23:05:00 -0500
 original_url: https://daveintheshack.blogspot.com/2015/06/the-blog-continues-with-reviews-of.html
-tags: [Family, Travel, Gardening, Food]
+tags: [Gardening, Food, 2015]
 ---
 
 The blog continues with reviews of personal favorite hot dog establishments and others recommended by readers.  I can’t eat every hot dog in town folks, but I did my best.   

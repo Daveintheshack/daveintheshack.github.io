@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Judging at the 4-H Fair"
 author: "Dave in the Shack"
 date:   2014-07-14 12:26:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/07/judging-at-4-h-fair.html
-tags: [Family, Gardening, Food, Christmas]
+tags: [Family, Food, 2014]
 ---
 
 As it turned out I didn’t judge biscuits at the 4-H Fair after all. I had a different assignment-sponge cake, pie crusts, Focaccia bread (be careful how you say that) and dark German rye bread. Six of us were judging baked goods; five women and me.  

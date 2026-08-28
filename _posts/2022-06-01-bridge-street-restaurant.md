@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Bridge Street Restaurant"
 author: "Dave in the Shack"
 date:   2022-06-01 14:44:00 -0500
 original_url: https://daveintheshack.blogspot.com/2022/06/bridge-street-restaurant.html
-tags: [Family, Travel, Cars, Politics, Current-Events]
+tags: [June, Family, Travel, Cars, Current-Events, 2022]
 ---
 
 [<img src="/assets/img/blog/2022-06-01-bridge-street-restaurant-1.jpg" width="225" height="225" />](/assets/img/blog/2022-06-01-bridge-street-restaurant-1.jpg)

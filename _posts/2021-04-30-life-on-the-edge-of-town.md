@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Life on the Edge of Town"
 author: "Dave in the Shack"
 date:   2021-04-30 11:09:00 -0500
 original_url: https://daveintheshack.blogspot.com/2021/04/life-on-edge-of-town.html
-tags: [Music]
+tags: [Personal-Essays, 2021]
 ---
 
 It was 1976, our first winter in that house between the canal and the railroad tracks.  We were one house away from the dead-end on our side of the street, and on the other side, Harriet’s trailer was dead last. 

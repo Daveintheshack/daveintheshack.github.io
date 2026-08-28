@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "February Sucks"
 author: "Dave in the Shack"
 date:   2018-02-02 20:57:00 -0600
 original_url: https://daveintheshack.blogspot.com/2018/02/february-sucks.html
-tags: [Gardening, Christmas]
+tags: [Christmas, 2018]
 ---
 
 Good thing February is short.  It’s my least favorite month.  There is the brief respite of Valentine’s Day, if you have a valentine.  If you don’t, February is even worse.  Winter, which can be a welcome break even here in the Midwest, has been experienced.  Christmas and New Year’s are over.  Snow has come and gone.  We’ve put up lights and trees and taken them down.  The parties are over.  We’re ready to move on to spring, which begins in March.  But there is February to live through, and February sucks.  

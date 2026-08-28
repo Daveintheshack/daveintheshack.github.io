@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Yesterday I went to Court"
 author: "Dave in the Shack"
 date:   2015-02-06 00:17:00 -0600
 original_url: https://daveintheshack.blogspot.com/2015/02/yesterday-i-went-to-court.html
-tags: [Personal-Essays]
+tags: [The-Shack, 2015]
 ---
 
 It was -6 when I walked to the shack this morning. It takes a while to warm up this little room on a day so cold. Yesterday I took one of the dog food bags stuffed with wood scraps I saved from building the shack and split the scrap into burnable pieces. I’m running out of them. As I split the wood I remembered where it came from. That bag contained the short ends of the tongue and groove boards used for inside and outside siding and flooring. Cedar (which splits like butter) on the outside, spruce on the inside, fir for the floor. Perfect kindling. My brother, brother in law, and two nephews helped with the cedar siding. We accomplished so much in one day with that crew. The shack is 11’6” square. Over and over I bought twelve foot lumber, which created these nice 6” scraps. Those bags of scrap are almost gone. Like cobs, I have yet no source to replenish them.  

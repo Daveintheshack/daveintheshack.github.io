@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Lunch in Louisiana"
 author: "Dave in the Shack"
 date:   2018-06-05 08:53:00 -0500
 original_url: https://daveintheshack.blogspot.com/2018/06/lunch-in-louisiana.html
-tags: [Travel, Gardening, Christmas]
+tags: [Travel, 2018]
 ---
 
 Soon after I crossed the Louisiana state line, traveling south on Route 425, I stopped In Bostrop for an oyster po’boy sandwich.   I’d been imagining that sandwich for quite a while.  Sam’s Southern Eatery looked to be the ideal place.  Old.  Their sign could have dated back to the 60’s.  I realized Sam might be long gone, but there were lots of cars in the parking lot.  When I entered I was slammed by with smell of hot seafood in deep fryers.  Fried shrimp baskets were their specialty.  I had my mind on oysters. Back in the nineties a couple from Louisiana bought Fred’s Carry Outs across the street from the YSB office on Madison and made a go of it for only a short time.  They occasionally put a spicy shrimp po’boy on special and I inquired about oyster po’boys.  They reported they wouldn’t serve them because they just could not find good oysters in Illinois.  

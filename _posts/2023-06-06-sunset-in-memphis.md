@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Sunset in Memphis"
 author: "Dave in the Shack"
 date:   2023-06-06 12:02:00 -0500
 original_url: https://daveintheshack.blogspot.com/2023/06/sunset-in-memphis.html
-tags: [Civil-Rights-History, Travel, Politics, Current-Events, Music]
+tags: [Civil-Rights-History, Travel, Politics, Current-Events, Books, 2023]
 ---
 
 It was late afternoon in Memphis when I said goodbye to the bartender at Pearl’s Oyster House and walked back to the Chevy.  When I got to where it was parked, I looked down the street.  It felt wrong to leave town without paying my respects to the site of the most significant event in Memphis history.  I walked on, past my car.

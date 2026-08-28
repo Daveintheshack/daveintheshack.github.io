@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Animal Stories"
 author: "Dave in the Shack"
 date:   2019-09-19 16:55:00 -0500
 original_url: https://daveintheshack.blogspot.com/2019/09/animal-stories.html
-tags: [Family]
+tags: [The-Shack, 2019]
 ---
 
 When friends visit the shack they sit on the futon looking east through the glass patio doors at the ravine and me, while I sit in my chair looking west at a more solid shack wall and them.   My friend Lonny visited the shack and while talking looked past me.  His face changed, eyes got wider, mouth formed an O.  I knew he’d seen something.  

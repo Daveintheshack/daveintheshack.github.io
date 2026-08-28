@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "June’s First Year of School"
 author: "Dave in the Shack"
 date:   2025-07-16 16:24:00 -0500
 original_url: https://daveintheshack.blogspot.com/2025/07/junes-first-year-of-school.html
-tags: [Family, June]
+tags: [June, 2025]
 ---
 
 I visited June’s school before she finished her first year at the end of May.  June is my four-year-old granddaughter. Although June would correct me and say four and **a half!**

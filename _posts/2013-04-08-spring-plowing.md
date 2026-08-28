@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Spring Plowing"
 author: "Dave in the Shack"
 date:   2013-04-08 08:50:00 -0500
 original_url: https://daveintheshack.blogspot.com/2013/04/spring-plowing-in-sloping-field-east-of.html
-tags: [Personal-Essays]
+tags: [Personal-Essays, 2013]
 ---
 
 In the sloping field east of the house I was driving the Minneapolis tractor pulling a three bottom moldboard plow mounted on a three point hitch, going deep, turning over long ribbons of black dirt and making a furrow. The right tires of the tractor were in the furrow, tilting the tractor to one side. My Dad had gotten me started, “laying out the land” as he called it, by plowing the first two furrows side by side and straight. I continued by following those two furrows he’d laid down in the center of the field, raising the plow at the end before the fence, driving to the other furrow, lowering the plow, and heading back in the direction I came. Away from the house and toward the house, away from the house and towards the house, the patch of black plowed dirt getting wider and wider in the middle of the field, the unplowed field, corn stalks whitened and left over from the winter, getting narrower towards the edges. It was still cold in the spring of 1964 but the sun was out. As I drove back and forth I stared at the front tire of the Minnie turning in the furrow. No cabs on tractors then, I spent the day in open air. I liked the dirt smell. I loved the sameness of plowing, the simplicity. I was thirteen.  

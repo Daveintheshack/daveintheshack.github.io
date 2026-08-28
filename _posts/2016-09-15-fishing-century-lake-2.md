@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Fishing Century Lake 2"
 author: "Dave in the Shack"
 date:   2016-09-15 10:06:00 -0500
 original_url: https://daveintheshack.blogspot.com/2016/09/fishing-century-lake-2.html
-tags: [Family, Fishing, Food, Aging]
+tags: [Fishing, 2016]
 ---
 
 I loaded my backpack with gear and swung it onto my shoulders. In one hand I held only the light portage poles in their cases, the other hand free.  My companions, younger than I, carried more.  They carried the coolers and a two gallon can of gas for the portage boats if needed.   We started by going up and over a boulder by the river, and then the path plunged straight into the woods.  Saying it was a path may be an overstatement.  

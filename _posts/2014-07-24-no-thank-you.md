@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "No Thank You"
 author: "Dave in the Shack"
 date:   2014-07-24 19:44:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/07/no-thank-you.html
-tags: [Gardening, Health]
+tags: [Personal-Essays, 2014]
 ---
 
 Nursing homes have changed. Despite my good intentions of visiting old friends stacked away in what I pictured as sad institutions, I haven’t made it past the lobby and into a nursing home resident’s room in twenty years. In my mind nursing homes were like the one I worked at in the seventies. A long yellow brick building stretched parallel to the street, three floors and a basement housing the kitchen, dining room, and recreation area. Three nurse’s stations were stacked one on top of the other in the very middle of the building, two long dark halls extending each way from the nurse’s stations.  

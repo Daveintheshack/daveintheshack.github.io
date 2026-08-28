@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Tumultuous Days in America"
 author: "Dave in the Shack"
 date:   2021-01-08 15:35:00 -0600
 original_url: https://daveintheshack.blogspot.com/2021/01/tumultuous-days-in-america.html
-tags: [Politics, Music]
+tags: [The-Shack, Politics, Music, 2021]
 ---
 
 I’m on a run of missing important historical moments.  On the second Monday of September 2001 the Bob Dylan CD I had pre-ordered, **Love and Theft**, came in the mail.  I waited till the next morning after Dean and I had breakfast and he was out the door in time for school before I put it in the stereo.  I cranked it up and played it twice. The third time I started singing along.  Then I took it to my car and played it as I drove down the hill to the office. 

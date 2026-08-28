@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Write Hard and Clear"
 author: "Dave in the Shack"
 date:   2017-06-01 19:11:00 -0500
 original_url: https://daveintheshack.blogspot.com/2017/06/write-hard-and-clear.html
-tags: [Politics, Community, Memoir-Writing]
+tags: [Politics, Memoir-Writing, Books, 2017]
 ---
 
 I still get the Tribune delivered to my door and save clippings from it for blog posts I intend to write.  The shack is filling up with pieces of paper about Bruce Rauner and the Illinois legislature.  I have started this piece many times and deleted it.  It’s painful.  But just today I read an applicable quote in another article I saved, on Stacy Keatch totally blowing his lines in a one man play about Hemingway.  The play, “Pamplona”, which I have tickets to later this month, was halted half way through on opening night last night and cancelled today.  Word has it Stacy is getting medical treatment. Here’s what Hemingway once said:  

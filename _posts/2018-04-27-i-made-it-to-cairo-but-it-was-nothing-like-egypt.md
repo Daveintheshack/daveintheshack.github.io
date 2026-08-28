@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "I made it to Cairo, but it was nothing like Egypt"
 author: "Dave in the Shack"
 date:   2018-04-27 14:34:00 -0500
 original_url: https://daveintheshack.blogspot.com/2018/04/i-made-it-to-cairo-but-it-was-nothing.html
-tags: [Civil-Rights-History, Travel, Food, Current-Events]
+tags: [Civil-Rights-History, Travel, Cars, 2018]
 ---
 
 When I woke up in Cape Girardeau Missouri not only was it still raining, it was foggy.  When I opened the hotel blinds I couldn’t see my Buick  across the parking lot. I hadn’t slept well.  I kept waking up wondering where I was and what I was doing.  Seems like I used to adapt more quickly.     

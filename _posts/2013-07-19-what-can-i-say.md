@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "What Can I Say?"
 author: "Dave in the Shack"
 date:   2013-07-19 23:15:00 -0500
 original_url: https://daveintheshack.blogspot.com/2013/07/what-can-i-say.html
-tags: [Family, Music]
+tags: [Family, Music, 2013]
 ---
 
 Last Friday I saw Bob Dylan perform in Bridgeview’s Toyota Park. He was the headliner of the Americanarama tour, which is playing this summer in medium size venues like the soccer stadium in Chicago’s near southwest suburbs. The night before they had played Peoria. Appearing with Dylan were two great bands My Morning Jacket and Wilco.  

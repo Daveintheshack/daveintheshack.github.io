@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Santa Comforts a Friend by the Fox"
 author: "Dave in the Shack"
 date:   2023-12-27 15:36:00 -0600
 original_url: https://daveintheshack.blogspot.com/2023/12/santa-comforts-friend-by-fox.html
-tags: [Family, Fishing, Christmas]
+tags: [June, Christmas, 2023]
 ---
 
 *This was published in the local papers.  If you don't read me on Face Book you would have missed it.  Thought you might need one more Christmas message.*

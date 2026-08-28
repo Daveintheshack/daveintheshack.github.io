@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Listening"
 author: "Dave in the Shack"
 date:   2013-11-15 10:45:00 -0600
 original_url: https://daveintheshack.blogspot.com/2013/11/listening.html
-tags: [Personal-Essays]
+tags: [Personal-Essays, 2013]
 ---
 
 A guy I’ve known for years told me a story this past week. That is not unusual. It seems as if people have been telling me stories, or trying to, my whole life. I wish I had found the time to listen to them all but I just didn’t. For a long time there I thought I was too busy to keep my own mouth shut and sit quietly as someone talked and I took it in. Nowadays I find myself becoming, I hope, the curious and patient listener I remember myself being before I worked so much. This railroad story was told to me by a man who worked in LaSalle as a switchman while going to LPO junior college in the sixties. He went on to accomplish many other things. It took place in 1963, which was fifty years ago. I can’t quite comprehend that.  

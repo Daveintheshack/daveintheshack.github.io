@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Road Trip-Leaving Illinois"
 author: "Dave in the Shack"
 date:   2018-04-16 16:18:00 -0500
 original_url: https://daveintheshack.blogspot.com/2018/04/road-trip-leaving-illinois.html
-tags: [Road-Trips, Travel, Fishing]
+tags: [Road-Trips, Travel, Fishing, Cars, 2018]
 ---
 
 *(from previous post) I had breakfast at the counter and brought in the Atlas in to peruse.  By the looks of it all the other diners were  having the buffet.  I knew what I wanted before I sat down.  Fried mush with eggs.  As I waited for my order to come up I opened the road atlas to Illinois and looked at where I might go next.  The Dixie was as far as I’d figured it out.* In my mind this road trip was a river run.  I wanted to follow the Mississippi, more or less, skip New Orleans and cut over to Pensacola where I would join Ottawa friends flying in for a four day golf trip.  Though I was going south and east in the end, I first wanted to get to America’s big river.  I found McLean in the atlas and considered my options.  Then breakfast arrived.  

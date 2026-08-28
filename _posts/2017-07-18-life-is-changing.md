@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "LIfe is Changing"
 author: "Dave in the Shack"
 date:   2017-07-18 12:20:00 -0500
 original_url: https://daveintheshack.blogspot.com/2017/07/life-is-changing.html
-tags: [Road-Trips, Travel, Music]
+tags: [Personal-Essays, 2017]
 ---
 
 Forgive me for the big gap between blog posts.  I’m hung up on what I want to say about a trip to the city, an artist, an idea.  So I’m putting it aside for a while and moving on.  Just thought I would check in.   

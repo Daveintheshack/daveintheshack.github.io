@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Brussels Sprouts (Thanksgiving 2025)"
 author: "Dave in the Shack"
 date:   2025-12-06 11:59:00 -0600
 original_url: https://daveintheshack.blogspot.com/2025/12/brussels-sprouts-thanksgiving-2025-june.html
-tags: [Gardening]
+tags: [June, Gardening, 2025]
 ---
 
 June was with me in the spring when we planted the garden.  She had just turned four.  I explained what each plant was. 

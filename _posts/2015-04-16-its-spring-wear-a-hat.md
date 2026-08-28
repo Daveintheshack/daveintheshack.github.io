@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "It's Spring.  Wear a Hat."
 author: "Dave in the Shack"
 date:   2015-04-16 09:36:00 -0500
 original_url: https://daveintheshack.blogspot.com/2015/04/its-spring-wear-hat.html
-tags: [Guatemala, Travel, Gardening, Christmas]
+tags: [Gardening, The-Shack, Christmas, 2015]
 ---
 
 I can’t imagine that I haven’t written this same post before. Every year spring wakes me up. Joy and warmth find their way into my old and worn heart, still beating after 64 cold winters. Spring is the same and yet it seems so new. I bet each April I celebrate and write about these same wondrous events. I don’t care if I repeat myself. Spring deserves an annual homage.  

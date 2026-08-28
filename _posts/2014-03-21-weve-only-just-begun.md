@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "We've Only Just Begun"
 author: "Dave in the Shack"
 date:   2014-03-21 17:20:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/03/weve-only-just-begun.html
-tags: [Family, Politics, Community]
+tags: [Politics, 2014]
 ---
 
 In the category of coincidental and strange these two events both happened during this past week. On Wednesday night I was at church waiting in line for a bowl of soup at our Lenten service when I looked on the floor and saw a tiny slip of paper. I picked it up and found it was a fortune from a cookie. It read “All of us are ignorant, only on different subjects.” I put it in my pocket.  

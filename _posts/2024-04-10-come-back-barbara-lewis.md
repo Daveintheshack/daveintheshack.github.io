@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Come Back Barbara Lewis"
 author: "Dave in the Shack"
 date:   2024-04-10 13:53:00 -0500
 original_url: https://daveintheshack.blogspot.com/2024/04/come-back-barbara-lewis.html
-tags: [Family, Current-Events, Music]
+tags: [Personal-Essays, 2024]
 ---
 
 Do words, sounds and images enter your brain mysteriously and stay there?  Do you wonder where they come from?  And are you amazed at how long they stay?  I do.  It borders on creepy.   Here’s what happened Friday morning.

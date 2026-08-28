@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Those Poor Poets"
 author: "Dave in the Shack"
 date:   2017-06-30 13:34:00 -0500
 original_url: https://daveintheshack.blogspot.com/2017/06/those-poor-poets.html
-tags: [Family, Music]
+tags: [Personal-Essays, 2017]
 ---
 
 On this last day of Illinois’ fiscal year, on the brink of the financial abyss, I have chosen not to rant politically but rather to blog about POETRY.  

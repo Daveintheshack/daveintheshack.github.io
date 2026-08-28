@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "A Week Away"
 author: "Dave in the Shack"
 date:   2017-09-12 15:21:00 -0500
 original_url: https://daveintheshack.blogspot.com/2017/09/a-week-away_12.html
-tags: [Gardening, Fishing]
+tags: [Fishing, 2017]
 ---
 
 Eight men lived in a three room cabin  for eight days and seven nights on a lake in western Ontario.  They had no television, radio, phone signal, or internet connection.  No outside voices, no news, no information from anywhere else came to them during that week.  You might think it would be awkward, boring, perhaps tiresome.  It wasn’t.   

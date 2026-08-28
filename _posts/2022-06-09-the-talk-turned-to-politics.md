@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "The Talk Turned to Politics"
 author: "Dave in the Shack"
 date:   2022-06-09 17:11:00 -0500
 original_url: https://daveintheshack.blogspot.com/2022/06/the-talk-turned-to-politics.html
-tags: [Family, Travel, Politics]
+tags: [Family, Travel, Politics, 2022]
 ---
 
 There in the Bridge Street Restaurant, I had a feeling my new friend was about to send me to school on West Virginia politics and while I had asked for it, I was a little wary about the next part of our conversation.  I thought maybe dessert would help the conversation remain civil.  Besides that, I saw a sign when I walked in saying they served homemade pie.  That doesn’t happen in America much anymore, and when it does, I do all I can to support it.

@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Thoughts on Fuel and this blog"
 author: "Dave in the Shack"
 date:   2017-12-31 17:20:00 -0600
 original_url: https://daveintheshack.blogspot.com/2017/12/thoughts-on-fuel-and-this-blog.html
-tags: [Family, Fishing, Community, Christmas]
+tags: [The-Shack, Fishing, 2017]
 ---
 
 Soon after I began heating my shack with a small stove my view of wood, and in turn fuel, changed.   Experience alters how we think.   

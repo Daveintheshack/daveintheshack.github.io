@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "A Story for Spring"
 author: "Dave in the Shack"
 date:   2014-04-17 12:25:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/04/a-story-for-spring.html
-tags: [Family, Gardening, Fishing, Current-Events, Aging]
+tags: [Family, Aging, 2014]
 ---
 
 Tonight, for the potluck following my church’s Seder dinner, I’m cooking lamb. My church, an open and affirming UCC church here in Ottawa, has been having Seder dinners for quite a while. Until I attended one I was unfamiliar with the tradition of a Seder, believing it to be a Jewish tradition. And it is. It is a meal served to commemorate the beginning of Passover in the Jewish faith. So why is my protestant Christian church having a Seder meal? Because Jesus was a Jew, as were all the early Christians, and in that sense the Seder is part of our common faith. The meal, and the ritual within the meal, tells the story of the Jewish exodus from Egypt. But I’m not writing about the Seder. I’m writing about the lamb.  

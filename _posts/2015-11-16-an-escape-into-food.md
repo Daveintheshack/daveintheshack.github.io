@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "An Escape into Food"
 author: "Dave in the Shack"
 date:   2015-11-16 22:44:00 -0600
 original_url: https://daveintheshack.blogspot.com/2015/11/an-escape-into-food.html
-tags: [Family, Gardening, Cocktails-Spirits]
+tags: [Gardening, 2015]
 ---
 
 *Last weekend I wore myself out along with my family and many of my friends by preparing and serving a seven course dinner which was auctioned off this spring at YSB’s Blue Tie Event.  The successful bidders opted to have the dinner for 12 in the upstairs dining hall of Reddick Mansion, an old Italianate Mansion in Ottawa on the town square.  It’s the default dinner site, although we’ll prepare and serve a meal anywhere the bidder chooses (within reason) providing there’s a suitable kitchen.* *  

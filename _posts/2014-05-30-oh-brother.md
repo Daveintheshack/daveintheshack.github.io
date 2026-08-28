@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Oh Brother"
 author: "Dave in the Shack"
 date:   2014-05-30 12:13:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/05/oh-brother.html
-tags: [Aging, Christmas]
+tags: [The-Shack, 2014]
 ---
 
 We’d been planning yesterday for a couple of weeks, but the concept of being together again for a day like that was born a long time ago. My brother, who left Illinois for the last time in about 1967, moved home. It gave us the opportunity to see each other at more than weddings and funerals. It was a really good day.  

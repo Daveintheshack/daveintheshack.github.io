@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Finding your Place"
 author: "Dave in the Shack"
 date:   2014-03-13 14:14:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/03/finding-your-place.html
-tags: [Travel]
+tags: [Travel, 2014]
 ---
 
 Remember that young man I bailed out of jail one of those many cold nights this winter? I’m still in touch with him, trying most lately get him proper identification. He has none, zippo, and finds without it he can do very little-buy a bus ticket, open a bank account, fill a prescription, get a job, and so on. How he came to be living without identification is, he says, a long story.  

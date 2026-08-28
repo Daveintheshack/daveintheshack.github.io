@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Garden Report"
 author: "Dave in the Shack"
 date:   2014-06-06 11:13:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/06/garden-report.html
-tags: [Family, Gardening, Food]
+tags: [Gardening, 2014]
 ---
 
 So far it’s been a good year for the McClure garden up here on Fields Hill. I picked and ate way more asparagus than usual. I harvested stalks from our one rhubarb plant and baked a pie. Unlike most years, I managed to plant early rows of spinach, leaf lettuce and radishes. As I had hoped to do for many years, I got four Brussels sprout plants in the ground while it was still cool, giving them a head start on the summer heat. Not only has the weather been mild, with timely rains, but something else has changed. I now have time to think about it.  

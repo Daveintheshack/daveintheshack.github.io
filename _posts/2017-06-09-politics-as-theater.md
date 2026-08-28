@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Politics as Theater"
 author: "Dave in the Shack"
 date:   2017-06-09 13:13:00 -0500
 original_url: https://daveintheshack.blogspot.com/2017/06/politics-as-theater.html
-tags: [Politics]
+tags: [Politics, 2017]
 ---
 
 Following up on last Friday’s blog piece, it turns out Stacy Keatch had a heart attack on stage which prevented him from delivering his lines in the one and only Chicago staging of “Pamplona”, a one man show at the Goodman theater about Ernest Hemingway.  Keatch reported he felt “like this great fog had come over me.  It was the most bizarre moment of my entire career.”  

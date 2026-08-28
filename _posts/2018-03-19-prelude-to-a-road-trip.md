@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Prelude to a Road Trip"
 author: "Dave in the Shack"
 date:   2018-03-19 12:41:00 -0500
 original_url: https://daveintheshack.blogspot.com/2018/03/prelude-to-road-trip.html
-tags: [Road-Trips, Travel, Community]
+tags: [Road-Trips, Travel, 2018]
 ---
 
 [<img src="/assets/img/blog/2018-03-19-prelude-to-a-road-trip-1.jpg" width="240" height="320" />](/assets/img/blog/2018-03-19-prelude-to-a-road-trip-1.jpg)  

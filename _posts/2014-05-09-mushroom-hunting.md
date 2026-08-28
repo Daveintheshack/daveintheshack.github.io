@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Mushroom Hunting"
 author: "Dave in the Shack"
 date:   2014-05-09 15:49:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/05/mushroom-hunting.html
-tags: [Personal-Essays]
+tags: [Personal-Essays, 2014]
 ---
 
 I went mushroom hunting yesterday. Ottawa had its Morel Fest, this year teamed with home brewed beer tasting, last weekend, just about a week early. Didn’t matter much though, they had a great turn out. We’d yet to have a really hot day, the kind that when they happen, in early May, make the mushrooms pop up. Morel mushrooms grow wild in the woods around here. I don’t go expecting to find a lot of mushrooms, because I’m not that good at it. I go mostly to put myself in the woods in early spring. It reminds me of growing up.  

@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Read the Labels on Your Drugs"
 author: "Dave in the Shack"
 date:   2017-05-06 11:13:00 -0500
 original_url: https://daveintheshack.blogspot.com/2017/05/read-labels-on-your-drugs.html
-tags: [Gardening, Health, Memoir-Writing]
+tags: [The-Shack, Health, Books, 2017]
 ---
 
 How about a short miscellaneous blog entry to stay on schedule?  I fell off there for a while.  In my mind I have the idea I should write you more or less once a week, and the longer I’m retired I lose track of the days.  But here’s a rare Saturday account of this and that just to stay in touch.  Last night my wife took me for a car ride in the belief it is good for me to get out.  I’m not sure that’s the case but I went anyway.  I sit in the back with my foot on the console while she drives.  It’s like a scene out of “Driving Miss Daisy.”  

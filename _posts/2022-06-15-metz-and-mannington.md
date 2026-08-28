@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Metz and Mannington"
 author: "Dave in the Shack"
 date:   2022-06-15 16:50:00 -0500
 original_url: https://daveintheshack.blogspot.com/2022/06/metz-and-mannington.html
-tags: [Road-Trips, Travel, Fishing, Cars, Current-Events]
+tags: [Road-Trips, Travel, Cars, 2022]
 ---
 
 Leaving Cameron West Virginia, heading east on Route 250, I had a lot on my mind.  I kept the radio off and the CDs in their brown paper bag.  Driving is good for thinking.

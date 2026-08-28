@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Short Days"
 author: "Dave in the Shack"
 date:   2013-12-05 08:24:00 -0600
 original_url: https://daveintheshack.blogspot.com/2013/12/short-days.html
-tags: [Personal-Essays]
+tags: [The-Shack, 2013]
 ---
 
 On good days, I walk from the house to the shack in the dark. When it’s cold like today I build a fire first thing. The little steel stove is so cold I try not to touch it. I use the lid lifter with my gloves on to open the stove top. If I remember I open up the control on the side, a wheel with empty wedges, to give it more air. When the fire gets hot I will close off some air to make the wood burn longer.  

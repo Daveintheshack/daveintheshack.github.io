@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "It's Good Out There"
 author: "Dave in the Shack"
 date:   2013-09-27 11:20:00 -0500
 original_url: https://daveintheshack.blogspot.com/2013/09/its-good-out-there.html
-tags: [Road-Trips, Travel, Food]
+tags: [Personal-Essays, 2013]
 ---
 
 I met an old friend for lunch Monday in Toluca, about halfway between Ottawa and Peoria. The Italian restaurants we hoped to eat at, either Mona’s or Capponi’s, were closed. We might have known but neither of us checked. As a result, we ended up at a tavern. Funny how that happens. I joke with people that even though I’m retired I stay busy which “keeps me out of the taverns.” Yet there I was.  

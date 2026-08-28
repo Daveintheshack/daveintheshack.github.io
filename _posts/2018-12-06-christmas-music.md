@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Christmas Music"
 author: "Dave in the Shack"
 date:   2018-12-06 14:10:00 -0600
 original_url: https://daveintheshack.blogspot.com/2018/12/i-just-changed-out-5-cds-ive-had-in-my.html
-tags: [Music, Christmas]
+tags: [Christmas, 2018]
 ---
 
 I just changed out the 5 CD’s I’ve had in my changer since my knee replacement in mid-September.  Actually, they were in there before that.  I listened to them all during the fall, and never grew tired of them.  They were:  

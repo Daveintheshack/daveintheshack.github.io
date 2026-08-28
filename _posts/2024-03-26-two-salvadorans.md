@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Two Salvadorans"
 author: "Dave in the Shack"
 date:   2024-03-26 13:32:00 -0500
 original_url: https://daveintheshack.blogspot.com/2024/03/two-salvadorans.html
-tags: [Cars, Health]
+tags: [I-Care, 2024]
 ---
 
 I Care International did something new during its 2024 mission to El Salvador.  We were asked by our hosts to devote our first day of clinic to the residents, staff, and neighbors of a small congregate center for children and adolescents.  We immediately agreed to help.

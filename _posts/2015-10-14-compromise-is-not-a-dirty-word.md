@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Compromise is Not a Dirty Word"
 author: "Dave in the Shack"
 date:   2015-10-14 11:25:00 -0500
 original_url: https://daveintheshack.blogspot.com/2015/10/compromise-is-not-dirty-word.html
-tags: [Politics, Current-Events]
+tags: [I-Care, Politics, 2015]
 ---
 
 Good news drives out the bad easily when we let it.  There are so many things we wish would go away that we crave distraction.  And so the Cub’s post season play takes over our attention along with the Democratic Presidential Candidate debate and we in Illinois and Americans everywhere glide through the waning months of 2015 as if all were well.  Just six days ago there were not one but two more school shootings, and an outcry from the highest levels for increased gun control measures that swiftly faded.  In order to protect each other we have gladly taken our shoes off in airports for fifteen years because of a single and unsuccessful shoe bombing attempt, but yet we shrug off any suggestion of efforts to control gun violence no matter how many children are killed.  I digress.  

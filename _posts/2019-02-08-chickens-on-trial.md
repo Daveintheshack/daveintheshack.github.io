@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Chickens on Trial"
 author: "Dave in the Shack"
 date:   2019-02-08 11:01:00 -0600
 original_url: https://daveintheshack.blogspot.com/2019/02/chickens-on-trial.html
-tags: [Politics, Community]
+tags: [Community, 2019]
 ---
 
 On July 25, 20126 Dave Giuliani covered the opening day of Village of Ransom vs. Randy Stillwell in LaSalle County civil court, otherwise known as “The Chicken Trial,” It opened with a surprising argument.  Attorney Cara Luckey, representing the village, offered this, as written by Giuliani. *In her opening statement, the village's attorney, Cara Luckey, said Stillwell had no evidence showing the village board intended to exempt Stillwell's chickens. Even if it did, she said, Stillwell's chickens in 1997 would no longer be alive.*  

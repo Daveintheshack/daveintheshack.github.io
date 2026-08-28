@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Spring Cleaning"
 author: "Dave in the Shack"
 date:   2021-03-18 16:32:00 -0500
 original_url: https://daveintheshack.blogspot.com/2021/03/spring-cleaning.html
-tags: [Fishing, Current-Events, Health]
+tags: [The-Shack, Current-Events, 2021]
 ---
 
 This spring is different.  Not only are we busting out of darkness and cold, like all northerners who winter at home, we’re leaving behind the year-long isolation of a global pandemic.

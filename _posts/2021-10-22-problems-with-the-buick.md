@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Problems with the Buick"
 author: "Dave in the Shack"
 date:   2021-10-22 13:26:00 -0500
 original_url: https://daveintheshack.blogspot.com/2021/10/problems-with-buick.html
-tags: [Road-Trips, Travel, Gardening, Fishing, Cars, Current-Events]
+tags: [Road-Trips, Travel, Cars, Current-Events, 2021]
 ---
 
 I had a small problem with the Buick while filling it up at Thorntons the other day.

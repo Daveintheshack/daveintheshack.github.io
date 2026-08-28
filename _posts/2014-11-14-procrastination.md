@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Procrastination"
 author: "Dave in the Shack"
 date:   2014-11-14 10:53:00 -0600
 original_url: https://daveintheshack.blogspot.com/2014/11/procrastination.html
-tags: [Personal-Essays]
+tags: [Personal-Essays, 2014]
 ---
 
 After I stopped working I thought some things might change. I was chronically late for most of the thirty four years I worked at YSB. It was a busy place, and I liked to stay busy. I used every bit of time before grant deadlines, sometimes driving the grant to the city where it was to be mailed on the day it was to be submitted. By 5:00 p.m.. By working this way I never gave myself extra time to do things. There was always a certain amount of tension around time, especially travel time. I would stay in my office in Ottawa working until the last possible minute before leaving for a meeting say, in LaSalle. I would do the same thing for long distance meetings in Springfield or Chicago. I got speeding tickets. The smallest things could make me late, a train, a red light or two. And getting lost? Forget about it. If there is no deadline I actually enjoy being lost. But throw a wrong turn into the carefully measured amount of time I’ve spared to travel to an appointment and I’m screwed. Might as well turn around and go home, which I’ve done on occasion. Being held up in any way really makes me mad. I am nearly always alone in the car so no one hears me yelling. It is my place to let off steam. Occasionally, I would whack the passenger seat with the back of my arm. That hasn’t happened in a while. It was road rage of some different type, not directed at other drivers in any way, but at the clock. Time rage I guess. You’re right. That’s stressful and unwise. I know that.  

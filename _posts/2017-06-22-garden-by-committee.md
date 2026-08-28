@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Garden by Committee"
 author: "Dave in the Shack"
 date:   2017-06-22 16:34:00 -0500
 original_url: https://daveintheshack.blogspot.com/2017/06/garden-by-committee.html
-tags: [Family, Gardening, Fishing, Food]
+tags: [Gardening, Fishing, 2017]
 ---
 
 It’s so ironic  in this spring and summer of 2017, when I didn’t take a step on my newly put together left ankle from April 7<sup>th</sup> to June 5<sup>th</sup> , have walked only clumsily since with the help of a knee rolling scooter and crutches, and am still not cleared to bear full weight on my ankle; that my garden looks great.  Better than years in which I got around fairly well on two legs.  How could that happen?  

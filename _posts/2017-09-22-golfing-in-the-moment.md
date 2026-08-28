@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Golfing in the Moment"
 author: "Dave in the Shack"
 date:   2017-09-22 08:08:00 -0500
 original_url: https://daveintheshack.blogspot.com/2017/09/golfing-in-moment.html
-tags: [Health]
+tags: [Personal-Essays, 2017]
 ---
 
 *To build on the change from summer to fall I put a new set of discs into the CD changer here in the shack.  I looked at my music collection and found musicians I haven’t listened to in a long time.  I had one requirement.  No lyrics.  I have writing to do.  Words in my ear interfere with words in my head.*  

@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Are You Good with Uncertainty?"
 author: "Dave in the Shack"
 date:   2023-02-16 11:26:00 -0600
 original_url: https://daveintheshack.blogspot.com/2023/02/are-you-good-with-uncertainty.html
-tags: [Travel, Cars]
+tags: [Cars, 2023]
 ---
 
 [<img src="/assets/img/blog/2023-02-16-are-you-good-with-uncertainty-1.jpg" width="240" height="320" />](/assets/img/blog/2023-02-16-are-you-good-with-uncertainty-1.jpg)You can fall into a trance driving alone on the interstate.  It was the spring of 2022, and I was thinking of where I had just been, the hills of West Virginia, where I followed a two-lane road through a string of failing towns and coal mines.  It was slow going back there.  I was thinking of the people I spoke with, the look on their faces as they talked about the history of their area, the images of buildings in those old towns, the decay, the stubborn hope.  I was still there in my head. In fact, my head was there all the way through the skinny part of Virginia that starts in Rocky Gap and ends in Lambsburg. 

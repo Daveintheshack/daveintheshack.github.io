@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "The Elevator Speech"
 author: "Dave in the Shack"
 date:   2018-01-24 15:15:00 -0600
 original_url: https://daveintheshack.blogspot.com/2018/01/the-elevator-speech.html
-tags: [Road-Trips, Travel, Food, Politics, Memoir-Writing]
+tags: [The-Shack, Politics, Memoir-Writing, 2018]
 ---
 
 [![](/assets/img/blog/2018-01-24-the-elevator-speech-1.jpg)](/assets/img/blog/2018-01-24-the-elevator-speech-1.jpg)  

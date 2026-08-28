@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Believe it or Not II"
 author: "Dave in the Shack"
 date:   2015-05-01 12:27:00 -0500
 original_url: https://daveintheshack.blogspot.com/2015/05/believe-it-or-not-ii.html
-tags: [Personal-Essays]
+tags: [The-Shack, Books, 2015]
 ---
 
 Two volunteers at First UCC church in Ottawa pair up and count the offering, one on the computer the other on the deposit slip, each Sunday in a monthly rotation. Another guy and I do the last Sunday of the month. Soon after we started my partner, a young fellow, said  

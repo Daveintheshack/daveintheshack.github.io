@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "The End of Hitchhiking"
 author: "Dave in the Shack"
 date:   2023-07-14 16:44:00 -0500
 original_url: https://daveintheshack.blogspot.com/2023/07/the-end-of-hitchhiking.html
-tags: [Road-Trips, Fishing]
+tags: [Road-Trips, 2023]
 ---
 
 Have you ever made a flip comment, meant to be humorous, then remembered it later and thought “That might actually be true.” 

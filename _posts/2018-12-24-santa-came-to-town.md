@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Santa Came to Town"
 author: "Dave in the Shack"
 date:   2018-12-24 15:22:00 -0600
 original_url: https://daveintheshack.blogspot.com/2018/12/santa-came-to-town.html
-tags: [Cocktails-Spirits, Politics, Christmas]
+tags: [Cars, Christmas, 2018]
 ---
 
 I ran in to Santa unexpectedly this week.  He was heading into Opportunity School from the parking lot, clothing bag over his shoulder, dressed in jeans, red flannel shirt, and tennis shoes.  He had his head down, with a scarf wrapped around his neck.  I can’t remember seeing him before without the velvet robes and black boots. “Santa, is that you?”  

@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Shelling Corn"
 author: "Dave in the Shack"
 date:   2012-02-23 22:03:00 -0600
 original_url: https://daveintheshack.blogspot.com/2012/02/shelling-corn.html
-tags: [Food]
+tags: [Personal-Essays, 2012]
 ---
 
 When we had dinner, which was the noon meal on the farm, the radio was always on. We might be sitting there talking, or listening to Mom tell some story she’d heard on the phone that morning, but when the noon farm report came on, particularly the grain prices from the Chicago Board of Trade, everything stopped. Dad tuned out. He looked to be gazing out the window above the sink, as if by not looking at anything in particular he could hear better. When he got that look we knew to stop talking so he could hear the grain prices; up a half from yesterday’s close, down three quarters, whatever. It meant little to Mom and I but everything, it seemed, to Dad. If we kept talking he would raise his hand, and if we persisted he would give us a sharp hiss. It meant money to my Dad, but it mattered not at all to me as I never thought about money nor did I hear it discussed. It was Dad’s business. But when he made a decision to sell, and called the Danvers Elevator to close the deal, it meant that real soon we would be shelling corn from the crib.  

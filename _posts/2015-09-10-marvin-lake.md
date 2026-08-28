@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Marvin Lake"
 author: "Dave in the Shack"
 date:   2015-09-10 14:29:00 -0500
 original_url: https://daveintheshack.blogspot.com/2015/09/marvin-llake.html
-tags: [Family, Fishing, Food]
+tags: [Fishing, 2015]
 ---
 
 [<img src="/assets/img/blog/2015-09-10-marvin-lake-1.jpg" width="320" height="240" />](/assets/img/blog/2015-09-10-marvin-lake-1.jpg)  

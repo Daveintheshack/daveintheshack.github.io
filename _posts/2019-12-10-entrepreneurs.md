@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Entrepreneurs"
 author: "Dave in the Shack"
 date:   2019-12-10 11:16:00 -0600
 original_url: https://daveintheshack.blogspot.com/2019/12/entrepreneurs.html
-tags: [Community, Christmas]
+tags: [Christmas, 2019]
 ---
 
 On Black Friday I worked with a small business owner who was closed for the day.  While we worked, I also interviewed her.  

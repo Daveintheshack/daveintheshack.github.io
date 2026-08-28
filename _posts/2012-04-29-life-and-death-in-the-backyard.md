@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Life and Death in the Backyard"
 author: "Dave in the Shack"
 date:   2012-04-29 19:04:00 -0500
 original_url: https://daveintheshack.blogspot.com/2012/04/life-and-death-in-backyard.html
-tags: [Gardening, Fishing]
+tags: [Personal-Essays, 2012]
 ---
 
 A terrible thing is happening at my bird feeder. I’ve been feeding birds for a long time and feeling good about it. My feeder is on a pole, with a plastic dome under it that prevents squirrels from raiding it, twenty feet from the patio door in the back of the house. I feed black oil sunflower seeds to the cardinals and jays and woodpeckers and whatever else makes it way there, and Niger thistle in a tube handing by a side window to the finches. My back yard is big. Where the yard ends a deep ravine starts and when the leaves are on the trees you would think we were on the edge of a wilderness. A green screen shields us from us neighbors across the way. It’s a popular place among our winged friends.  

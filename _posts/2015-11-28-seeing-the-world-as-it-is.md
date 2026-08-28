@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Seeing the World As It Is"
 author: "Dave in the Shack"
 date:   2015-11-28 13:44:00 -0600
 original_url: https://daveintheshack.blogspot.com/2015/11/seeing-world-as-it-is.html
-tags: [Family, Road-Trips, Travel, Health]
+tags: [I-Care, Cars, Health, 2015]
 ---
 
 Waking up one morning in 1975 I saw my roommate’s dog Casey, an Irish Setter, sitting against my bedroom wall.  

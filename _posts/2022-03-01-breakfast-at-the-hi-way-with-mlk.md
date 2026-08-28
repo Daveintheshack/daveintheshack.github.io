@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Breakfast at the Hi-Way with MLK"
 author: "Dave in the Shack"
 date:   2022-03-01 14:26:00 -0600
 original_url: https://daveintheshack.blogspot.com/2022/03/breakfast-at-hi-way-with-mlk.html
-tags: [Civil-Rights-History, Travel, Current-Events, Books]
+tags: [Civil-Rights-History, Travel, Current-Events, 2022]
 ---
 
 I hadn’t gone out for breakfast after swimming laps in a long time.  Pandemic you know.  But the numbers were going down, and I threw caution to the wind.  Who would have thought eating out was daring two years ago?  I slid into the Hi-Way Restaurant and took a stool at the counter.

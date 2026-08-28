@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Old Friends"
 author: "Dave in the Shack"
 date:   2013-08-09 08:01:00 -0500
 original_url: https://daveintheshack.blogspot.com/2013/08/old-friends.html
-tags: [Family, Travel, Current-Events]
+tags: [Personal-Essays, 2013]
 ---
 
 Last week I talked about our country’s military draft during the Vietnam War and how it affected men my age. This week I’d like to talk about a handful of those men.  

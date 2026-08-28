@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Santa Visits the Shack"
 author: "Dave in the Shack"
 date:   2021-12-27 14:24:00 -0600
 original_url: https://daveintheshack.blogspot.com/2021/12/santa-visits-shack.html
-tags: [Family, The-Shack, Current-Events, Music, Christmas]
+tags: [June, Family, The-Shack, Current-Events, Christmas, 2021]
 ---
 
 Despite the pandemic and the new Omicron blizzard that’s predicted, we got our family together for Christmas.  I never imagined this holiday season year to be so fraught with uncertainty after two doses of vaccine and the boosters.  We communicated often with our kids and relatives and vowed to all be as safe as possible in the run-up to the holiday.  Everyone got a Covid test before coming to our house on Caton Road.  We just couldn’t bear the thought of Christmas apart.  On Christmas Eve I was in the shack waiting for my kids to arrive, including June, my granddaughter who is having her first Christmas.  She’s ten months old. 

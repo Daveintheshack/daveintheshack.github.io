@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "The Wiener Roast"
 author: "Dave in the Shack"
 date:   2014-10-31 10:49:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/10/the-wiener-roast.html
-tags: [Family, Christmas]
+tags: [Family, The-Shack, Christmas, 2014]
 ---
 
 I don’t know how long the McClure family has been having a wiener roast in the fall, but it’s been a long time. I have used all the usual methods ways of putting these things on some kind of a timeline stretching from now into the past. When was the first one? Who was there? I can’t figure it out.  

@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Out with the Old, In with the New"
 author: "Dave in the Shack"
 date:   2014-11-12 09:35:00 -0600
 original_url: https://daveintheshack.blogspot.com/2014/11/out-with-old-in-with-new.html
-tags: [Gardening, Food, Politics]
+tags: [Politics, 2014]
 ---
 
 This blog post was held up by an unforeseen circumstance. Not only was I busy building a woodshed the last two days, I was waiting for final results in the election of our my representative in Illinois’ 76th district, where incumbent Democrat Frank Mautino was running against Republican challenger Jerry Long. Frank is unofficially ahead by about 342 votes out of more than 34,000 votes cast. Long is not conceding and reportedly is considering a recount. The election will not be certified until November 25th. I’m surprised.  

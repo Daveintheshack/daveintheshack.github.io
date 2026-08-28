@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "A Dinner Conversation Revisited"
 author: "Dave in the Shack"
 date:   2020-11-02 08:10:00 -0600
 original_url: https://daveintheshack.blogspot.com/2020/11/a-dinner-conversation-revisited.html
-tags: [Family, Road-Trips, Civil-Rights-History, Travel, Fishing, Food, Politics, Current-Events]
+tags: [Civil-Rights-History, Travel, The-Shack, Fishing, Food, Politics, Current-Events, 2020]
 ---
 
 *In the Spring of 2018, I took a solo road trip following the Civil Rights Trail through Alabama and blogged about it.  I met a lot of people along the way and one couple thought they knew me.  It got me an invitation to join them at their table for dinner at a great BBQ/Seafood shack near the Alabama Florida border.  It had that Alabama ambience.  Distinctive decor.*

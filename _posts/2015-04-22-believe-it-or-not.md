@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Believe it or Not"
 author: "Dave in the Shack"
 date:   2015-04-22 20:58:00 -0500
 original_url: https://daveintheshack.blogspot.com/2015/04/believe-it-or-not.html
-tags: [Politics]
+tags: [Personal-Essays, 2015]
 ---
 
 I saw Sam Baker, folksinger from West Texas, in Princeton a couple weeks ago and have had his four CD’s on my changer ever since. God they’re good. But the words distract me, and I have something I need to write this morning. So I replaced Sam with Johann, Bach that is. Put on the Brandenburg concertos and some complicated Bach organ pieces. It’s not Sam Baker, but it’s really good too. I’m stalling.  

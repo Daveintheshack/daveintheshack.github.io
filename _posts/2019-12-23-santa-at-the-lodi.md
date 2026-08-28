@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Santa at the Lodi"
 author: "Dave in the Shack"
 date:   2019-12-23 12:05:00 -0600
 original_url: https://daveintheshack.blogspot.com/2019/12/santa-at-lodi.html
-tags: [Ireland, Christmas]
+tags: [Christmas, 2019]
 ---
 
 I dropped into the Lodi Tap House in Utica on Saturday, the winter solstice, and grabbed a stool at the bar.  It was crowded.  Lodi’s used to be Duffy’s, a revered Irish bar and an institution among Illinois Valley drinkers and St. Paddy’s day revelers.  I’d gone to Duffy’s for 45 years, back when the standard order at the bar was a shot of Kesslers and Miller High Life.  

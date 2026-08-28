@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "These Days"
 author: "Dave in the Shack"
 date:   2016-11-15 17:52:00 -0600
 original_url: https://daveintheshack.blogspot.com/2016/11/these-days.html
-tags: [Family, Politics]
+tags: [The-Shack, Politics, 2016]
 ---
 
 An old friend, who owns a cornfield, raked cobs off her land after the harvest, dried them, and bagged them up.  Another friend who lives close by hauled them to town and brought them to the shack where I found them, delivered while I was away, stacked neatly on my shack porch ten feet from the little stove where I will burn them.  It’s extraordinary really, the kindness of others. [![](/assets/img/blog/2016-11-15-these-days-1.jpg)](/assets/img/blog/2016-11-15-these-days-1.jpg)  

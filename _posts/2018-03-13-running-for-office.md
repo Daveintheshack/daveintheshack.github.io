@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Running for Office"
 author: "Dave in the Shack"
 date:   2018-03-13 08:17:00 -0500
 original_url: https://daveintheshack.blogspot.com/2018/03/running-for-office.html
-tags: [Family, Politics]
+tags: [Politics, 2018]
 ---
 
 My church helped the local food pantry in their primary food drive and fund raising activity “Freezin for a Reason” held in early December.  It’s always a cold day it seems.  We were lucky enough to be tasked with work inside, making some sense of the huge flow of food in cans, boxes, and jars streaming into their small facility.  Boxes of food were collected, put in big cardboard containers, then placed on wooden pallets, moved to the outside of the pantry by forklifts, waiting until they were slid into an open area inside the pantry.  Our crew of a dozen or so church members segregated it loosely by type of food and got it to shelves and areas around the perimeter, making room for the next wave.  It was classic “make hay while the sun shines.”  The community was providing its pantry food and we were helping them absorb it.   

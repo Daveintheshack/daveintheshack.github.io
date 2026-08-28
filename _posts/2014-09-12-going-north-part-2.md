@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Going North Part 2"
 author: "Dave in the Shack"
 date:   2014-09-12 15:31:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/09/going-north-part-2.html
-tags: [Family, Fishing, Food]
+tags: [Fishing, 2014]
 ---
 
 *I held the hood of my rain jacket out over my face, shielding my eyes from the hard rain. I couldn’t see the far shore. My biggest fear was rocks. If we hit a rock which damaged the motor or the boat, or worse yet threw one or both of us into the water, we’d be in real trouble. I looked at my old partner. He’d managed to get the hood up on his rain jacket. He had his life jacket on upside down. He was depending on me to keep him safe. I was still lost. Sometimes we have little to go on but hope and faith*.  

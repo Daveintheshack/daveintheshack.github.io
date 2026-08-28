@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "What was Gained?"
 author: "Dave in the Shack"
 date:   2016-07-05 09:35:00 -0500
 original_url: https://daveintheshack.blogspot.com/2016/07/what-was-gained.html
-tags: [Politics]
+tags: [Personal-Essays, 2016]
 ---
 
 [![](/assets/img/blog/2016-07-05-what-was-gained-1.jpg)](/assets/img/blog/2016-07-05-what-was-gained-1.jpg)  

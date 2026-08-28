@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Find your own Magic"
 author: "Dave in the Shack"
 date:   2026-02-27 12:36:00 -0600
 original_url: https://daveintheshack.blogspot.com/2026/02/find-your-own-magic.html
-tags: [Family, Guatemala]
+tags: [June, 2026]
 ---
 
 There is a sign over the highway entrance into Walt Disney World (WDW) that proclaims it is “The Most Magical Place on Earth.”  I’d never been there, but I know there’s a certain amount of guilt put on American parents who deprive their kids of the Disney magic.

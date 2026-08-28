@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Learning from Mistakes"
 author: "Dave in the Shack"
 date:   2019-12-04 08:54:00 -0600
 original_url: https://daveintheshack.blogspot.com/2019/12/learning-from-mistakes.html
-tags: [Personal-Essays]
+tags: [The-Shack, 2019]
 ---
 
 After being in Chicago for three days over Thanksgiving, and lazing around in the house for two more, I returned to the shack Monday morning and built a fire in the stove.  I do that nearly every winter morning when I’m home and in my routine.  

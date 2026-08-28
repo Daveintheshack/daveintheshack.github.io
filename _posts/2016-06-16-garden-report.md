@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Garden Report"
 author: "Dave in the Shack"
 date:   2016-06-16 10:03:00 -0500
 original_url: https://daveintheshack.blogspot.com/2016/06/garden-report.html
-tags: [Family, Gardening, Food]
+tags: [Gardening, Food, 2016]
 ---
 
 [<img src="/assets/img/blog/2016-06-16-garden-report-1.jpg" width="320" height="320" />](/assets/img/blog/2016-06-16-garden-report-1.jpg)  

@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "A Chance Encounter on the Way to Quesadillas"
 author: "Dave in the Shack"
 date:   2020-02-21 16:52:00 -0600
 original_url: https://daveintheshack.blogspot.com/2020/02/a-chance-encounter-on-way-to-quesadillas.html
-tags: [Aging]
+tags: [Personal-Essays, 2020]
 ---
 
 I see him sometimes on his bike, and knew he was big, but I didn’t know he’d grown taller than me until I stood next to him in the store.  I still live in the town where I was a counselor and he has never left.  Funny we run into each other so little.   

@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Road Trip Four"
 author: "Dave in the Shack"
 date:   2014-12-13 04:42:00 -0600
 original_url: https://daveintheshack.blogspot.com/2014/12/road-trip-four.html
-tags: [Road-Trips, Civil-Rights-History, Travel, Christmas]
+tags: [Road-Trips, Travel, Cars, 2014]
 ---
 
 The road trip as a metaphor for life has been worn out and overdone. But it got that way because it rings so true. Travel and life go hand in hand.  In our heads, life is a journey. It feels linear. One road leads to another. You come to forks in the road and make choices. Decisions that seem trivial at the time can change the course of our lives. Or just change our course. Not everything in life is momentous.  

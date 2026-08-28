@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Milton Pope"
 author: "Dave in the Shack"
 date:   2015-06-26 15:56:00 -0500
 original_url: https://daveintheshack.blogspot.com/2015/06/milton-pope_79.html
-tags: [Family, Music, Christmas]
+tags: [Music, 2015]
 ---
 
 My solo musical career has been exceptionally brief. Outside of church choirs, both as a kid in Danvers and an adult in Ottawa, I’ve performed twice officially for an audience.  I don’t think singing “Sittin’ on the Dock of the Bay” a cappella for a bunch of Moroccans on a beach campout in 1975 qualifies.  I’ve done a lot of impromptu stuff, karaoke and all, but that’s not real performing.  So yeah, twice.  

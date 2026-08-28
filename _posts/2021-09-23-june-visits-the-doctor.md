@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "June Visits the Doctor"
 author: "Dave in the Shack"
 date:   2021-09-23 15:11:00 -0500
 original_url: https://daveintheshack.blogspot.com/2021/09/june-visits-doctor.html
-tags: [Family, June, Current-Events, Health]
+tags: [June, Family, Current-Events, Health, 2021]
 ---
 
 In mid-April my granddaughter June had a two-month check-up with her pediatrician.  At that visit, she received her first vaccinations.  The midwife that helped with June’s delivery and the pediatrician had both briefed June’s parents about these shots, and they were prepared.  June was not.  Here are the vaccines June was given.

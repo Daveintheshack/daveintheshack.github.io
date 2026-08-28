@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Artificial Calamari revisited"
 author: "Dave in the Shack"
 date:   2016-12-23 10:38:00 -0600
 original_url: https://daveintheshack.blogspot.com/2016/12/artificial-calamari-revisited.html
-tags: [Gardening, Fishing, Christmas]
+tags: [Fishing, Christmas, 2016]
 ---
 
 [![](/assets/img/blog/2016-12-23-artificial-calamari-revisited-1.jpg)](/assets/img/blog/2016-12-23-artificial-calamari-revisited-1.jpg) I was out with my wife for drinks and an appetizer in downtown Ottawa at the Lone Buffalo and the place was jammed. The Lone Buffalo touts itself as a provider of quality locally sourced and freshly prepared food and drink and makes good on that promise. But as we scanned the list of small plate options I was reminded of this appetizer inspired story from years ago. I got the idea for it listening to an intriguing episode of This American Life on NPR. As a farm kid who helped raise livestock, and now the father of a young woman with a degree in food science, it was too good to pass up back then. Likewise, it’s too good not to repeat now. As you celebrate Christmas in the bars and eateries of your choosing, be careful out there.  

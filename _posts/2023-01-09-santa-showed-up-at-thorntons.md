@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Santa Showed Up at Thornton's"
 author: "Dave in the Shack"
 date:   2023-01-09 13:10:00 -0600
 original_url: https://daveintheshack.blogspot.com/2023/01/santa-showed-up-at-thorntons.html
-tags: [Civil-Rights-History, Current-Events, Aging, Christmas]
+tags: [June, Current-Events, Christmas, 2023]
 ---
 
 [<img src="/assets/img/blog/2023-01-09-santa-showed-up-at-thorntons-1.jpg" width="240" height="320" />](/assets/img/blog/2023-01-09-santa-showed-up-at-thorntons-1.jpg)

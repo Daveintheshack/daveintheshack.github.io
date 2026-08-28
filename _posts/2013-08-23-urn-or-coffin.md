@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Urn or Coffin?"
 author: "Dave in the Shack"
 date:   2013-08-23 10:27:00 -0500
 original_url: https://daveintheshack.blogspot.com/2013/08/urn-or-coffin.html
-tags: [Ireland, Health]
+tags: [Health, 2013]
 ---
 
 I went to a visitation, the only public service for a 66 year old woman who died earlier in the week. It was sobering, how small the jar that held the ashes of the woman I remember standing in front of me, energetic, smiling. The man in line just before me crossed himself and bowed his head to the urn. It’s not the same thing somehow. There was a kneeling pad there but no one kneeled at the urn that I saw. I can’t get used to not seeing the body, although I might in the end prefer cremation. It’s a very different experience. Not that it matters what I prefer. I went there for the person’s family.  

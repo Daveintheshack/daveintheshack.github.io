@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Fooling Around"
 author: "Dave in the Shack"
 date:   2020-01-07 15:18:00 -0600
 original_url: https://daveintheshack.blogspot.com/2020/01/fooling-around.html
-tags: [Personal-Essays]
+tags: [The-Shack, 2020]
 ---
 
 I woke up early December 10<sup>th</sup> to a dark twelve-degree morning.  Before my thoughts turned to the present, I remembered how bright the moon was during the night and recalled, ever so briefly, the tail end of a vivid, colorful dream.  

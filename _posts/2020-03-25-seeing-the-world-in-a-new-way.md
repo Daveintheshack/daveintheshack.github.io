@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Seeing the World in a New Way"
 author: "Dave in the Shack"
 date:   2020-03-25 13:00:00 -0500
 original_url: https://daveintheshack.blogspot.com/2020/03/seeing-world-in-new-way.html
-tags: [Health]
+tags: [I-Care, Health, 2020]
 ---
 
 Conveying the shape and feel of an I Care clinic is difficult because the process is experienced by lots of people.  There are so many points of view.   

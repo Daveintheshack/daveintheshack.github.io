@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Inside the Shack"
 author: "Dave in the Shack"
 date:   2014-01-02 17:39:00 -0600
 original_url: https://daveintheshack.blogspot.com/2014/01/inside-shack_2.html
-tags: [Guatemala, The-Shack, Christmas]
+tags: [The-Shack, Christmas, 2014]
 ---
 
 Two of my nephews came to visit over Christmas. Their Mom, my sister in law, told me a while ago they wanted to drop by to see us and visit the shack, but I knew their schedule was busy on their short visit back home. I was pleasantly surprised when they pulled in the driveway. I hadn’t seen either of the brothers in a while. Both of them have a lot going on.  

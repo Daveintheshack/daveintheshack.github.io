@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Math at its Core"
 author: "Dave in the Shack"
 date:   2014-10-09 11:43:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/10/math-at-its-core.html
-tags: [Marriage]
+tags: [The-Shack, 2014]
 ---
 
 Future blog topics pile up: hot peppers, the Yamas, Efrain Rios Montt, a guy I knew who used to run an agency like mine. Also, as feared, other writing steals from time needed to devote to this weekly post. My nephew Sean, a senior in high school looking towards college, asked me to devote a blog post to common core math, which he says is driving him and all his friends crazy. He asked that of his Uncle Dave politely, because he’s a nice kid, but not because he knows me well. I gather from others mentioning this problem, and the change it has brought to teaching and learning mathematics, that common core math scrambles the logic of thinking out math problems into something of a long hand process. It makes the simple (and previously learned) complicated, adds steps, and creates what appears to be a new way of doing math, or running math concepts through your head. I don’t know what it is. And to write the blog that Sean wants I will be forced to research this whole thing, which is difficult.  

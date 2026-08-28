@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Road Trip Day One"
 author: "Dave in the Shack"
 date:   2014-12-03 08:18:00 -0600
 original_url: https://daveintheshack.blogspot.com/2014/12/road-trip-day-one_3.html
-tags: [Road-Trips, Travel, Gardening]
+tags: [Road-Trips, Travel, The-Shack, 2014]
 ---
 
 I didn’t leave home as early as I’d hoped. The Flaherty family was in a mood to talk, drink, and have a good time on Thanksgiving, so I didn’t sleep as much as I’d hoped. Too much time in the shack, where we got into the whiskey and cigars, played old vinyl records, sang along, told old stories, laughed. You get the picture. I left for Florida at 9:00 a.m. rather than 6:00 as planned. When I left the driveway I turned South.  

@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "North of the Border"
 author: "Dave in the Shack"
 date:   2019-09-08 20:22:00 -0500
 original_url: https://daveintheshack.blogspot.com/2019/09/north-of-border.html
-tags: [Guatemala, Gardening, Fishing, Community]
+tags: [Fishing, 2019]
 ---
 
 My day to day life is soft.  You can see it in my hands.  And when life gets hard, soft hands take a beating.  

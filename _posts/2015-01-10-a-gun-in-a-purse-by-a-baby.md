@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "A Gun, in a Purse, by a Baby"
 author: "Dave in the Shack"
 date:   2015-01-10 10:38:00 -0600
 original_url: https://daveintheshack.blogspot.com/2015/01/a-gun-in-purse-by-baby.html
-tags: [Politics, Current-Events, Christmas]
+tags: [The-Shack, 2015]
 ---
 
 Sometimes I don’t know what to say. I want to ignore events outside the shack, outside my neighborhood, outside my community -but I can‘t. They intrude on my thoughts, change the way I feel, nag my emotions. A mix of sadness and anger fills me up and makes me tired. Imagining the grief experienced by others wears me out.  

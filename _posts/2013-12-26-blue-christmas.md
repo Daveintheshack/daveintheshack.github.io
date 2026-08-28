@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Blue Christmas"
 author: "Dave in the Shack"
 date:   2013-12-26 13:43:00 -0600
 original_url: https://daveintheshack.blogspot.com/2013/12/blue-christmas.html
-tags: [Family, Politics, Christmas]
+tags: [The-Shack, Christmas, 2013]
 ---
 
 It’s just me, the two Sergei’s, and a couple of musicians out here in the shack this morning. I’m writing while Sergei Prokofiev and Sergei Rachmaninoff’s notes are filling my shack through the magic of digital recording. The musicians are Yo Yo Ma on cello and Emanuel Ax on piano. It’s amazing how much music you can get out of just a cello and piano. They’re playing Prokofiev’s Sonata for Cello and Piano in C Major Opus 119, and Rachmaninoff’s Sonata for Cello and Piano in G Minor Opus 19. The CD cover has the rapturous faces of Yo Yo (did his Mom and Dad have a sense of humor or what?) and Emanuel playing merrily away. My question, which should get top billing, the composer or the musicians?  

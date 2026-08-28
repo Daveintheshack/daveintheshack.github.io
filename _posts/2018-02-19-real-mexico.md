@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Real Mexico"
 author: "Dave in the Shack"
 date:   2018-02-19 13:39:00 -0600
 original_url: https://daveintheshack.blogspot.com/2018/02/my-pez-were-determined-security-risk-at.html
-tags: [Road-Trips, Gardening, Politics]
+tags: [Health, 2018]
 ---
 
 My Pez were determined a security risk at O’Hare airport.  At 6:30 a.m. I watched as my backpack rolled along a conveyor belt only to stop, shift mechanically behind a Plexiglass divider, and stay there until a real human being brought it to a table where I, putting my belt on, stuffing things in my pockets, was told to stand.  I tried to be nice.  

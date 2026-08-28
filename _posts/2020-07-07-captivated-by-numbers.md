@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Captivated by Numbers"
 author: "Dave in the Shack"
 date:   2020-07-07 12:16:00 -0500
 original_url: https://daveintheshack.blogspot.com/2020/07/captivated-by-numbers.html
-tags: [Family, Politics, Current-Events]
+tags: [Politics, Current-Events, 2020]
 ---
 
 We are seeing a lot of graphs these days.  Graphs portray numbers visually.  They represent facts and suggest trends.  With a graph you can see the measure of some slice of reality, what has happened and what is likely to happen next.  Graphs have become part of our language and our thoughts.   “Flattening the curve” means more today than it ever did.  When you talk of deaths caused by Coronavirus, flattening the curve means saving lives by reducing lives lost to the pandemic.   

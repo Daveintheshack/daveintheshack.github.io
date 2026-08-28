@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Two Lovely Ladies"
 author: "Dave in the Shack"
 date:   2020-10-03 16:16:00 -0500
 original_url: https://daveintheshack.blogspot.com/2020/10/two-lovely-ladies.html
-tags: [Politics]
+tags: [Personal-Essays, 2020]
 ---
 
 *The election is exactly a month away.  I should be writing about the important political choices we will soon make which will decide America’s future.  Instead I bring you a vivid account of two amazing females who have entered my life.*

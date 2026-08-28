@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Waddya know?  Santa Showed Up."
 author: "Dave in the Shack"
 date:   2015-12-16 15:56:00 -0600
 original_url: https://daveintheshack.blogspot.com/2015/12/waddya-know-santa-showed-up.html
-tags: [Current-Events, Christmas]
+tags: [Cars, Current-Events, Christmas, 2015]
 ---
 
 I ran into Santa the other night at the YMCA.  I rarely go to the Y at night.  I do Yoga on Tuesday and Thursday morning, and try to get in the pool Monday, Wednesday and Friday at noon like I used to when I was employed.  That doesn’t always happen.  

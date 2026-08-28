@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "A Garbage Day Tale"
 author: "Dave in the Shack"
 date:   2026-04-21 11:13:00 -0500
 original_url: https://daveintheshack.blogspot.com/2026/04/a-garbage-day-tale-although-im-74-i-am.html
-tags: [Personal-Essays]
+tags: [Personal-Essays, 2026]
 ---
 
 Although I’m 74, I am still not yet ready to admit that old people do eccentric things.  I also did things like this when I was young.  This happened last week.

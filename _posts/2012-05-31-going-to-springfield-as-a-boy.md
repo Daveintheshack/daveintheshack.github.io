@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Going to Springfield as a Boy"
 author: "Dave in the Shack"
 date:   2012-05-31 13:03:00 -0500
 original_url: https://daveintheshack.blogspot.com/2012/05/going-to-springfield-as-boy.html
-tags: [Christmas]
+tags: [Personal-Essays, 2012]
 ---
 
 My Dad had pale blue eyes and tried hard at times to hide his feelings. I think he feared they made him weak. But when you looked in his eyes they told you everything. He was a gentle man whose life was hard, but he managed to stay happy which inspired us all.  

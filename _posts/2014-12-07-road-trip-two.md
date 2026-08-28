@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Road Trip Two"
 author: "Dave in the Shack"
 date:   2014-12-07 08:59:00 -0600
 original_url: https://daveintheshack.blogspot.com/2014/12/road-trip-two.html
-tags: [Family, Road-Trips, Travel]
+tags: [Road-Trips, Travel, Cars, 2014]
 ---
 
 My Dad, born in 1909, used to talk about the Tennessee Valley Authority and big government public work projects like Kentucky Dam created by the Corps of Engineers. He was solidly behind and spoke fondly of all the initiatives FDR undertook to create jobs and make life better for America’s poor. He told stories about the TVA. He said the government sent agents into those Kentucky and Tennessee hills to persuade the people who lived there to move out before their homes were flooded. He claimed that some shot at the government men, flatly refusing to believe them and leave their homes, modest as they might have been. He didn’t call them “the people who lived there.” He called them hillbillies.  

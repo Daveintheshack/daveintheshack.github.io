@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Fishing in the Wilderness"
 author: "Dave in the Shack"
 date:   2022-09-17 20:38:00 -0500
 original_url: https://daveintheshack.blogspot.com/2022/09/fishing-in-wilderness.html
-tags: [Fishing, Current-Events]
+tags: [Fishing, Current-Events, Books, 2022]
 ---
 
 [<img src="/assets/img/blog/2022-09-17-fishing-in-the-wilderness-1.jpg" width="240" height="320" />](/assets/img/blog/2022-09-17-fishing-in-the-wilderness-1.jpg)  

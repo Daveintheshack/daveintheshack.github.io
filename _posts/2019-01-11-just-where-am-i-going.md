@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Just Where am I Going?"
 author: "Dave in the Shack"
 date:   2019-01-11 08:57:00 -0600
 original_url: https://daveintheshack.blogspot.com/2019/01/just-where-am-i-going.html
-tags: [Road-Trips, Civil-Rights-History, Travel, Politics]
+tags: [Travel, Cars, 2019]
 ---
 
 I’m planning the route for my February road trip in the Buick.  It continues to run like a top.   

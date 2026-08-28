@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Our Dog Died"
 author: "Dave in the Shack"
 date:   2014-08-01 16:09:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/08/our-dog-died.html
-tags: [Food, Health]
+tags: [Personal-Essays, 2014]
 ---
 
 Our dog died. No, that’s not quite true. I arranged for my dog to be killed. I know we prefer to say “we had to have our dog put down.” Or some people characterize the act as “we had to have our dog put to sleep.” While both of those are true I have always preferred the simple truth. It was a mercy killing, and she was killed by lethal injection by a veterinarian, but she was killed all the same. I asked that she be killed. Thankfully, the veterinarian agreed with my decision. He said “I agree with that. It’s time.”  

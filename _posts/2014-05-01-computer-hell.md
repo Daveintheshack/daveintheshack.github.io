@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Computer Hell"
 author: "Dave in the Shack"
 date:   2014-05-01 14:27:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/05/computer-hell.html
-tags: [Family, Health]
+tags: [Family, The-Shack, Books, 2014]
 ---
 
 It started one morning when my daily e mail messages didn’t appear in Outlook. I quickly checked my I Phone. E mails were coming to my smart phone but not to my laptop. After repeated attempts at sending/receiving in Outlook I discovered an error message, 0x800CCCIA. When I googled the error message, Yahoo appeared instead. As I entered the search terms in the box a short video clip, constantly repeating, of a large woman throwing me a kiss appeared on the screen. Something is terribly wrong I thought.  

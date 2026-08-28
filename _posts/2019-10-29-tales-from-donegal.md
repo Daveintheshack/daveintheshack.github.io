@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Tales from Donegal"
 author: "Dave in the Shack"
 date:   2019-10-29 14:47:00 -0500
 original_url: https://daveintheshack.blogspot.com/2019/10/tales-from-donegal.html
-tags: [Family, Ireland, Politics, Current-Events, Aging, Music]
+tags: [Ireland, Politics, Current-Events, Aging, Music, 2019]
 ---
 
 I was told a powerful family story from the past by a man living in Ireland.  It helped me understand the Ireland of my ancestors, and how that past shaped the character of Irish people in both Ireland and those places to which they immigrated.  

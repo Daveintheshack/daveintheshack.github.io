@@ -1,10 +1,11 @@
 ---
+comments: true
 layout: post
 title:  "Cheese, Guns, and Death.  C'est la vie."
 author: "Dave in the Shack"
 date:   2015-01-16 09:48:00 -0600
 original_url: https://daveintheshack.blogspot.com/2015/01/cheese-guns-and-death-cest-la-vie.html
-tags: [Family, Travel, Politics]
+tags: [Personal-Essays, 2015]
 ---
 
 At times readers ask me to write follow up articles on a given topic and at times I get such good feedback on a particular blog post I’m tempted to do that. Usually I don’t. I’m like a band that doesn’t take requests. My wife has known this for some time. Ask me to do something and I usually won’t. This one shot and done, this jumping from topic to topic might explain my difficulty in writing a full length book but hey, that's my problem not yours.  

@@ -153,9 +153,10 @@ footer {
 }
 @media (max-width: 500px) {
   .post img.profile-photo {
-    float: none;
-    display: block;
-    margin: 0 auto 1rem;
-    max-width: 200px;
+    float: none !important;
+    display: block !important;
+    margin: 0 auto 1rem !important;
+    max-width: 200px !important;
+    width: 200px !important;
   }
 }

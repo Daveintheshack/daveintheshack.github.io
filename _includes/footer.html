@@ -1,5 +1,22 @@
 <footer>
   <span>
     &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}
+    <button id="back-to-top" title="Back to top">&#8593;</button>
+
+<script>
+  var backToTopButton = document.getElementById('back-to-top');
+
+  window.addEventListener('scroll', function() {
+    if (window.pageYOffset > 300) {
+      backToTopButton.style.display = 'flex';
+    } else {
+      backToTopButton.style.display = 'none';
+    }
+  });
+
+  backToTopButton.addEventListener('click', function() {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+</script>
   </span>
 </footer>

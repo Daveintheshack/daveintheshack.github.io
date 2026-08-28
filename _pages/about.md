@@ -1,5 +1,4 @@
-markdown
----
+--
 layout: post
 title: "About"
 author: "Dave McClure"

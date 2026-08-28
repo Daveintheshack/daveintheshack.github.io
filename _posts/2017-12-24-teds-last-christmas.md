@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "Ted's Last Christmas"
+author: "Dave in the Shack"
+date:   2017-12-24 13:31:00 -0600
+original_url: https://daveintheshack.blogspot.com/2017/12/teds-last-christmas.html
+---
+
+*If you've been reading* Dave in the Shack *for a while you've read this story before.  I haven't hauled it out in a couple years.  It's had several titles.  The story comes from the days I worked at a nursing home and a man I met there.  Every Christmas Eve I think of Ted. *  
+*  
+* *I hope you're with family or friends and have good memories of this evening too.  Enjoy.*  
+*  
+*  
+I was the only male nurse’s aide in the place.  They assigned me most every day to the segregated men’s wing where I made men’s beds, helped them shower, took them to the basement dining hall, emptied their urinals and  bedpans, persuaded them to sign over their Social Security checks, brought snacks to their room, did all the things nurse’s aides do.  It was the 70’s.  I was back from a trip to South America and profoundly broke.  The nursing home job came available first.  I took it and learned a lot there.  
+One of the things I learned was the depth to which people can be alone.  One of the guys on my wing was Ted Becker.  Ted was a bachelor farmer whose parents were both dead.   When Ted was sixty, years after he had moved out of his parent’s farmhouse due to its poor condition and into a mobile home by the machine shed, he suffered a debilitating stroke in his tiny trailer living room.  At the time Ted was morbidly obese.  
+The story, as told by the other nurse’s aides (which well could have been rumor) was that the EMT’s had a difficult time getting him out of the trailer.  Ted couldn’t walk, they could barely pick him up, and the gurney, with Ted on it, wouldn’t fit through the door.  They used a power saw to enlarge the doorway.  Those are the kind of indignities I hope are never rumored about me.  When Ted left the hospital following his stroke he came to the nursing home, recovered somewhat, but never returned to normal life.  That was four years before I came to work there.  
+“Ted was morbidly obese?” I asked.  
+“That was before we put him on a diet” one of my co-workers said proudly.  “He was over almost five fifty when he came in.”  
+I looked at Ed down the hall, slumped and scrawny in his tall back chair.  He couldn’t have weighed more than 160 pounds soaking wet.  That would explain the huge folds of skin that draped from his body in the shower.  Though undoubtedly healthy it also struck me as cruel somehow.  The tall back wheel chairs had a tray fixed in front that kept the patients confined or safe depending on how you looked at it.  Ted couldn’t have gotten up by himself anyway, but the tall chair, in addition to trapping him, did help him sit straight.  Ted slumped to his right side.  I straightened him up several times each day. Everything on his right side-face, hand, arm, leg, foot-were fairly useless.  The stroke had taken away his speech.  Occasionally he would grunt but not often.  He got a lot done with his left side though.  He could get his left foot just beyond the lower platform of his chair and propel himself slowly down the hall.  If he could get the left side of his chair to the rail that ran the length of the hall he could pull himself even faster.  Try as I might I could not picture Ted as a fat man.  
+“I guess that explains why he’s so hungry,” I said.  
+Ted was beyond hungry.  He was ravenous.  You had to have a strong stomach to watch Ted eat.  Think Labrador Retriever and a bowl of dog food. The guy was crazy to eat.  He absolutely coveted the snack cart I brought around mid afternoon.  You had to watch him like a hawk.  If you did you would see him inching towards it, pushing against the linoleum with that left foot, slowly, deceptively.  Ted, sly and furtive, snuck so slowly towards the snack car, agonizingly slow for him I’m sure, I could barely detect it.  Ted betrayed himself by looking at me intently and smiling, something he rarely if ever did.  If Ted succeeded in getting within reach of the cart with his left hand, it was a swift and all out attack.  Within seconds it was furiously rapid movement, left hand filled with food directly to a gaping mouth.         
+It wasn’t only food.  Ted would stuff toilet paper in his mouth.  Try to eat Kleenex.  The guy would eat anything.   Before you know it his mouth would be absolutely stuffed with whatever was within his reach.  He was in constant danger of choking.  Unashamed, constant, ravenous gluttony defined Ted’s existence there.  Without speech, the means to express himself, or the ability to walk food became his currency, his goal, his life’s desire.  
+I soon realized that no one visited Ted.  The nurse’s aides from the area thought he might have had a sister that moved away, but no one knew anything about Ted’s family.  And Ted couldn’t tell us.  So he lived his days in the nursing home as a solitary soul.  The meaning of that didn’t fully sink in till Christmas.   
+Except for the Alzheimer patients and those with severe dementia, nothing brightens the life of a nursing home resident like visitors, presents, or mail.  Christmas was a time when all those things increased.  Around the holidays residents went to their family’s homes, and if that was not possible the families visited, brought food and brightly wrapped presents, decorated their rooms, sat and talked, and brought the grand kids, most of whom looked bored and scared at the same time.  But Ted got none of that.  
+In addition to in person visits, the old people in the nursing home who were lucky got cards from family and friends, old neighbors, you name it.  I did mail call for my guys on the wing and I’d walk that sad hallway down and back each morning handing out envelopes, opening them for the guys if they could not.  Every day Ted looked hopefully from behind his tray.  The skin on Ted’s face sagged and made his eyes look bigger.  He had soulful blue eyes.  He looked up hopefully.  There was never mail for Ted.  
+“Not today Ted.”  
+The few days before Christmas were the heaviest card days.  I had a big basket of mail to pass out.  When I came to Ted’s room he was there, slumped over in his chair wearing a plaid flannel shirt with drool on it, khakis, and his black Chuck Taylor high tops.  The Chucks were good for Ted because he was incontinent at times, and when he had accidents we could easily wash the canvas shoes.   I had dressed him.  His eyes were glued to the mail as if it was a pan of brownies.  
+ “Ted you got a card.”  
+His eyes grew big.  I straightened him up.  He fumbled with the envelope with his one working hand and when he couldn’t open it I opened it for him.  It was a card from the nursing home administrator.  Everyone got the same cheap card.  She had her signature stamped inside.  But to add a personal touch she wrote “Ted” before the cheesy Christmas message.   
+“Look Ted, she wrote your name.”   
+Ted looked up at me and his eyes filled with tears.  He cried openly.  Stroke victims will do that.  Ted had gotten a Christmas card and he was crying for joy that someone remembered him.  It was from a nursing home administrator who rarely left her office and didn’t know Ted from a bale of hay.  But it was everything to Ted.  I think that was the moment I knew I had to get out of that job.  It was just too sad.  
+Thankfully on Christmas Eve I didn’t have to work.  I had bought a few presents and got ready to drive to my parent’s farm house in Danvers.  My parents were both alive then and I was looking forward to seeing my brothers and sisters and the nieces and nephews.  Christmas on the farm is a whole other story but I love Christmas more than any other holiday.  Before I left town I got gas on the South side near the nursing home.  It was before you could pay at the pump so I went inside to pay with cash.  There was a candy counter there.  As I was paying I looked down through the glass top at the candy bars and as the kid was handing me my change said  
+“Give me a couple of those Snickers too, would you please?”  
+It was dark when I parked on the street by the nursing home and walked across the yard to the side door.  I made my way up the back stairs to my guys’ wing. It was that quiet time after dinner but before lights out.  I went down the hall to Ted’s room.  He was slumped in his chair, sleeping.  Ted didn’t have a TV like most of the guys.  He didn’t have anything really but clothes.  His one and only Christmas card was thumb tacked to his otherwise empty bulletin board.   
+I turned on Te[](https://www.blogger.com/null)d’s bed lamp rather than the overhead light.  The rooms then were bright and stark; florescent overhead lights, white walls, shiny linoleum floor, hand cranked metal bed, metal nightstand, and a Formica tray on a stand that rolled over the bed.  To make things worse it was too hot in those rooms, radiators cooking, air not moving, and always the smell of urine.  Christmas Eve in the nursing home.  May we all be spared such a fate.   
+“Wake up Ted I’ve got something for you.”  
+I gave him a minute to open his eyes and get used to me being there before straightening him up in his chair.  
+“Ted I’ve got something for you but have to cooperate.  It’s not on your diet and I don’t want you telling a bunch of people I’m giving you this.  But you strike me as a guy who can keep his mouth shut.  Can you do that?”  
+Ted may have gotten the joke but could smile only crookedly so I couldn’t tell.  I had his attention however.   When I took the Snickers out of my coat pocket his eyes lit up.  
+“OK Ted, I want you to eat this slow so you don’t choke, you understand?”  
+When he realized what was about to happen he literally began to drool.  I got some Kleenex out of his night stand and wiped his chin.  With my Swiss Army knife I cut a small piece of the Snickers and put it on his tray.  His left hand flashed out and the chunk of candy bar was in his mouth almost before I knew what happened.  He stared at me as if I was going to dig it out of his mouth as I had done so often with other things before.  
+“Ted I want you to chew that slow and swallow it before I give you more.”  He did.  
+I cut off another piece.  We repeated that five times with the first candy bar.   
+“You feel OK Ted?”  
+Ted nodded enthusiastically.  
+“You don’t feel sick do you?”  
+Ted shook his head vigorously in the negative.  I wiped his chin with the Kleenex again.  
+I took out the second candy bar.  We did it again.  I can’t say he slowed down much, but I think he began to savor the bites a little more.  That could have been my imagination.  I wiped his chin once more.   
+“This is the last piece Ted and then I have to go.”  
+I laid the remaining piece of Snickers on his tray. He didn’t take it.  
+“What the hell Ted, aren’t you going to eat that?”  
+He just stared at me.  
+ “Ted it’s yours.  Eat it.  I brought it for you for Christ’s sake.”   
+He didn’t move.  His left hand hung down by his side.  Then he brought his hand up, pointed his finger at the piece of Snickers, and pointed to me.  I couldn’t figure out what he was doing.  He kept pointing at the candy and then pointing at me.  Then I realized he wanted me to have the last piece.  The guy who would eat the envelope his only Christmas card came in was sharing his candy bar with me.  I was dumbfounded.   
+I ate it.  Just Ted and I in a barren nursing home room with a single dim light.  He looked at me closely as I chewed the Snickers, his eyes bright.  I looked back at him.     
+I think people that don’t or can’t talk; babies, those who don’t know your language, stroke victims, all those lacking words, try to express themselves with their eyes.  And sometimes if you pay close attention they succeed.  Or is that just us giving words to their expressions?  We don’t know.  I thought that night Ted talked to me.  I think he said thanks.  I think he wished me a Merry Christmas too.  You could see it in his eyes, his poor old big blue eyes.  
+“Merry Christmas to you too Ted.  
+I thought he smiled.  
+ And thank you.”  
+That was my only Christmas in the nursing home.  I left in the spring.  Ted died later that fall.   Choked on not one but many stolen ham sandwiches.  I suspect someone didn’t watch the snack cart closely enough.  I never forgot Ted, or the kindness in his eyes that Christmas Eve.  If we let it, Christmas brings out the best in all of us.  
+Merry Christmas.  
+*  
+* *  
+*

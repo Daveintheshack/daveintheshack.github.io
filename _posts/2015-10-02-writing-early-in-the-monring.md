@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Writing Early in the Monring"
+author: "Dave in the Shack"
+date:   2015-10-02 07:41:00 -0500
+original_url: https://daveintheshack.blogspot.com/2015/10/writing-early-in-monring.html
+---
+
+There’s moonlight on the shack porch right now so bright.  I followed bits of it, circles, irregular shapes, of such bright light it lit up my shoes when I stepped in them through the yard from the house.  I thought it must be the streetlight but no, it was the moon high overhead shining through the trees.  That same eclipsing moon we saw fading away Sunday night is now high and bright at 6:00 a.m. Friday, just a sliver gone on one side, four days past full, not full again till nearly Halloween.  
+  
+I’m in a race now, I’ve made a list, of things that must be done before winter comes.  For appearance sake I started with the hedges in the front yard.  I have a privet hedge between our house and the north neighbor that is my job to cut twice a year at least.  Trash trees grow, and stick out the top, faster than the hedge.  They are rooted between the hedge canes, nearly indistinguishable from the plant favored and nurtured, not to be cut down. It’s the same knot of wood at the base each year, long clipped from my near thirty years of living here, clipped again this year, the offender drug from the hedge and put in a pile.  
+  
+Same with the lilacs.  I have a maple trying to grow that I thwart every year, and another nameless damn plant with rough ugly leaves that grows amazingly fast.  Some people pull these offenders out by the roots with chains and tractors I suppose, others paint them with poison hoping not to kill the desired plants around them.  I just cut them.  They grow back.  It’s a yearly thing.  
+  
+And trim.  The lilacs if left alone would have grown all over my neighbor Bill’s windows by now.  As it was they were fast encroaching on his siding and out of control.  I took not only the new hand shears but the lopping shears with the big handles (Dull and bent, I need new ones) and the cheap saw I got at a yard sale.   Hacking away, feeling the muscles of my hands and shoulders tire as I made huge piles of branches.  I went on from the lilacs to the trees at the edge of the yard.  Seedlings from the redbuds take root and intrude.  The willow grows over the day lilies.  The choke cherry wants to extend its branches onto the shack roof.  I deny them.  I cut low branches, take out saplings, and this year eliminated an entire old bush half rotted at the root.  I’m a destroyer separating the yard from the chaos of the ravine.  
+  
+When I enter the ravine I switch tactics.  It’s not my job to order that space.  While some neighbors clear the slope I’ve let mine go wild.  In the ravine I only remove traces of mankind and pull dead branches hung up on live ones, throwing them on the ground where they can rot proper.  It is life and death in there.  Trees sprout but, unable to move, are doomed for lack of light and die stunted and forlorn.  They can only hope the trees above them die while they’re still alive and give them chance to grow.  And they do, they die and rot in place and crash down. The ravine, a steep slope leading to a skinny creek, is littered with the trunks and branches of dead trees.  Too steep to haul them up for firewood I let them lay, let it all go.  There’s poison oak that grows in there, and wild grapevine but little else.  Shade, merely the absence of light, prevents the growth of grass or weeds.  
+  
+[<img src="/assets/img/blog/2015-10-02-writing-early-in-the-monring-1.jpg" width="240" height="320" />](/assets/img/blog/2015-10-02-writing-early-in-the-monring-1.jpg)  
+  I find a spent and rusted fuse on the ravine slope.  We have only circuit breakers.  It must have been there for thirty years.  I pick up five aluminum beer cans, two Styrofoam cups, a sheet of plastic nearly covered in loose soil and half rotted wood, and a wolverine snuff can.  I look for traces of the dead animal that caused the stink weeks ago but find nothing.  I wrap the trash in the plastic and carry it out.  Though just outside my shack window, there is no need to venture into the ravine again till spring.  Its best left alone.  
+  
+This morning my hands hurt.  I have little scrapes and pokes from the wood I’ve been handling, and they’re a little stiff like the rest of me.  Today I have to trim a little more then burn what I’ve cut down.  Maybe at the end of the day we’ll roast hot dogs over the fire pit.  
+  I read this morning in The Writer’s Almanac that crazy Wallace Stevens poem “The Emperor of Ice Cream” and a bit of his life story along with Graham Greene’s.  It is said that Graham Greene realized as a young writer that if he wrote but 500 words a day he would write more books than even the most prolific writers.   And so he did, every day, write 500 words and was so strict with himself he sometimes stopped in mid sentence.  
+  
+The word sentence above was 831 and I’m just getting warmed up.  I wrote a 2,710 word blog post since Monday that I’ll save for next week, worked on finishing a short story, and outlined a possible novel this week all on top of lots of texts and FB posts and other miscellaneous scribbling.  I don’t have as much time as Graham Greene did when he was young. And then again, Graham’s stuff is polished and elegant.  It doesn’t look like I’ll be polished and elegant.  You can’t have everything.  
+  
+Good luck to you in your preparations for winter.  Me?  I have things to write.  On top of that there is a hedge to trim, a shed to shingle, branches to burn, wood to split, jerk and chili paste to make and *miles to go before I sleep*.  That 'miles to go' line belongs to Robert Frost.  Then there's this:  
+Call the roller of big cigars, The muscular one, and bid him whip In kitchen cups concupiscent curds.   Let the wenches dawdle in such dress As they are used to wear, and let the boys Bring flowers in last month's newspapers. Let be be finale of seem The only emperor is the emperor of ice-cream.  
+That is the first stanza of Wallace Steven's famous poem.  Look up the second and last stanza which is even better, more crazy than the first.  Aren't you glad the bunch of them; Wallace, Graham, and Robert, gave us this stuff?  
+  
+P.S.-While you're at it, look up the meaning of concupiscent.  Who knew?

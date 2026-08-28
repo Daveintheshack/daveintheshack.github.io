@@ -75,14 +75,12 @@ footer {
     font-size: .8rem;
   }
 }
-
 #search-input {
   border: 1px solid $shadow-color;
   border-radius: 4px;
   font-family: $sans-serif;
   padding: 4px 8px;
 }
-
 #results-container {
   background: #fff;
   border: 1px solid $shadow-color;
@@ -117,7 +115,6 @@ footer {
     }
   }
 }
-
 #back-to-top {
   align-items: center;
   background: $default-shade;
@@ -139,7 +136,6 @@ footer {
     opacity: .8;
   }
 }
-
 .profile-photo {
   border-radius: 4px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, .15);
@@ -147,4 +143,11 @@ footer {
   margin: 0 0 1rem 1.5rem;
   max-width: 250px;
   width: 100%;
+}
+.post {
+  &::after {
+    clear: both;
+    content: "";
+    display: table;
+  }
 }

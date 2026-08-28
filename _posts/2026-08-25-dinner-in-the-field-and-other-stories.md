@@ -5,6 +5,7 @@ title:  "Dinner in the Field and other stories"
 author: "Dave in the Shack"
 date:   2026-08-25 17:34:46 -0500
 comments: true
+sticky: true
 original_url: https://daveintheshack.blogspot.com/2026/08/dinner-in-field-and-other-stories.html
 tags: [The-Shack, Books, 2026]
 ---

@@ -136,11 +136,11 @@ footer {
     opacity: .8;
   }
 }
-.profile-photo {
+.post img.profile-photo {
   border-radius: 4px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, .15);
   float: right;
-  margin: 0 0 1rem 1.5rem;
+  margin: 0 0 1rem 1.5rem !important;
   max-width: 250px;
   width: 100%;
 }

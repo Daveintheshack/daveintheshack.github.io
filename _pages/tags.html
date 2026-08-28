@@ -8,8 +8,12 @@ permalink: /tags/
     <h2 class="tags-header-title">{{ page.title }}</h2>
     <div class="tags-header-line"></div>
   </div>
+  {% assign tag_names = "" | split: "" %}
+  {% for tag in site.tags %}
+    {% assign tag_names = tag_names | push: tag[0] %}
+  {% endfor %}
+  {% assign tag_names = tag_names | sort %}
   <div class="tags-clouds">
-    {% assign tag_names = site.tags | keys | sort %}
     {% for tag_name in tag_names %}
     <a href="#{{ tag_name }}">{{ tag_name }}</a>
     {% endfor %}

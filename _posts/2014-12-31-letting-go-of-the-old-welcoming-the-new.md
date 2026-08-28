@@ -4,6 +4,7 @@ title:  "Letting Go of the Old, Welcoming the New"
 author: "Dave in the Shack"
 date:   2014-12-31 10:27:00 -0600
 original_url: https://daveintheshack.blogspot.com/2014/12/letting-go-of-old-welcoming-new.html
+tags: [Family]
 ---
 
 I’ve spent the last few days of the year deleting e mail and unsubscribing from things I no longer read. I don’t know what got into me, but I signed up for all kinds of messages and communiques I thought I would enjoy, needed even, but didn’t. It feels good, paring down. I made some big changes when I retired, lost contacts, stopped getting mail from lots of places. Maybe I thought I had to replace those communications with others. Maybe I feared boredom. I don’t know. But it’s pretty clear I don’t need those e mails in my life. Adios, happy trails, and see you later.  

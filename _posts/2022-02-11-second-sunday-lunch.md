@@ -4,6 +4,7 @@ title:  "Second Sunday Lunch"
 author: "Dave in the Shack"
 date:   2022-02-11 14:30:00 -0600
 original_url: https://daveintheshack.blogspot.com/2022/02/second-sunday-lunch.html
+tags: [Food, Current-Events]
 ---
 
 In the first half of every month, I do this thing for Open Table, my church.  We cook a free lunch every second Sunday, and I’m the advance man.  On Wednesday or Thursday of the week preceding that Sunday, I distribute flyers promoting the meal.  Here’s the one I passed out yesterday.

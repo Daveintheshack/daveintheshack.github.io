@@ -4,6 +4,7 @@ title:  "Taking the Long Way"
 author: "Dave in the Shack"
 date:   2023-04-10 15:52:00 -0500
 original_url: https://daveintheshack.blogspot.com/2023/04/taking-long-way.html
+tags: [Road-Trips, Travel, Food, Current-Events, Music]
 ---
 
 I drove too far and too long on that first day of my road trip.  I was all jazzed up.  Unlike earlier road trips when I took nothing but two-lane roads, I was bent on getting to Memphis as soon as possible.  So, I opted for speed over scenery. 

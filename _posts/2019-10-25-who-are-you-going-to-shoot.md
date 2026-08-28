@@ -4,6 +4,7 @@ title:  "Who are You Going to Shoot?"
 author: "Dave in the Shack"
 date:   2019-10-25 16:01:00 -0500
 original_url: https://daveintheshack.blogspot.com/2019/10/who-are-you-going-to-shoot.html
+tags: [Ireland, Civil-Rights-History, Travel, Politics, Current-Events]
 ---
 
 *Forgive me for breaking up my stories from Ireland but I’m back home now taking a fresh look at the country I live in and its politics.  I’ll send you ‘Tales from Donegal’ very soon. It is half-written.  This one is done.* *  

@@ -4,6 +4,7 @@ title:  "Dave's Still Here"
 author: "Dave in the Shack"
 date:   2020-02-05 12:35:00 -0600
 original_url: https://daveintheshack.blogspot.com/2020/02/a-blog-about-book.html
+tags: [Travel, Food, Politics, Memoir-Writing, Christmas]
 ---
 
 I haven’t put out a blog in a month.  Not so.  

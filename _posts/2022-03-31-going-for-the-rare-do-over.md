@@ -4,6 +4,7 @@ title:  "Going for the Rare Do Over"
 author: "Dave in the Shack"
 date:   2022-03-31 13:52:00 -0500
 original_url: https://daveintheshack.blogspot.com/2022/03/going-for-rare-do-over.html
+tags: [Road-Trips, Travel, Current-Events]
 ---
 
 Long life creates both obstacles and opportunities.  If you happen to be old, the obstacles become increasingly apparent.  Gradual loss of the senses, especially hearing and vision, even taste and feel, are hard to swallow.  Even worse, newly discovered concepts replace old fears.  That process of evolving fears that started when I dreaded the “boogie man” as a kid has never stopped. 

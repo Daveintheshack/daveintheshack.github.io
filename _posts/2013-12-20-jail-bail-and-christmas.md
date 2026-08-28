@@ -4,6 +4,7 @@ title:  "Jail, Bail, and Christmas"
 author: "Dave in the Shack"
 date:   2013-12-20 13:13:00 -0600
 original_url: https://daveintheshack.blogspot.com/2013/12/jail-bail-and-christmas.html
+tags: [Family, Christmas]
 ---
 
 It’s never made sense to me that Sunday starts the week but three hours into this one I was wakened by a cell phone call. I answered it by reflex. Calls in the middle of the night were always about work. I forgot. On the phone was a young man I’ve known his whole life, which represents about one-third of mine. He’s no longer a minor but he’s still a kid. I had a hard time figuring out what he was saying. He was loud, talking fast, and not letting me into the conversation. I kept saying  

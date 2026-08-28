@@ -4,6 +4,7 @@ title:  "Like Everyone in America"
 author: "Dave in the Shack"
 date:   2013-11-22 08:55:00 -0600
 original_url: https://daveintheshack.blogspot.com/2013/11/like-everyone-in-america.html
+tags: [Family, Current-Events]
 ---
 
 Like everyone in America, it seemed, I saw The Exorcist in 1973. I went to Chicago to see it when it first came out. I had read William Blatty’s novel in 1971, which was scary enough. But seeing that little girl’s head spin around (it was a puppet), and her body rise from the bed (wires and a harness), and the green projectile vomiting (pea soup) were so vivid that although I knew the story the impact of those scenes absolutely blew me away. My date and I were scared to death. We ran to the car when we left the theater. That’s what most of us know about exorcism. We know the movie.  

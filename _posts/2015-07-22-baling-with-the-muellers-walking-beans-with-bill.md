@@ -4,6 +4,7 @@ title:  "Baling with the Muellers, Walking Beans with Bill"
 author: "Dave in the Shack"
 date:   2015-07-22 11:23:00 -0500
 original_url: https://daveintheshack.blogspot.com/2015/07/baling-with-muellers-walking-beans-with.html
+tags: [Gardening]
 ---
 
 We traded baling help with Bob Mueller for a while but he and his son took on a lot more land and cows.  Because of that they had to bale much more hay for the winter so they had to go it on their own.  Trading help worked when each farmer made more or less the same amount of hay, like three cuttings a year for three days work.  It was like a circle.  

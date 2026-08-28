@@ -4,6 +4,7 @@ title:  "No Justice No Peace"
 author: "Dave in the Shack"
 date:   2016-06-01 10:00:00 -0500
 original_url: https://daveintheshack.blogspot.com/2016/06/no-justice-no-peace.html
+tags: [Politics, Current-Events]
 ---
 
 As Sam and I walked past the Federal Building in Chicago I couldn’t help but think of the drama that took place inside during the Hastert sentencing hearing just weeks ago.  The hearings, much anticipated, grabbed the headlines. Our country’s longest standing Speaker of the U.S House of Representatives was exposed as a sex offender.  His victims, then teen age students at Yorkville High School, now adults, testified after all these years in court against their former coach.  The media gave us a glimpse into the secrets of a small town and how they can impact people, both the small and the powerful.  And now it’s all over but the prison sentence, the civil suits, and of course the healing.   

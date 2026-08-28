@@ -4,6 +4,7 @@ title:  "Reader Feedback"
 author: "Dave in the Shack"
 date:   2014-06-19 17:54:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/06/reader-feedback.html
+tags: [Gardening, Fishing, Memoir-Writing]
 ---
 
 I got out of the shack in a fairly big way this past week. I attended the celebration of fifty years of hard work by the Child Care Association of Illinois, staying in the city for a couple of nights. Over the weekend I went to the Flaherty family reunion in Dimmick Township. Flaherty was my wife Colleen’s maiden name. I wasn’t used to seeing all those people at either event but it came back to me fairly well; mingling, remembering names, short conversations. Seeing old friends is a pleasure all its own, but what also came of my travels is this: I met a lot of *Dave in the Shack* readers, and they told me things about reading what I write.  

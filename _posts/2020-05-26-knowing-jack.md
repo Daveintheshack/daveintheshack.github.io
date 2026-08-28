@@ -4,6 +4,7 @@ title:  "Knowing Jack"
 author: "Dave in the Shack"
 date:   2020-05-26 13:16:00 -0500
 original_url: https://daveintheshack.blogspot.com/2020/05/knowing-jack.html
+tags: [Politics, Health]
 ---
 
 I got to know my wife’s Uncle when I was turning 49 and he was 87.  One of my brothers in law, husband with skills and tools of another of Jack’s nieces, was trying to help him stay in his old farmhouse in Dimmick township.  I became the gopher on the job.  

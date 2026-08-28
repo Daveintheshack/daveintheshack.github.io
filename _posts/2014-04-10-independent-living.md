@@ -4,6 +4,7 @@ title:  "Independent Living"
 author: "Dave in the Shack"
 date:   2014-04-10 14:09:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/04/independent-living_10.html
+tags: [Food]
 ---
 
 There is a Trailways bus that takes off from Burlington, Iowa every morning of the week heading east. It stops in towns along Interstate 80 before arriving at the bus station in downtown Chicago. You can get on the bus in Ottawa at the Dunkin Donuts in front of the North side Kroger at 4:30 a.m.. Dunkin Donuts is open twenty four hours a day so you can wait inside, with or without a donut, if it’s cold or rainy.  

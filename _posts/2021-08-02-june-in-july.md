@@ -4,6 +4,7 @@ title:  "June in July"
 author: "Dave in the Shack"
 date:   2021-08-02 11:49:00 -0500
 original_url: https://daveintheshack.blogspot.com/2021/08/june-in-july.html
+tags: [Family, June, Ireland]
 ---
 
 After many twists and turns, literally, my wife and I got back to Chicago to visit our kids and our grandchild June.  She was five months old on July 17 and very different from when we saw her on our last visit to Chicago in April. 

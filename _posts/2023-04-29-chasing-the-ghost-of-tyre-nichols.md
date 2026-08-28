@@ -4,6 +4,7 @@ title:  "Chasing the Ghost of Tyre Nichols"
 author: "Dave in the Shack"
 date:   2023-04-29 15:06:00 -0500
 original_url: https://daveintheshack.blogspot.com/2023/04/chasing-ghost-of-tyre-nichols.html
+tags: [Family, Travel, Current-Events]
 ---
 
 I don’t expect “free” hotel breakfasts to be good, but you couldn’t call the morning buffet at the Union Street Holiday Inn Express in Memphis bad.  I was cutting an OK waffle into bite-size pieces with a flimsy plastic knife and fork when a young man from the front desk walked over and pasted a Post it Note next to my coffee cup.  It said:

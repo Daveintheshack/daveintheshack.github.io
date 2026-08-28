@@ -4,6 +4,7 @@ title:  "You Hit me, I Hit you"
 author: "Dave in the Shack"
 date:   2015-03-13 09:41:00 -0500
 original_url: https://daveintheshack.blogspot.com/2015/03/you-hit-me-i-hit-you.html
+tags: [Family, Marriage, Food]
 ---
 
 I put my coffee cup, a little brown cup I bought at a second hand store in 1980, upside down on my wood stove. The cup says “Mitch” on the bottom, crude cursive scratched into wet clay and baked into a permanent signature. I think Mitch, whoever he is, probably made it, God knows when, in one of those beginning pottery classes at a community college. Chances are it was the only cup he ever made. It came out nice and round, the handle looks good, but it’s splotchy. Ugly really. I think something went wrong when Mitch fired it in the kiln. I can almost see the disappointment on Mitch's face when he took it out. It found its way to a junk store. I bought it. That was thirty five years ago.  

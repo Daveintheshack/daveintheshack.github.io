@@ -4,6 +4,7 @@ title:  "Spooks and Neighbors"
 author: "Dave in the Shack"
 date:   2013-11-01 08:01:00 -0500
 original_url: https://daveintheshack.blogspot.com/2013/11/spooks-and-neighbors.html
+tags: [Family]
 ---
 
 I don’t know when this happened. If I was more thoughtful I would have written dates down. But on Halloween of some year I noticed, beyond my front stoop, where costumed kids were standing between my Jack O’ lanterns under a porch light, parents lurking in the darkness behind them. They were looking at me and their kids, overseeing the exchange taking place between my bowl of individually wrapped little Snickers and small bags of Whopper malted milk balls and their treat bags. And these were not little kids. I would guess their ages at ten and up. I couldn’t help but wonder what the parents were trying to see. Sometimes I would wave, and they would wave back. Odd, I thought.  

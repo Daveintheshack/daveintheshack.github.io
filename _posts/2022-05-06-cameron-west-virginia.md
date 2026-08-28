@@ -4,6 +4,7 @@ title:  "Cameron West Virginia"
 author: "Dave in the Shack"
 date:   2022-05-06 11:03:00 -0500
 original_url: https://daveintheshack.blogspot.com/2022/05/cameron-west-virginia.html
+tags: [Family, Travel, Politics, Current-Events]
 ---
 
 Cameron West Virginia was the town that most intrigued me.  Aside from the city of Fairmount, it was the largest community I would drive through on Route 250, and it had a new school and an intriguing past.

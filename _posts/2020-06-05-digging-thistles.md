@@ -4,6 +4,7 @@ title:  "Digging Thistles"
 author: "Dave in the Shack"
 date:   2020-06-05 16:02:00 -0500
 original_url: https://daveintheshack.blogspot.com/2020/06/digging-thistles.html
+tags: [Gardening, Christmas]
 ---
 
 I was fortunate to be given space on an organic farm to plant a row of vegetables.   The farm is six miles from my driveway.  It has buffer zones separating it from the flat Illinois corn and bean ground around it.  One of the big crops on the organic farm this year is sunflowers.  That stand of flowers is going to be beautiful.   

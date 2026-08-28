@@ -4,6 +4,7 @@ title:  "Postscript on Century Lake"
 author: "Dave in the Shack"
 date:   2016-09-27 12:50:00 -0500
 original_url: https://daveintheshack.blogspot.com/2016/09/postscript-on-century-lake.html
+tags: [Fishing, Aging]
 ---
 
 Not all my travel writing comes from personal observation.  I mix in research as long as it’s not too difficult.  I was anxious to find out more about Century Lake when I returned to the shack: its size, history, estimated fish population, whatever I could turn up.  Google makes it so easy to identify sources and shop facts these days.  My search however turned up nothing.  A search of Century Lake Ontario quickly devolved into various shipwrecks over several centuries found in Lake Ontario.  There is a Century Lodge on Eagle Lake Ontario.  But Century Lake, the one I came to know?  No footprint at all on the web.  Pretty amazing.  

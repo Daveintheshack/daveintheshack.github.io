@@ -4,6 +4,7 @@ title:  "A Report on Thursday"
 author: "Dave in the Shack"
 date:   2014-10-03 11:54:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/10/a-report-on-thursday.html
+tags: [Family, Gardening, Fishing, Food, Music, Christmas]
 ---
 
 I loaded new music into my CD changer in the shack this morning. I put Pat Metheny (with a touch of Lyle Mays and others) back in their cases and away into the cardboard jazz box after a good two weeks of play and brought out my Bach CD’s. A friend gave me all six Brandenburg concertos and another miscellaneous Bach disc saying he thought I needed more Germans in my line up. My CD player holds five discs so I added Wagner’s Ride of the Valkyries and threw in a classical Indian sitar CD for good measure. I should know the name of the Indian artist but I don’t. It’s in the changer and Bach is playing so I can’t look right now.  

@@ -4,6 +4,7 @@ title:  "...With every paper I'd deliver..."
 author: "Dave in the Shack"
 date:   2011-07-03 09:49:00 -0500
 original_url: https://daveintheshack.blogspot.com/2011/07/with-every-paper-id-deliver.html
+tags: [Family]
 ---
 
 I was home on Saturday when my paper man showed up. He delivers the local daily (except Sunday) newspaper with a bike and a bike trailer. We had spoken months ago. He was fired up then about being a paper man and was especially proud of the tow behind contraption he had built himself to carry the papers. The key to the trailer, he said, were the oversize wheels.  

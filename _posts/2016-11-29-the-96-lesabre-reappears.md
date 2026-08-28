@@ -4,6 +4,7 @@ title:  "The 96 LeSabre Reappears"
 author: "Dave in the Shack"
 date:   2016-11-29 09:40:00 -0600
 original_url: https://daveintheshack.blogspot.com/2016/11/the-96-lesabre-reappears.html
+tags: [Family, Cars, Community, Aging]
 ---
 
 My old workplace reaches me still in odd ways.  I was forwarded a letter from YSB sent by a local auto salvage yard, reporting that in their possession was a 1996 Buick LeSabre, with VIN number, and if it was not claimed in 15 days it would be junked and sold for scrap.  It was my old white LeSabre.  I remember it well.  

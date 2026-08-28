@@ -4,6 +4,7 @@ title:  "Four Days from the Shack Journal"
 author: "Dave in the Shack"
 date:   2014-01-10 12:36:00 -0600
 original_url: https://daveintheshack.blogspot.com/2014/01/four-days-from-shack-journal.html
+tags: [Family, The-Shack, Fishing, Christmas]
 ---
 
 **Monday, January 6, 2014:** Some January 6th in Illinois may have been colder than January 6, 2014. It most likely was, given how long the earth has been around, which scientists armed with radiometric age dating gadgets say is 4.54 billion years old plus or minus .05 billion years. Fundamental Christian theologians armed with bibles they believe are divinely inspired and literally true say the earth is 6,244 years old. The bible centered folks don’t go much for plus or minus as a concept. As you can see there is a whole lot of difference between those two estimates. But neither of them matter particularly in this discussion given that we’ve only been keeping accurate and organized records of daily air temperature for 120 years or so. That is a drop in a bucket geologically. Hardly a drop even. For the very short record the coldest temperature in Illinois since they’ve been keeping records was recorded in Congerville in 1999 when it was -36. Nice little town, Congerville. It’s close to Danvers and Goodfield, in case you can’t place it.  

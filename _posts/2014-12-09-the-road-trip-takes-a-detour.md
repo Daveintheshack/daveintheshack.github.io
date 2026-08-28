@@ -4,6 +4,7 @@ title:  "The Road Trip Takes a Detour"
 author: "Dave in the Shack"
 date:   2014-12-09 11:16:00 -0600
 original_url: https://daveintheshack.blogspot.com/2014/12/the-road-trip-takes-detour.html
+tags: [Family, Road-Trips, Travel]
 ---
 
 *Writers’ conventional wisdom tells me this; every story has background, but you don’t have to tell the whole story. In fact you shouldn’t tell the whole story. The background, that bigger story, is probably only important to you and not your readers. I was never good at following advice, nor have I often been accused of being conventional. And so I offer you this today, a detour from the current road trip which takes you into the past. Let me add that no cows were hurt in the writing of this story.*  

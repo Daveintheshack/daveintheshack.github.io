@@ -4,6 +4,7 @@ title:  "Ted's Last Christmas"
 author: "Dave in the Shack"
 date:   2017-12-24 13:31:00 -0600
 original_url: https://daveintheshack.blogspot.com/2017/12/teds-last-christmas.html
+tags: [Ted, Christmas]
 ---
 
 *If you've been reading* Dave in the Shack *for a while you've read this story before.  I haven't hauled it out in a couple years.  It's had several titles.  The story comes from the days I worked at a nursing home and a man I met there.  Every Christmas Eve I think of Ted. *  

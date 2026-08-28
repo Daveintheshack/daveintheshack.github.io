@@ -4,6 +4,7 @@ title:  "Going to Guatemala"
 author: "Dave in the Shack"
 date:   2017-02-22 08:40:00 -0600
 original_url: https://daveintheshack.blogspot.com/2017/02/going-to-guatemala.html
+tags: [Family, Guatemala, Politics]
 ---
 
 I’m going to Guatemala, the Lake Atitlan area, on an eye care missions with optometrists, thousands of pairs of used glasses, a bunch of modern equipment, and a lot of good people, all of us volunteers, all of us committed to helping people who cannot afford eye care improve their vision.  We’ll operate a four-day clinic in a small town under volcanic peaks inhabited primarily by Mayan Indians, some of whom will speak neither Spanish or English but rather Queche, a pre-Columbian language.  It’s been a number of years since I’ve been there, and I can’t wait to return.  I like the people, both those we serve and the volunteers, I like the work I do in the clinic, and I long to get completely out of here, if only for a little while.  

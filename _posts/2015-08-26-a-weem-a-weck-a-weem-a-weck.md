@@ -4,6 +4,7 @@ title:  "A weem a weck, a weem a weck"
 author: "Dave in the Shack"
 date:   2015-08-26 23:35:00 -0500
 original_url: https://daveintheshack.blogspot.com/2015/08/a-weem-weck-weem-weck.html
+tags: [Fishing, Current-Events, Aging, Music]
 ---
 
 After all this time I never put it together that Montreal’s name involved a mountain, Mont Real.  America, and at least this American, is so caught up in itself.  The extent of my knowledge of that city may have gone beyond this old John Prine lyric, but maybe not.  

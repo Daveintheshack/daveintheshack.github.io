@@ -4,6 +4,7 @@ title:  "Going Home"
 author: "Dave in the Shack"
 date:   2014-08-20 20:22:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/08/going-home.html
+tags: [Current-Events]
 ---
 
 I lived on our farm three miles west of Danvers only eighteen years and some change, counting a college summer and a couple of emergency stays as an adult recovering from long trips. That eighteen year stretch began when I came home from the hospital as a baby and lasted until I moved into a dorm at ISU. And it was a very solid stretch. As a family we went on one three day trip to Ft. Leonard Wood to see my brother Denny graduate from basic training, and after graduating Danvers High School I went to Florida for a week with two classmates, Jeff Melick and Larry Rapp, for the first official trip on my own. Other than that and your occasional week of Boy Scout camp or stays at the 4-H fair I woke up every day and went to sleep every night in that big old farmhouse at the crossroads of a township road (first gravel then blacktop) and Route 9. I’ve lived in Ottawa since 1977, on this property that holds the shack since 1987, much longer than I lived in the Danvers community. But Danvers I guess will always be home. Despite the years it just feels that way.  

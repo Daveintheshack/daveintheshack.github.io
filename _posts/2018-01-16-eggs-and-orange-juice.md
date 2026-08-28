@@ -4,6 +4,7 @@ title:  "Eggs and Orange Juice"
 author: "Dave in the Shack"
 date:   2018-01-16 09:55:00 -0600
 original_url: https://daveintheshack.blogspot.com/2018/01/eggs-and-orange-juice.html
+tags: [Food, Community]
 ---
 
 I cooked breakfast at the homeless shelter again this morning.  I’m happy to report there were a lot of eggs in the fridge.  33 people woke up in the shelter, but as you might guess, not everyone wakes up hungry.  Most all want coffee, but some aren’t ready for food.  Some just want to be left alone.   

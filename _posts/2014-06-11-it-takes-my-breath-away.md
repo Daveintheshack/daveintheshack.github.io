@@ -4,6 +4,7 @@ title:  "It Takes My Breath Away"
 author: "Dave in the Shack"
 date:   2014-06-11 17:10:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/06/it-takes-my-breath-away_11.html
+tags: [Family, Gardening, Music]
 ---
 
 As much as I try to insulate myself here, withdraw after a career working with kids and families, the news sometimes takes my breath away. Sometimes it feels like the air is being sucked right out of this shack. I’ve turned off the e mail feed on my computer and stopped listening to the radio while writing. I check Face Book only on my phone now and have cut way back on connecting there, instead leaving the IPhone on a charger out of reach. I turn my attention to the garden, writing whole blog pieces on nothing but a little plant filled patch of dirt tucked behind my garage. No matter what you do the world intrudes. And it’s a troubling picture.  

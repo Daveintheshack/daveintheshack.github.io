@@ -4,6 +4,7 @@ title:  "A Man Who is Cold"
 author: "Dave in the Shack"
 date:   2021-02-20 14:20:00 -0600
 original_url: https://daveintheshack.blogspot.com/2021/02/a-man-who-is-cold.html
+tags: [Current-Events]
 ---
 
 It’s funny how and when you remember lines from books.

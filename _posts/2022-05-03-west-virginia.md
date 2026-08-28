@@ -4,6 +4,7 @@ title:  "West Virginia"
 author: "Dave in the Shack"
 date:   2022-05-03 09:28:00 -0500
 original_url: https://daveintheshack.blogspot.com/2022/05/west-virginia.html
+tags: [Civil-Rights-History, Travel, Politics, Current-Events]
 ---
 
 I crossed the Ohio River and entered West Virginia on I-70 East, then took the Moundsville/South 250 exit.  I’d been on Interstate highways since I turned onto I-80 in Ottawa.  It was April 20, 2022.     

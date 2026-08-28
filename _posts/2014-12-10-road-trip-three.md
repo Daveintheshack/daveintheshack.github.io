@@ -4,6 +4,7 @@ title:  "Road Trip Three"
 author: "Dave in the Shack"
 date:   2014-12-10 05:08:00 -0600
 original_url: https://daveintheshack.blogspot.com/2014/12/road-trip-three.html
+tags: [Road-Trips, Travel, Gardening, Food]
 ---
 
 When I got to Tennessee it was apparent my trip had changed. I was in the hills. Towns were small and commerce appeared to be at low ebb. Antique stores abounded but looked from the outside to contain very few actual antiques. I would classify them as junque stores. I went through Dover, Bear Spring, and Carlisle only to find myself headed towards Tennessee Ridge, where I seriously doubted the wisdom of my route. I wouldn’t call myself lost, only somewhat compromised.  

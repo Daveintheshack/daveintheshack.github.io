@@ -4,6 +4,7 @@ title:  "Tunes for the Old Crowd"
 author: "Dave in the Shack"
 date:   2014-05-23 08:49:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/05/tunes-for-old-crowd.html
+tags: [Music]
 ---
 
 Whenever I find myself mostly in the company of old people, I think of my Dad. Sometime long after I left home, when my parents were in their seventies, the little town of Danvers organized a Senior Citizens day when the community’s old people would gather each week at the fire station, do some kind of pot luck lunch, and play cards. My Mom was all enthused. My Dad, himself then old, wouldn’t go. His standard line was “Who wants to be around all those old people anyway?” He said the same thing about Florida by the way. That line kept him out of going to a lot of places, which was fine by him. He liked staying home on the farm.  

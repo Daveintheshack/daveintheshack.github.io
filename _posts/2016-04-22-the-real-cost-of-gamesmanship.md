@@ -4,6 +4,7 @@ title:  "The Real Cost of Gamesmanship"
 author: "Dave in the Shack"
 date:   2016-04-22 11:59:00 -0500
 original_url: https://daveintheshack.blogspot.com/2016/04/the-real-cost-of-gamesmanship.html
+tags: [Politics]
 ---
 
 In 2012 at a tax policy conference in Chicago, sponsored by the George W. Bush Institute, moderator Margaret Spellings, former U.S. Secretary of Education, asked Bruce Rauner how people could build a "political constituency for change." This was his response.  

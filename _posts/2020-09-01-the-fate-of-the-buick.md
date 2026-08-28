@@ -4,6 +4,7 @@ title:  "The Fate of the Buick"
 author: "Dave in the Shack"
 date:   2020-09-01 15:02:00 -0500
 original_url: https://daveintheshack.blogspot.com/2020/09/the-fate-of-buick.html
+tags: [Family, Road-Trips, Travel, Gardening, Cars, Community, Health]
 ---
 
 [<img src="/assets/img/blog/2020-09-01-the-fate-of-the-buick-1.jpg" width="240" height="320" />](/assets/img/blog/2020-09-01-the-fate-of-the-buick-1.jpg)

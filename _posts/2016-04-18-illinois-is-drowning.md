@@ -4,6 +4,7 @@ title:  "Illinois is Drowning"
 author: "Dave in the Shack"
 date:   2016-04-18 08:36:00 -0500
 original_url: https://daveintheshack.blogspot.com/2016/04/illinois-is-drowning.html
+tags: [Politics, Christmas]
 ---
 
 I last wrote about Illinois’ finances in January before I left for Florida.  I tend to write before out of state trips thinking that while I’m out of the Illinois, away from the bad news, those running the state will come to their senses, find a compromise, pass a budget, and move forward.  But when I come back I find the same old stuff going on.  There’s only two and a half months left in this fiscal year, the rest of April, then May and June.  After the failed meeting of the governor and legislative leaders last Tuesday it appears we will go this entire fiscal year without a budget.  It’s hard to believe.  Really it is.   As luck would have it I retired as executive director of a largely state funded youth and family serving agency when I was 62.  Had I not done so, had I chosen instead to work till I was 65, this would have been my final year running YSB.  I would have gone out on this awful note, assuming I had made it through those three years without the stress killing me.  There are a lot of questions that must be asked.  I wish there were more answers.  I hardly know where to begin.  How about these for starters:  

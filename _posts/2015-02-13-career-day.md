@@ -4,6 +4,7 @@ title:  "Career Day"
 author: "Dave in the Shack"
 date:   2015-02-13 08:36:00 -0600
 original_url: https://daveintheshack.blogspot.com/2015/02/career-day.html
+tags: [Community]
 ---
 
 I didn’t prepare anything for career day at Ottawa High School. I was asked so long ago, and it snuck up on me. I just went to the high school after yoga and went with the flow.  

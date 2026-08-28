@@ -4,6 +4,7 @@ title:  "Bucket Lists, A Garden Report, and a Nugget of Local News"
 author: "Dave in the Shack"
 date:   2018-08-04 14:12:00 -0500
 original_url: https://daveintheshack.blogspot.com/2018/08/bucket-lists-garden-report-and-nugget.html
+tags: [Ireland, Gardening, Food, Community]
 ---
 
 I hear a lot of people talk about **bucket lists**.  Occasionally I admit to thinking of something I’d like to do before all this is over, but I’ve never been big on lists.  I do realize some of the things I once strived for are probably now out of reach.  For example, it doesn’t appear I’ll be pitching for a Major League baseball team as I once dreamed.  I’ll be 67 in August and my curveball never really developed into what you would call an out pitch.  Besides, my legs aren’t what they used to be.  They say the legs go first for ball players.  Mine left a long time ago. Nor does it seem likely I’ll have a romantic encounter with Vanna White.  Neither of us is getting any younger, though she looks the same as always.  My wife thinks she’s had work done.  Vanna hasn’t answered my fan mail for more than twenty years.  I’ve drawn a line through that list item too.  

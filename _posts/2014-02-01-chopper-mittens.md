@@ -4,6 +4,7 @@ title:  "Chopper Mittens"
 author: "Dave in the Shack"
 date:   2014-02-01 14:01:00 -0600
 original_url: https://daveintheshack.blogspot.com/2014/02/i-will-be-out-of-country-for-much-of.html
+tags: [Family, Ireland, Christmas]
 ---
 
 I will be out of the country for much of the next two weeks and will not publish another update from the shack until I return. That’s a first. I’ve given you a long post, or a short story, about the farm to make up for my absence. Hope you like it.  

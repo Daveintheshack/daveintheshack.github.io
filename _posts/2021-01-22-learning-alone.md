@@ -4,6 +4,7 @@ title:  "Learning Alone"
 author: "Dave in the Shack"
 date:   2021-01-22 11:09:00 -0600
 original_url: https://daveintheshack.blogspot.com/2021/01/learning-alone.html
+tags: [Family, Current-Events, Health]
 ---
 
 A while back I posted a story to my blog about Polio that was especially well received.  I judge that by the number of clicks, or times a post is opened.  I am very grateful my pieces are being read at all.  Some are read more than others, which is fine with me.  I try to write what I feel rather than anticipating what you want to read.  Some of the stories resonate and some don’t.

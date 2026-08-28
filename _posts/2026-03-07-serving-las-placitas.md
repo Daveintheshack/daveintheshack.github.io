@@ -4,6 +4,7 @@ title:  "Serving Las Placitas"
 author: "Dave in the Shack"
 date:   2026-03-07 11:09:00 -0600
 original_url: https://daveintheshack.blogspot.com/2026/03/serving-las-placitas.html
+tags: [Civil-Rights-History]
 ---
 
 I Care International may have served patients on the slope of a volcano before, but this was the first time I was aware of it.  Known as “Chaparrastique” by the locals, but formally Volcan de San Miguel on maps, the volcano upon which we worked in El Salvador is one of the most active volcanoes in Central America.  I learned that after I got home.

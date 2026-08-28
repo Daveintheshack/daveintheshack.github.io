@@ -4,6 +4,7 @@ title:  "Dinner in the Field"
 author: "Dave in the Shack"
 date:   2015-07-10 09:21:00 -0500
 original_url: https://daveintheshack.blogspot.com/2015/07/dinner-in-field.html
+tags: [Gardening]
 ---
 
 My Dad grew up on a farm near Danvers, moved to Chicago at age nineteen or so, and came back ten years later to farm on his own.  I think it changed him.  He had more to talk about somehow.  Among the farmers I grew up with talk was sometimes scarce.   

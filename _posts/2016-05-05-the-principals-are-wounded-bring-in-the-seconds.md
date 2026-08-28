@@ -4,6 +4,7 @@ title:  "The Principals are Wounded.  Bring in the Seconds."
 author: "Dave in the Shack"
 date:   2016-05-05 10:21:00 -0500
 original_url: https://daveintheshack.blogspot.com/2016/05/the-principals-are-wounded-bring-in.html
+tags: [Politics]
 ---
 
 [<img src="/assets/img/blog/2016-05-05-the-principals-are-wounded-bring-in-the-seconds-1.jpg" width="320" height="209" />](/assets/img/blog/2016-05-05-the-principals-are-wounded-bring-in-the-seconds-1.jpg) So when was the challenge thrown down on this duel that is dominating Illinois politics?  I’m not sure. Neither am I sure why it started in the first place.  

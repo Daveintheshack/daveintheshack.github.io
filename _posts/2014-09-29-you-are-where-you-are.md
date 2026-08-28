@@ -4,6 +4,7 @@ title:  "You Are Where You Are"
 author: "Dave in the Shack"
 date:   2014-09-29 18:23:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/09/you-are-where-you-are.html
+tags: [Gardening]
 ---
 
 My Dad made obvious statements impossible to refute. He brought these universal truths out often, enjoying them immensely. They were simple and pure, defying follow up questions or responses of any kind really. One of his favorite lines was;  

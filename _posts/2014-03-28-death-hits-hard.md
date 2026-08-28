@@ -4,6 +4,7 @@ title:  "Death Hits Hard"
 author: "Dave in the Shack"
 date:   2014-03-28 11:24:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/03/death-hits-hard.html
+tags: [Cars, Health]
 ---
 
 Death hits hard, not only for the dying, but for those of us still alive. I’m pretty sure our understanding of death, our fear of it, changes the way we live.  

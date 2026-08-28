@@ -4,6 +4,7 @@ title:  "My Brain was Interrupted"
 author: "Dave in the Shack"
 date:   2022-05-31 14:50:00 -0500
 original_url: https://daveintheshack.blogspot.com/2022/05/my-brain-was-interrupted.html
+tags: [Road-Trips, Travel, Politics, Health]
 ---
 
 [<img src="/assets/img/blog/2022-05-31-my-brain-was-interrupted-1.jpg" width="225" height="127" />](/assets/img/blog/2022-05-31-my-brain-was-interrupted-1.jpg)  

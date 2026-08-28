@@ -4,6 +4,7 @@ title:  "Hot Dog Blog-the Final Word"
 author: "Dave in the Shack"
 date:   2015-06-16 22:26:00 -0500
 original_url: https://daveintheshack.blogspot.com/2015/06/hot-dog-blog-final-word.html
+tags: [Gardening]
 ---
 
 What’s in a hot dog?  You’re not sure are you?  I can feel your lack of clarity through the little ones and zeroes that have become electrical and now somehow appear as letters of the alphabet on our screens.  Let me help you.  

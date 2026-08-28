@@ -4,6 +4,7 @@ title:  "Gone Fishing"
 author: "Dave in the Shack"
 date:   2024-05-15 16:08:00 -0500
 original_url: https://daveintheshack.blogspot.com/2024/05/gone-fishing.html
+tags: [Travel, Fishing, Current-Events]
 ---
 
 The shack is a pretty good getaway, especially when the trees in the ravine leaf out, but I find I need even more separation at times from the world outside.  I’ve developed a love-hate relationship with the news.  I think it’s a duty to stay informed of and involved in world and national events. But sometimes when I do, I get emotional.

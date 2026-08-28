@@ -4,6 +4,7 @@ title:  "Montgomery, Alabama-the back story"
 author: "Dave in the Shack"
 date:   2019-04-16 15:24:00 -0500
 original_url: https://daveintheshack.blogspot.com/2019/04/montgomery-alabama-back-story.html
+tags: [Civil-Rights-History, Travel, Food, Music]
 ---
 
 I left the Waffle house and drove downtown.  Montgomery had a different feel than Birmingham.  It felt older, steeped in more tradition, a city with a long past.  Turns out that’s true.   Birmingham’s story is about a steel industry that evolved after the Civil War.  Montgomery’s history is about cotton and was shaped before that war.  Here’s the short story on Montgomery.  Let’s see if I can sum up a couple hundred years of history into less than 1200 words by getting down to the important stuff.  

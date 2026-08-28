@@ -4,6 +4,7 @@ title:  "A Musical Conversation with my Dad"
 author: "Dave in the Shack"
 date:   2016-05-10 09:12:00 -0500
 original_url: https://daveintheshack.blogspot.com/2016/05/a-musical-conversation-with-my-dad.html
+tags: [Family]
 ---
 
 [<img src="/assets/img/blog/2016-05-10-a-musical-conversation-with-my-dad-1.jpg" width="320" height="235" />](/assets/img/blog/2016-05-10-a-musical-conversation-with-my-dad-1.jpg) *  

@@ -4,6 +4,7 @@ title:  "Santa is Such a Ham"
 author: "Dave in the Shack"
 date:   2017-12-15 08:52:00 -0600
 original_url: https://daveintheshack.blogspot.com/2017/12/i-ran-into-santa-one-sunday-afternoon.html
+tags: [Road-Trips, Travel, Politics, Christmas]
 ---
 
 [<img src="/assets/img/blog/2017-12-15-santa-is-such-a-ham-1.jpg" width="240" height="320" />](/assets/img/blog/2017-12-15-santa-is-such-a-ham-1.jpg)  

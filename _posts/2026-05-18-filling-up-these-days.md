@@ -4,6 +4,7 @@ title:  "Filling Up These Days"
 author: "Dave in the Shack"
 date:   2026-05-18 16:01:53 -0500
 original_url: https://daveintheshack.blogspot.com/2026/05/filling-up-these-days-my-lawn-needed.html
+tags: [Christmas]
 ---
 
 My lawn needed mowing last Monday, but I was out of gas. In early April, I emptied what was left in my five-gallon fuel container into the mower, and it was almost empty.  So, I headed to Thorntons, a gas station in Ottawa.

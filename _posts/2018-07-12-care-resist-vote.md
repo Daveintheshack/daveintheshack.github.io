@@ -4,6 +4,7 @@ title:  "Care, Resist, Vote"
 author: "Dave in the Shack"
 date:   2018-07-12 15:29:00 -0500
 original_url: https://daveintheshack.blogspot.com/2018/07/care-resist-vote.html
+tags: [Politics, Current-Events, Community]
 ---
 
 [<img src="/assets/img/blog/2018-07-12-care-resist-vote-1.jpg" width="320" height="240" />](/assets/img/blog/2018-07-12-care-resist-vote-1.jpg)  

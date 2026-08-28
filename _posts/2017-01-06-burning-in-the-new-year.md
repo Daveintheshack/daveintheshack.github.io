@@ -4,6 +4,7 @@ title:  "Burning in the New Year"
 author: "Dave in the Shack"
 date:   2017-01-06 09:31:00 -0600
 original_url: https://daveintheshack.blogspot.com/2017/01/burning-in-new-year.html
+tags: [Road-Trips, Fishing, Food]
 ---
 
 [<img src="/assets/img/blog/2017-01-06-burning-in-the-new-year-1.jpg" width="240" height="320" />](/assets/img/blog/2017-01-06-burning-in-the-new-year-1.jpg)  

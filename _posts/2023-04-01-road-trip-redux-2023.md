@@ -4,6 +4,7 @@ title:  "Road Trip Redux - 2023"
 author: "Dave in the Shack"
 date:   2023-04-01 13:52:00 -0500
 original_url: https://daveintheshack.blogspot.com/2023/04/road-trip-redux-2023.html
+tags: [Road-Trips, Guatemala, Travel, Cars]
 ---
 
 I took a day to rest and do laundry when I got back from Guatemala and left the next day on a road trip.  On that same day, my wife arranged for an early ride north to Rockford to catch a plane for Sarasota where her sister lives.  I headed south mid-morning.  I was driving my wife’s 2018 Chevy Equinox with 39,000 miles.  I felt guilty leaving the Buick parked in the garage.  So guilty I apologized out loud before the garage door shut.

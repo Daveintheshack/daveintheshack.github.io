@@ -4,6 +4,7 @@ title:  "Road Trip-Getting Started"
 author: "Dave in the Shack"
 date:   2018-03-28 16:07:00 -0500
 original_url: https://daveintheshack.blogspot.com/2018/03/road-trip-getting-started.html
+tags: [Road-Trips, Travel]
 ---
 
 I didn’t need the road atlas when I headed  south out my driveway onto Caton Road in Ottawa.  It was 5:57 a.m., still dark, and the glowing green light from the odometer told me the Buick had 118,213 miles on it.  It was Tuesday the 27<sup>th</sup> of February and I was leaving home with a full tank of gas.  Like most,  I travel the same streets and roads over and over.  I left the radio off on purpose and put the windows down.   The air was cold and clean.  I rolled past my neighbor’s houses.  Few had lights on.  It felt like  just me out there.  

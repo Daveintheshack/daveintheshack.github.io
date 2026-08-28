@@ -4,6 +4,7 @@ title:  "A New Broom Sweeps Clean"
 author: "Dave in the Shack"
 date:   2018-07-27 13:51:00 -0500
 original_url: https://daveintheshack.blogspot.com/2018/07/a-new-broom-sweeps-clean.html
+tags: [Family]
 ---
 
 I think about the future more and more.  I try to predict what life, both my own and the lives of those close to me, will be like in the years ahead.  Private and unspoken, I base predictions on what is happening now, politics and government, technology, how we interact with each other, the world around us.  I get my information from books, the papers on the driveway, the news delivered to my inbox and on my phone, and my own observations.  

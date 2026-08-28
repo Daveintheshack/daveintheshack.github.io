@@ -4,6 +4,7 @@ title:  "Welcome June"
 author: "Dave in the Shack"
 date:   2021-03-01 10:37:00 -0600
 original_url: https://daveintheshack.blogspot.com/2021/03/welcome-june.html
+tags: [Family, June, Politics, Current-Events]
 ---
 
 In August we got a call on a Friday that Moe and Don wanted to come down and see us Sunday.  Nice surprise.  They had just been down on the 4<sup>th</sup> of July.  We always take visits from them whenever we can get them, but they were rare during the pandemic.   They were very careful about the virus and insisted we be careful as well. 

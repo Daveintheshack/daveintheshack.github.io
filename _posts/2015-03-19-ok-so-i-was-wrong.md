@@ -4,6 +4,7 @@ title:  "OK, So I was Wrong"
 author: "Dave in the Shack"
 date:   2015-03-19 07:45:00 -0500
 original_url: https://daveintheshack.blogspot.com/2015/03/ok-so-i-was-wrong.html
+tags: [Road-Trips, Travel]
 ---
 
 I have left so many things unfinished; topics merely introduced, follow ups promised, to do lists not done, sequels languishing somewhere that can’t be found. It’s awful. So let me follow up on something.  

@@ -4,6 +4,7 @@ title:  "Hamburger Mary Comes to Ottawa"
 author: "Dave in the Shack"
 date:   2024-06-06 15:33:00 -0500
 original_url: https://daveintheshack.blogspot.com/2024/06/hamburger-mary-comes-to-ottawa.html
+tags: [Personal-Essays]
 ---
 
 I now know how to respond when people ask me this;

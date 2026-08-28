@@ -4,6 +4,7 @@ title:  "Music Appreciation: Chopin"
 author: "Dave in the Shack"
 date:   2014-01-23 13:35:00 -0600
 original_url: https://daveintheshack.blogspot.com/2014/01/music-appreciation-chopin.html
+tags: [Family, Cocktails-Spirits, Music]
 ---
 
 I never wanted a TV here in the shack but I always wanted a good sound system. I’ve loved listening to recorded music since my sister’s 45’s in the 1950’s, then the big sound from the Telefunken cabinet stereo (our family’s first) my brother brought home from Germany when he got out of the army, to the sound of WLS Top 40 hits from the tiny transistor radio in my bedroom, and to countless systems and formats I’ve owned since then. While building the shack I strung wire for ear high speakers through the studs in the wall, put a sub woofer in the corner, and hooked them all up to a CD player, an FM tuner, and a turntable with a USB port.  

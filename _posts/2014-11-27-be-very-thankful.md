@@ -4,6 +4,7 @@ title:  "Be Very Thankful"
 author: "Dave in the Shack"
 date:   2014-11-27 10:26:00 -0600
 original_url: https://daveintheshack.blogspot.com/2014/11/be-very-thankful.html
+tags: [Road-Trips, Travel, Health]
 ---
 
 I had a work flashback this week when I was thrown back into the world of acronyms. I thought I was visiting a nursing home and found to my amazement that I was instead standing in an ICF-MI. This is proof that you never know where you’re going to find yourself.  

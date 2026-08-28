@@ -4,6 +4,7 @@ title:  "Zanesville Ohio"
 author: "Dave in the Shack"
 date:   2022-04-29 07:28:00 -0500
 original_url: https://daveintheshack.blogspot.com/2022/04/zanesville-ohio.html
+tags: [Road-Trips, Civil-Rights-History, Travel, Cars, Cocktails-Spirits, Politics, Aging]
 ---
 
 I don’t have anything against Indiana.  It’s “The Gateway to the Midwest” according to their marketing campaign.  At least it’s a descriptive phrase.

@@ -4,6 +4,7 @@ title:  "Heading North"
 author: "Dave in the Shack"
 date:   2021-10-05 13:27:00 -0500
 original_url: https://daveintheshack.blogspot.com/2021/10/heading-north.html
+tags: [Gardening, Fishing, Current-Events]
 ---
 
 COVID has changed even the simplest of things.  Like the annual guys’ fishing trip to Canada.  What’s simpler than going fishing?   Assemble the group, get the deposits, book a cabin on a lake, buy food, check your equipment, pack up and go, right? 

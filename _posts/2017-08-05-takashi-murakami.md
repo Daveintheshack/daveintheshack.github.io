@@ -4,6 +4,7 @@ title:  "Takashi Murakami"
 author: "Dave in the Shack"
 date:   2017-08-05 14:32:00 -0500
 original_url: https://daveintheshack.blogspot.com/2017/08/takashi-murakami.html
+tags: [Family]
 ---
 
 At the beginning of June we were in Chicago celebrating- family birthdays, a new job, a new business opportunity, and summer.  There is a lot of discord in America these days.  Conversation across the country among friends and family is rife with controversy and misgivings.  You couldn’t prove it by us during that trip. We stayed in a good old (new to us) hotel with a rooftop bar, the Rafaelo*,* saw the kids, met up with friends, and laughed a lot.  It was good to get away after a long time going nowhere.  

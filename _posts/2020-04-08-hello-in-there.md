@@ -4,6 +4,7 @@ title:  "Hello in There"
 author: "Dave in the Shack"
 date:   2020-04-08 06:40:00 -0500
 original_url: https://daveintheshack.blogspot.com/2020/04/i-spent-monday-april-6-th-believing.html
+tags: [Current-Events, Aging, Music]
 ---
 
 [<img src="/assets/img/blog/2020-04-08-hello-in-there-1.jpg" width="267" height="320" />](/assets/img/blog/2020-04-08-hello-in-there-1.jpg)  

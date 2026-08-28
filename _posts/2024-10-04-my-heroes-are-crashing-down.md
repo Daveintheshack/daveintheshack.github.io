@@ -4,6 +4,7 @@ title:  "My Heroes are Crashing Down"
 author: "Dave in the Shack"
 date:   2024-10-04 10:50:00 -0500
 original_url: https://daveintheshack.blogspot.com/2024/10/my-heroes-are-crashing-down.html
+tags: [Cocktails-Spirits, Current-Events, Music]
 ---
 
 This story will only repeat.  A voice on early morning radio informs us of another musician’s death.  A musician whose life paralleled ours, whose music lives in your heart along with lyrics that name your fears and hopes, joy and sadness.  Gone. 

@@ -4,6 +4,7 @@ title:  "Road Trip Six"
 author: "Dave in the Shack"
 date:   2014-12-19 12:36:00 -0600
 original_url: https://daveintheshack.blogspot.com/2014/12/road-trip-six.html
+tags: [Road-Trips, Travel, Fishing, Music, Christmas]
 ---
 
 After church I avoided Tuskegee and went through Troy, Spring Hill, and Enterprise on my way to the Florida border. l had a late lunch at a Chinese restaurant in Hartford, which looked as if it were once a fine little town. The young Chinese couple’s establishment was one of the last open on the little town square. How will these towns survive?  

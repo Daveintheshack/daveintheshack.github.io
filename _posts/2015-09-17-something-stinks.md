@@ -4,6 +4,7 @@ title:  "Something Stinks"
 author: "Dave in the Shack"
 date:   2015-09-17 08:42:00 -0500
 original_url: https://daveintheshack.blogspot.com/2015/09/something-stinks.html
+tags: [Gardening, Fishing]
 ---
 
 Something stinks in the ravine outside the shack.  It’s the smell of something dead, which is one of those distinctive bad smells instantly recognized, like skunk.  I smell it when I open the windows and the wind is right.  I don’t want to look for the source.  Besides, I’ve learned if you can stand it that dead smell fades fairly quickly, depending of course on the size of the carcass.  

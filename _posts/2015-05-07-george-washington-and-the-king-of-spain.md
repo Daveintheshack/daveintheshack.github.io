@@ -4,6 +4,7 @@ title:  "George Washington and the King of Spain"
 author: "Dave in the Shack"
 date:   2015-05-07 08:21:00 -0500
 original_url: https://daveintheshack.blogspot.com/2015/05/george-washington-and-king-of-spain.html
+tags: [Family]
 ---
 
 Sometimes you sit on tantalizing facts or records of events, hoping you have the opportunity to insert them into something larger you are writing, and it never happens. I’ve tried fitting them in before. Later, rereading the piece, it’s apparent the tantalizing bit is awkward. Out of place. Forced. Reluctantly I take them out. They are good little things, but they fit nowhere, and end up hidden somewhere on the hard drive, unused, not worthy of a whole story to hold them. Like this.  

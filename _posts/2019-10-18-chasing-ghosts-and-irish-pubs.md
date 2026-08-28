@@ -4,6 +4,7 @@ title:  "Chasing Ghosts and Irish Pubs"
 author: "Dave in the Shack"
 date:   2019-10-18 14:55:00 -0500
 original_url: https://daveintheshack.blogspot.com/2019/10/chasing-ghosts-and-irish-pubs.html
+tags: [Ireland, Civil-Rights-History, Music]
 ---
 
 I went to Ireland on the trail of two men, William James McClure, (1815-1895) who was born, lived, and died in Antrim County, Ireland and his son Robert Montgomery McClure, who came to America from there at age 18.  I just learned William’s name, and that of his wife Sarah (1815-1914), about a month ago.  His name and his dates of birth and death are absolutely all I know about him.  

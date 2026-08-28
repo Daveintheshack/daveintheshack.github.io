@@ -4,6 +4,7 @@ title:  "More Lessons Learned in Montgomery"
 author: "Dave in the Shack"
 date:   2019-05-23 15:21:00 -0500
 original_url: https://daveintheshack.blogspot.com/2019/05/the-recently-opened-legacy-museum-eight.html
+tags: [Civil-Rights-History, Travel, Politics, Current-Events]
 ---
 
 The recently opened Legacy Museum, eight blocks away from the National Memorial for Peace and Justice (Lynching museum), is on Coosa Street.  Coosa Street is close to the riverfront, and that area of Montgomery enjoying a revival.  Someone built a minor league baseball stadium down there, home to the Montgomery Biscuits, an AA Southern League affiliate of the Tampa Bay Rays.  Lots of trendy places are popping up downtown.  In fact, the city of Montgomery has won awards for its downtown development.  I suppose it was a good sign that I had a little trouble finding a spot to park the Buick.  My only interest was getting inside the Legacy Museum.  

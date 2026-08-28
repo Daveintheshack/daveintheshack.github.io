@@ -4,6 +4,7 @@ title:  "Beyond Words"
 author: "Dave in the Shack"
 date:   2017-01-14 10:58:00 -0600
 original_url: https://daveintheshack.blogspot.com/2017/01/beyond-words.html
+tags: [Music]
 ---
 
 Whenever we, I refer to the big we, human beings on the planet graced with language and the means to communicate now so easily with one another, find ourselves in or even close to a moment so beautiful, so striking, which so captures our attention and fills our senses that the phrase “beautiful beyond words” springs to mind; we should take notes.  We have to first find, then share those words if we possibly can.  When those moments happen we are living the very best parts of our lives.  They should not go unreported.  

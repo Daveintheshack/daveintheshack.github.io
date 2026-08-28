@@ -4,6 +4,7 @@ title:  "In Gratitude"
 author: "Dave in the Shack"
 date:   2021-04-23 14:29:00 -0500
 original_url: https://daveintheshack.blogspot.com/2021/04/in-gratitude.html
+tags: [Family, Road-Trips, Health, Music]
 ---
 
 I want to tell you about my eyes. 

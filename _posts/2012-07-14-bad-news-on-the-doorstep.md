@@ -4,6 +4,7 @@ title:  "Bad news on the doorstep..."
 author: "Dave in the Shack"
 date:   2012-07-14 20:42:00 -0500
 original_url: https://daveintheshack.blogspot.com/2012/07/bad-news-on-doorstep.html
+tags: [Gardening]
 ---
 
 During this summer drought I've been watering my garden early in the morning. Sometimes I'm out there when the paper lady shows up. Her husband cruises slowly down our street and hands her papers from the car window which she throws on our driveways. Used to be all the neighbors got a paper. The stops now are both few and far between. She complains about the cost of the plastic bags, which the Tribune must require because why would you bother putting the paper in a plastic bag these last couple of hot dry weeks? If the carriers have any discretion over the bags they use my carrier has to be buying the absolute thinnest and cheapest. They used to be blue. Now they're flimsy see through. They tear immediately when they hit the concrete on the drive, leaving small holes. I discovered this because I used to use the Trib bags to clean up after my dog. I'm using other bags now after learning the hard way. I feel like the whole newspaper thing is deteriorating. What can you do?  

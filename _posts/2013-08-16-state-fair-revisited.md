@@ -4,6 +4,7 @@ title:  "State Fair Revisited"
 author: "Dave in the Shack"
 date:   2013-08-16 09:21:00 -0500
 original_url: https://daveintheshack.blogspot.com/2013/08/state-fair-revisited_16.html
+tags: [Fishing, Food, Current-Events, Aging]
 ---
 
 I visited the State Fair this week, and it isn’t what it used to be. Like everything else, it’s changed, though not entirely for the worse. I get tired of old people complaining. So consider this not as a complaint, but as an observation of change regarding a summertime classic: the Illinois State Fair in Springfield.  

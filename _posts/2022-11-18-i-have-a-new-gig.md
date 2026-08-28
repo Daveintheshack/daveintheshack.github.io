@@ -4,6 +4,7 @@ title:  "I Have a New Gig"
 author: "Dave in the Shack"
 date:   2022-11-18 15:46:00 -0600
 original_url: https://daveintheshack.blogspot.com/2022/11/i-have-new-gig.html
+tags: [Family, Food, Politics, Current-Events]
 ---
 
 If you read Dave in the Shack by getting this email, you’ve not heard from me since September.  Here’s what is going on.  I have a new gig.  I’ve been writing for the local paper in a program called the Write Team.  My article appears every two weeks and is read by people in the Illinois Valley in their local Shaw Media publications; The News Tribune in LaSalle-Peru and the Times of Ottawa and Streator.  It has brought me new readers, and I post pictures of their articles on my FaceBook page (to get around Shaw Media’s paywall) but I’ve neglected to post them in Dave in the Shack and distribute them through my email list.

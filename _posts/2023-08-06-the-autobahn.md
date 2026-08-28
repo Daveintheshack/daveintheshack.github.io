@@ -4,6 +4,7 @@ title:  "The Autobahn"
 author: "Dave in the Shack"
 date:   2023-08-06 11:17:00 -0500
 original_url: https://daveintheshack.blogspot.com/2023/08/the-autobahn.html
+tags: [Road-Trips, Travel, Cars]
 ---
 
 At the end of the summer of 1974, with my Eurail pass expired, I took to the highways.  It had been a great summer, but my money was running low, and I needed to reload.  I heard good things about Aberdeen, Scotland.  The North Sea oil boom was in full swing, American companies were hiring for their offshore platforms, and they spoke my language.  Good money, they said.

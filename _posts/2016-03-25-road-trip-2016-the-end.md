@@ -4,6 +4,7 @@ title:  "Road Trip 2016-The End"
 author: "Dave in the Shack"
 date:   2016-03-25 09:18:00 -0500
 original_url: https://daveintheshack.blogspot.com/2016/03/road-trip-2016-end.html
+tags: [Family, Road-Trips, Guatemala, Travel, Gardening]
 ---
 
 I can’t figure out Florida.  It confuses me somehow.   My hotel was on the Interstate, which I wanted to leave, but I had gotten a late start.  I felt tired so I slept in, had a banana and a cup of coffee for breakfast at a gas station, filled up and drove onto the on ramp towards Orlando.  It was the path of least resistance.  I’d strike out into rural Florida later.  

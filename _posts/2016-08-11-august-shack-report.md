@@ -4,6 +4,7 @@ title:  "August Shack Report"
 author: "Dave in the Shack"
 date:   2016-08-11 09:16:00 -0500
 original_url: https://daveintheshack.blogspot.com/2016/08/august-shack-report.html
+tags: [Gardening, The-Shack, Memoir-Writing]
 ---
 
 August is the best month of summer. Things most anticipated come to fruition; tomatoes, BLT’s,  peppers, melons, vacations.  August is an ending of sorts but a good ending.  August is when summers are reflected upon as promise realized. This one, the summer of 2016, was particularly good.   I’m turning 65 Saturday, entering the safe harbor of socialized medicine called Medicare, and finally reaching the age in which I’m old enough to be officially retired.  I quit working three years ago which some consider early.  It’s been almost perfect, except that at 65 I am still an unpublished writer.  I shouldn’t complain.  The world has been kind to me.  

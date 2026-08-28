@@ -4,6 +4,7 @@ title:  "Paper Route"
 author: "Dave in the Shack"
 date:   2016-08-17 15:48:00 -0500
 original_url: https://daveintheshack.blogspot.com/2016/08/paper-route.html
+tags: [Family, Gardening, Community, Christmas]
 ---
 
 My son Dean, out of nowhere, told us long ago at the dinner table he wanted a paper route.  He was maybe 11.  My kids amaze me.  Just when I think I know them, they change.  

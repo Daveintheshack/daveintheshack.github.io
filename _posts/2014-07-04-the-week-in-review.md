@@ -4,6 +4,7 @@ title:  "The Week in Review"
 author: "Dave in the Shack"
 date:   2014-07-04 13:51:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/07/the-week-in-review.html
+tags: [Personal-Essays]
 ---
 
 Some weeks fly by and some weeks crawl.  

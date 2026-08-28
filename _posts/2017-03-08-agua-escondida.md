@@ -4,6 +4,7 @@ title:  "Agua Escondida"
 author: "Dave in the Shack"
 date:   2017-03-08 09:17:00 -0600
 original_url: https://daveintheshack.blogspot.com/2017/03/agua-escondida.html
+tags: [Guatemala]
 ---
 
 From San Lucas Toliman we went up the mountain another 800 feet or so in an old school bus over bad road  to Agua Escondida where the clinic was set up in an old hall next to a church.  It was a steep climb.   There weren’t enough seats so some of us stood.  Each morning the bus was filled with conversation and laughter.  As we gringos crowded into the bus and drove up through the forest it was clear we enjoyed each other’s company and looked forward to the work.  

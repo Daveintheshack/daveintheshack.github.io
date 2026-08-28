@@ -4,6 +4,7 @@ title:  "The Road to Selma"
 author: "Dave in the Shack"
 date:   2019-06-01 16:37:00 -0500
 original_url: https://daveintheshack.blogspot.com/2019/06/the-road-to-selma.html
+tags: [Family, Road-Trips, Civil-Rights-History, Travel, Politics]
 ---
 
 *It’s the first week of June and I’m still writing about a trip I took in the Buick on the back roads of Alabama in February.  My apologies.  I learned too much, both on the trip and in doing research back in the shack, not to tell the whole story. *  

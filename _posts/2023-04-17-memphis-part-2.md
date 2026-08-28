@@ -4,6 +4,7 @@ title:  "Memphis Part 2"
 author: "Dave in the Shack"
 date:   2023-04-17 17:12:00 -0500
 original_url: https://daveintheshack.blogspot.com/2023/04/memphis-part-2.html
+tags: [Family, Travel, Politics, Current-Events]
 ---
 
 [<img src="/assets/img/blog/2023-04-17-memphis-part-2-1.jpg" width="320" height="119" />](/assets/img/blog/2023-04-17-memphis-part-2-1.jpg)  

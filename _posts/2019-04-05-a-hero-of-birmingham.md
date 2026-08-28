@@ -4,6 +4,7 @@ title:  "A Hero of Birmingham"
 author: "Dave in the Shack"
 date:   2019-04-05 16:33:00 -0500
 original_url: https://daveintheshack.blogspot.com/2019/04/a-hero-in-birmingham.html
+tags: [Family, Civil-Rights-History, Travel, Politics, Current-Events, Christmas]
 ---
 
 Birmingham Alabama is entirely a post civil war city of the South.  It was strategically established in 1871 at the intersection of two railroad lines.  In 1880, fifteen years after the end of the civil war, Birmingham’s population was only 3,086.  Twenty years later, in 1900, it had grown to 12 times that size (38,000).  In 1930 the population swelled to 260,000 and it peaked in 1960 at 341,000.  

@@ -4,6 +4,7 @@ title:  "Astronomy"
 author: "Dave in the Shack"
 date:   2014-02-27 18:55:00 -0600
 original_url: https://daveintheshack.blogspot.com/2014/02/astronomy.html
+tags: [Gardening]
 ---
 
 The National Science Foundation polled 2,200 random Americans in 2012 and found that 26% of those polled believed the sun revolved around the earth. It didn’t seem like a trick question. They asked, “Does the Earth go around the Sun or does the Sun go around the Earth.” Our collective failure to do better as Americans alarms me. The American Association for the Advancement of Science was talking about that poll at their annual meeting not long ago in Chicago. Sounds like they have their work cut out for them, advancing science that is, especially when it comes to astronomy.  

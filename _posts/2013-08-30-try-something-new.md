@@ -4,6 +4,7 @@ title:  "Try Something New"
 author: "Dave in the Shack"
 date:   2013-08-30 11:32:00 -0500
 original_url: https://daveintheshack.blogspot.com/2013/08/try-something-new_2461.html
+tags: [Family]
 ---
 
 I’m devoting some of the time I’ve gained by retiring to things that are new. I’m lucky in that my kids keep me up on new music. Their tastes range widely and they share new groups with me. But for the most part finding things that are new requires work. The internet helps. So, sometimes, does Face Book. Face Book is how I found *Button Poetry*. Someone shared a link, I watched my first video of a spoken poet, and there you go. I read lots of poetry as an English major and an English teacher but I never had time for poetry when I did social work. I was lucky if I could read everything I wanted in the newspaper.  

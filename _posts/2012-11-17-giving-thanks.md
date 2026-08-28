@@ -4,6 +4,7 @@ title:  "Giving Thanks"
 author: "Dave in the Shack"
 date:   2012-11-17 11:27:00 -0600
 original_url: https://daveintheshack.blogspot.com/2012/11/giving-thanks.html
+tags: [Family]
 ---
 
 On this Thanksgiving I’m thankful for much, but I’m especially thankful for my shack. It’s finished, as much as any place you live in is totally finished, and I use it nearly every day. I’m thankful for its warmth and comfort, its quiet, its utility. I’m thankful for what it gives me-solace, peace, and a sense of retreat from stress. While I am the one who conceived the idea of creating this space, and building it myself, I certainly did not do it alone. This Thanksgiving I have a lot of people to thank. I hope I didn’t leave anyone out.  

@@ -4,6 +4,7 @@ title:  "Writing Early in the Monring"
 author: "Dave in the Shack"
 date:   2015-10-02 07:41:00 -0500
 original_url: https://daveintheshack.blogspot.com/2015/10/writing-early-in-monring.html
+tags: [Food]
 ---
 
 There’s moonlight on the shack porch right now so bright.  I followed bits of it, circles, irregular shapes, of such bright light it lit up my shoes when I stepped in them through the yard from the house.  I thought it must be the streetlight but no, it was the moon high overhead shining through the trees.  That same eclipsing moon we saw fading away Sunday night is now high and bright at 6:00 a.m. Friday, just a sliver gone on one side, four days past full, not full again till nearly Halloween.  

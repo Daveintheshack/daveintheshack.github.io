@@ -4,6 +4,7 @@ title:  "Dogs in the Bible, truth from fiction, raising kids"
 author: "Dave in the Shack"
 date:   2014-09-19 11:34:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/09/dogs-in-bible-truth-from-fiction.html
+tags: [Community, Memoir-Writing]
 ---
 
 Never let it be said that I am not wrong from time to time. My wife reminds me of my wrongness by pointing out and remembering, I truly believe, every error in thought or action I have committed (of which she is aware) from the moment I met her till just this morning actually. And now that I’m blogging to the public, you point out my errors as well. So be it. I stand corrected.  

@@ -4,6 +4,7 @@ title:  "Dinner at The Shack"
 author: "Dave in the Shack"
 date:   2019-07-26 13:35:00 -0500
 original_url: https://daveintheshack.blogspot.com/2019/07/dinner-at-shack.html
+tags: [Family, Road-Trips, Civil-Rights-History, Travel, The-Shack, Fishing, Food, Politics, Current-Events]
 ---
 
 WARNING-*This is* *the longest blog entry I’ve ever posted.  Don’t start it late at night.  It’s a composite of lots or conversations I had throughout the South.  I took the liberty of putting all those words in the mouths of a  real couple I actually met at a very good restaurant.  It took a while to write and I couldn’t figure out how to shorten it or break it in half.  Hope you enjoy it.* [<img src="/assets/img/blog/2019-07-26-dinner-at-the-shack-1.jpg" width="320" height="240" />](/assets/img/blog/2019-07-26-dinner-at-the-shack-1.jpg)  

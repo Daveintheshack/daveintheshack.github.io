@@ -4,6 +4,7 @@ title:  "April is Poetry Month"
 author: "Dave in the Shack"
 date:   2016-04-08 11:10:00 -0500
 original_url: https://daveintheshack.blogspot.com/2016/04/april-is-poetry-month.html
+tags: [Gardening]
 ---
 
 April is poetry month.  You may not have been aware of that fact, given the relatively low status of poetry these days.  Poets and books of poems are rarely published, and poetry itself seems to be at low ebb, save for the slams of energetic young poets reviving the genre as performance poets, delivering their work orally into microphones for eager crowds of listeners.  

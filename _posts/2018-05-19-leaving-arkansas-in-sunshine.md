@@ -4,6 +4,7 @@ title:  "Leaving Arkansas in Sunshine"
 author: "Dave in the Shack"
 date:   2018-05-19 12:25:00 -0500
 original_url: https://daveintheshack.blogspot.com/2018/05/leaving-arkansas-in-sunshine.html
+tags: [Road-Trips, Travel, Fishing, Music, Christmas]
 ---
 
 It’s amazing what a short whiskey and an hour and a half nap on a good bed can do to improve your mood.  I woke up hungry in another strange motel room.  It was dark and still raining hard.  I ventured down to the lobby.  I asked the night clerk, the very cheerful woman who rented me a room, if there was a rib joint close and she suggested one straight out the parking lot blocks away.  As I guided the Buick through the rain I plowed water most of the way.  I couldn’t help but think of the flooded road I turned back from and whether I would have made it had I ventured into the pond around the Forked River Bridge.  I hunched over the steering wheel reading street signs, then turned, splashed through deep water at the curb, and parked in front of a little place called the Delta Q.  

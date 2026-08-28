@@ -4,6 +4,7 @@ title:  "Food and Shelter"
 author: "Dave in the Shack"
 date:   2017-11-15 13:42:00 -0600
 original_url: https://daveintheshack.blogspot.com/2017/11/food-and-shelter.html
+tags: [Food, Current-Events]
 ---
 
 [<img src="/assets/img/blog/2017-11-15-food-and-shelter-1.jpg" width="240" height="320" />](/assets/img/blog/2017-11-15-food-and-shelter-1.jpg) There were forty people in the Ottawa PADS shelter Sunday night.  Once a month my church, Open Table, staffs an entire night with volunteers. The supper shift starts at 5:00 p.m., two-night shifts, and the breakfast shift which ends at 9:00.  I’m the breakfast guy. Our local shelter is well supported.  It enjoys a long-term lease in a building owned by the city.  When I retired they remodeled adjoining vacant space creating family rooms.  They started renovation during my first days not going into work.  Because of that I was able to come down and help them tear out walls, rip down ceilings, remove plaster.  Demolition is a guilty pleasure of mine.  I own my own crowbar.  It felt good sweating, making space for new services in a t-shirt and bib overalls, doing something wonderfully tangible while other people labored at work so ephemeral they may never have realized its result.   

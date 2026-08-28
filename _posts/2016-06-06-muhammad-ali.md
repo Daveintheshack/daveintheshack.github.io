@@ -4,6 +4,7 @@ title:  "Muhammad Ali"
 author: "Dave in the Shack"
 date:   2016-06-06 10:31:00 -0500
 original_url: https://daveintheshack.blogspot.com/2016/06/muhammad-ali.html
+tags: [Road-Trips, Civil-Rights-History, Current-Events]
 ---
 
 [<img src="/assets/img/blog/2016-06-06-muhammad-ali-1.jpeg" width="320" height="260" />](/assets/img/blog/2016-06-06-muhammad-ali-1.jpeg)  

@@ -4,6 +4,7 @@ title:  "Good Luck with That David"
 author: "Dave in the Shack"
 date:   2018-10-12 15:26:00 -0500
 original_url: https://daveintheshack.blogspot.com/2018/10/good-luck-with-that-david.html
+tags: [Road-Trips, Health]
 ---
 
 Before this last elective surgery I was working on a blog about Dylan, with a little Hemingway mixed in.  As the date for my trip to the hospital neared the list of things to get done before I couldn’t walk loomed large, and I didn’t finish it.  A random FB post had thrown me into a binge of old Dylan music, some of it on vinyl, and I became immersed in lyrics.  Before I knew it I was under the knife.  The word elective surgery is fairly new, developed I’m sure during my lifetime.  The idea is this- “it's  not necessary to keep you alive, but if you want it done, someone will do it.  Whether they pay for it is another matter.”    

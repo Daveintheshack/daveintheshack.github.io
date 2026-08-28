@@ -4,6 +4,7 @@ title:  "Do Not Rescusitate-Conclusion"
 author: "Dave in the Shack"
 date:   2017-04-27 11:14:00 -0500
 original_url: https://daveintheshack.blogspot.com/2017/04/do-not-rescusitate-conclusion.html
+tags: [Family, Health]
 ---
 
 Remember what I said about my surgeon yesterday?  Plain talker, not pretentious, good guy?  When you think of the hospitalist think the opposite of those qualities.  This doc gave me the distinct impression that rather than listening to what I was saying he was always thinking of what to say next.  

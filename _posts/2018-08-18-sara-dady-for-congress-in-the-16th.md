@@ -4,6 +4,7 @@ title:  "Sara Dady for Congress in the 16th"
 author: "Dave in the Shack"
 date:   2018-08-18 17:18:00 -0500
 original_url: https://daveintheshack.blogspot.com/2018/08/sara-dady-for-congress-in-16th.html
+tags: [Politics]
 ---
 
 If you are Republican with strong party loyalty, feel free to skip this post.  I’ve had a few readers ask to be taken off the e mail list following my posts on immigration, and have been unfriended on Face Book due to my politics.  I get it, and I’m more than glad to stop filling your inbox with material you don’t want to read.  I hesitate to write about politics these days because it’s getting harder and harder to have productive conversation.  Emotions run high.  It’s the times we live in.  But I can’t help it.  Dave in the Shack is about what I think and feel, and I can’t avoid this.   

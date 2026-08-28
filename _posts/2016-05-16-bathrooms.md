@@ -4,6 +4,7 @@ title:  "Bathrooms"
 author: "Dave in the Shack"
 date:   2016-05-16 09:19:00 -0500
 original_url: https://daveintheshack.blogspot.com/2016/05/bathrooms.html
+tags: [Music]
 ---
 
 This is a touchy subject.  I’ve noticed throughout a lifetime of reading, and now with an eye on writing, that what we do in toilets, eliminating bodily waste, is not represented particularly well, if at all, in literature or its contemporary new cousin blogging.  I think I know why.  

@@ -4,6 +4,7 @@ title:  "A Trip to the Sea"
 author: "Dave in the Shack"
 date:   2020-03-22 16:18:00 -0500
 original_url: https://daveintheshack.blogspot.com/2020/03/a-trip-to-sea.html
+tags: [Personal-Essays]
 ---
 
 I’ve been unable to write a blog post lately.  Making sense of life these days is difficult.  Every time I think I know what I want to say, my assessment of what we are collectively experiencing changes and my assumptions get thrown out the window.  So, I’ve decided to just write about things that come to mind.  Maybe you can figure it out.   

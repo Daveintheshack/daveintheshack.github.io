@@ -4,6 +4,7 @@ title:  "Recommended Reading"
 author: "Dave in the Shack"
 date:   2017-03-31 10:42:00 -0500
 original_url: https://daveintheshack.blogspot.com/2017/03/recommended-reading.html
+tags: [Family, Gardening, Books]
 ---
 
 The most striking thing about reading to a class of four year olds at Opportunity School was seeing their eyes on me. Ten pairs of clear, bright, hopeful eyes; looking up at me from where they sat on the floor, waiting to see and hear happens next.  I’m not used to it.  I’m used to being here, tucked away in the shack, by myself, unnoticed.  Those twenty young eyes took me back.  

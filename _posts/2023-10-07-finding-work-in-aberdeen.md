@@ -4,6 +4,7 @@ title:  "Finding Work in Aberdeen"
 author: "Dave in the Shack"
 date:   2023-10-07 16:01:00 -0500
 original_url: https://daveintheshack.blogspot.com/2023/10/finding-work-in-aberdeen.html
+tags: [Road-Trips, Ireland, Travel, Fishing]
 ---
 
 Hitchhiking from London, England to Aberdeen, Scotland was easy.  But my employment there didn’t turn out as expected.  How often do plans match outcomes?

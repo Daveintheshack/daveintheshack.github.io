@@ -4,6 +4,7 @@ title:  "Santa Comes to the Shack"
 author: "Dave in the Shack"
 date:   2025-12-24 16:32:00 -0600
 original_url: https://daveintheshack.blogspot.com/2025/12/santa-comes-to-shack.html
+tags: [Road-Trips, Civil-Rights-History, Travel, The-Shack, Cocktails-Spirits, Christmas]
 ---
 
 I was editing stories last week.  Stories that have become chapters in a book.  I like writing from scratch much better than editing, but you can’t have everything.

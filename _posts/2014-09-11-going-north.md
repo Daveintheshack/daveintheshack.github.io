@@ -4,6 +4,7 @@ title:  "Going North"
 author: "Dave in the Shack"
 date:   2014-09-11 10:00:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/09/going-north.html
+tags: [Family, Gardening, Fishing]
 ---
 
 There is a town in north Ontario,[![](/assets/img/blog/2014-09-11-going-north-1.jpg)](/assets/img/blog/2014-09-11-going-north-1.jpg)With dream comfort memory to spare.  

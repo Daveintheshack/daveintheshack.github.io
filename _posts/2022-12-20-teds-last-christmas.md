@@ -4,6 +4,7 @@ title:  "Ted's Last Christmas"
 author: "Dave in the Shack"
 date:   2022-12-20 09:36:00 -0600
 original_url: https://daveintheshack.blogspot.com/2022/12/teds-last-christmas.html
+tags: [Ted, Christmas]
 ---
 
 *I posted this story before Christmas years ago in a longer form.  These were two pieces recently in our local paper, published two weeks apart to conform with their word limits.  Still shorter than it used to be.  I think this condensed version is better.*     

@@ -4,6 +4,7 @@ title:  "I Miss My son"
 author: "Dave in the Shack"
 date:   2012-06-29 07:09:00 -0500
 original_url: https://daveintheshack.blogspot.com/2012/06/i-miss-my-son.html
+tags: [Family, Road-Trips, Travel, Music, Christmas]
 ---
 
 I miss my son. He’s been living out of the country for nearly two years. I saw him Christmas before last and it’s just been too long. We Skype from time to time, but there’s a time difference and we’re both too busy to work that out, too much alike in being averse to planning ahead. We don’t talk enough. Even when we do, dress it up all you want but Skype is still a telephone call with video. It’s not being with him, sharing a meal, hugging him. I find myself thinking about him more and more. I miss him terribly.  

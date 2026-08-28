@@ -4,6 +4,7 @@ title:  "Such is Life (the French say it better)"
 author: "Dave in the Shack"
 date:   2016-04-12 23:27:00 -0500
 original_url: https://daveintheshack.blogspot.com/2016/04/such-is-life-french-say-it-better.html
+tags: [Travel, Fishing]
 ---
 
 The fire burning season inside the shack is drawing to a close.  Soon I’ll just turn on the electric space heater for twenty minutes or so and the chill in my small room will be gone.  But beginning in early fall until well into spring I build a fire most every day.  I have a wood burning stove, the Sardine model, built by Marine Stove Works out on Orcas Island, in the San Juan chain off the Pacific coast of Washington.  My Sardine stove was originally designed for the snug small spaces afforded cabins below deck on sailboats.  They also make larger models:  the Little Cod and the Halibut.  I’ve found the Sardine is sized perfectly not only for sail boats but also for tiny buildings like my backyard shack, where I do my writing.  I turn on the computer, and while it boots up and comes alive I start a fire in my stove.  

@@ -4,6 +4,7 @@ title:  "Keeping Vigil"
 author: "Dave in the Shack"
 date:   2020-06-17 11:08:00 -0500
 original_url: https://daveintheshack.blogspot.com/2020/06/keeping-vigil.html
+tags: [Road-Trips, Civil-Rights-History, Travel, Politics, Current-Events]
 ---
 
 [<img src="/assets/img/blog/2020-06-17-keeping-vigil-1.jpg" width="240" height="320" />](/assets/img/blog/2020-06-17-keeping-vigil-1.jpg)  

@@ -4,6 +4,7 @@ title:  "The Civil War and its Aftermath"
 author: "Dave in the Shack"
 date:   2019-05-07 16:08:00 -0500
 original_url: https://daveintheshack.blogspot.com/2019/05/the-civil-war-and-its-aftermath.html
+tags: [Civil-Rights-History, Travel, Politics]
 ---
 
 The Civil War was fought over slavery.  It was the burning moral issue of its time for most Americans, but in the South it was also an economic issue.  Should it be expanded?  Should it be allowed to exist but contained?  Should it be abolished?  The presidential election of 1860 tipped the scales towards an answer to those questions. The policy debate was whether new states being formed and admitted to the union in western territories should be allowed to keep slaves or be “free” states.  Both the North and the South agreed with the conclusion that the power to decide the question of slavery for the territories was the power to determine the future of slavery itself.     

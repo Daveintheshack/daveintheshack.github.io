@@ -4,6 +4,7 @@ title:  "The Garden is History"
 author: "Dave in the Shack"
 date:   2021-11-18 12:08:00 -0600
 original_url: https://daveintheshack.blogspot.com/2021/11/the-garden-is-history.html
+tags: [Family, Gardening, Food, Current-Events]
 ---
 
 Measuring the success of a garden isn’t simple.  If it was a farm, it might be.  You’d go by the output: the size of the crop, bushels per acre, or money made.  Those are objective large-scale indicators.  I don’t think that’s what gardeners are after when they buy seeds and plants in the spring and imagine what can be eaten fresh and preserved to be eaten later after frost finally brings growing to an end.  Gardens are smaller in size and scope and more complex.  They’re valued by gardeners in a different way, I think.

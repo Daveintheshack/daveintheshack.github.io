@@ -4,6 +4,7 @@ title:  "Change, peanut brittle, and other winter topics"
 author: "Dave in the Shack"
 date:   2016-12-10 09:19:00 -0600
 original_url: https://daveintheshack.blogspot.com/2016/12/change-peanut-brittle-and-other-winter.html
+tags: [Fishing, Food, Christmas]
 ---
 
 Saturday came early for me.  I woke up early and rather than lie in bed I got up.  The thermos of coffee I made for my trip to Chicago Friday was on the counter where I left it.  I realized it was there yesterday at about the Marseilles exit, too far gone I thought to circle back and retrieve it.  Too much time would be lost.  I seldom have those kinds of restraints anymore, not that I heeded them much while I was working, but I wanted to get to this meeting on time.  I thought it was important.  

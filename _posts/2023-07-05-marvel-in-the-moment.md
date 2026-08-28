@@ -4,6 +4,7 @@ title:  "Marvel in the Moment"
 author: "Dave in the Shack"
 date:   2023-07-05 14:50:00 -0500
 original_url: https://daveintheshack.blogspot.com/2023/07/marvel-in-moment.html
+tags: [Family, Road-Trips, Travel, Gardening, Food, Politics, Current-Events, Community]
 ---
 
 In my last blog post, I was getting out of Memphis, heading to Mississippi, and looking for a Waffle House.  But sometimes life interrupts those road trip sagas.  I have a note on my desk that reminds me why that happens.

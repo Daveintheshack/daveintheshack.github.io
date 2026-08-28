@@ -4,6 +4,7 @@ title:  "Luck of the Draw-Part 1"
 author: "Dave in the Shack"
 date:   2013-08-01 08:15:00 -0500
 original_url: https://daveintheshack.blogspot.com/2013/08/luck-of-draw-part-1.html
+tags: [Current-Events, Music]
 ---
 
 On August 13th in 1969, my eighteenth birthday, I registered for the draft in a hot little office somewhere in downtown Bloomington. For an occasion that was so momentous to me it turned out to be dull and mundane. While I put my life under the thumb of the U.S. military the woman behind the desk chewed gum. Immediately after leaving the draft board office I bought two albums, Dylan’s Nashville Skyline and Donovan’s Hurdy Gurdy Man, one of which I still listen to. I went back to the farm, sat in front of the big wooden stereo in the living room and played the music loudly as I pondered my fate. Mom was not impressed.  

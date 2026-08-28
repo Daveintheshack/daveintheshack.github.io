@@ -4,6 +4,7 @@ title:  "Illinois Today"
 author: "Dave in the Shack"
 date:   2015-08-04 13:05:00 -0500
 original_url: https://daveintheshack.blogspot.com/2015/08/illinois-today.html
+tags: [Personal-Essays]
 ---
 
 I’m more aware than many of what a budget stalemate in Springfield means to real people.  I’ve been through previous stalemates as the director of a not for profit that strived to provide programs that were largely state funded to people that needed them in a fairly rural part of Illinois.  But none like this.  Sometimes there are no other places families and kids can turn to for those services.  I felt an obligation, all of us involved did, to keep our doors open, make payroll, pay our vendors, do everything it took to go on with counseling, day care, therapy, and the many services our agency provided.  We went on without valid contracts, without guarantee of payment, as if everything was fine.  We kept a brave face while the programs we maintained and the people who used them were used as pawns in some larger game.  

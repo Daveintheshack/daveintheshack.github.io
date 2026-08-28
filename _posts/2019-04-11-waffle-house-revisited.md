@@ -4,6 +4,7 @@ title:  "Waffle House Revisited"
 author: "Dave in the Shack"
 date:   2019-04-11 11:25:00 -0500
 original_url: https://daveintheshack.blogspot.com/2019/04/waffle-house-revisited.html
+tags: [Civil-Rights-History, Travel, Gardening, Food, Christmas]
 ---
 
 [<img src="/assets/img/blog/2019-04-11-waffle-house-revisited-1.jpg" width="240" height="320" />](/assets/img/blog/2019-04-11-waffle-house-revisited-1.jpg)  

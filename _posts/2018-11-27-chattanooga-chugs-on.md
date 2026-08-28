@@ -4,6 +4,7 @@ title:  "Chattanooga Chugs On"
 author: "Dave in the Shack"
 date:   2018-11-27 09:06:00 -0600
 original_url: https://daveintheshack.blogspot.com/2018/11/chattanooga-chugs-on.html
+tags: [Civil-Rights-History, Travel, Politics, Current-Events]
 ---
 
 I found myself reading a small southern newspaper, the Chattanooga Times Free Press.  I thought I ought to somehow.  I equated it with tuning into Fox News now and again.  I want to understand red states, and Trump voters.  There are a lot of them, too many to disregard.  And so I read the paper to see what I could find that was either different or new.  I also wanted to see what kind of news readers on the Lookout were getting.  

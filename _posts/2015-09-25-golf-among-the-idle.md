@@ -4,6 +4,7 @@ title:  "Golf among the Idle"
 author: "Dave in the Shack"
 date:   2015-09-25 11:41:00 -0500
 original_url: https://daveintheshack.blogspot.com/2015/09/golf-among-idle.html
+tags: [Aging]
 ---
 
 I think playing more golf when one quits working and getting better is a common fantasy.  More play can only improve your game right?  I know that was my fantasy.  I kept a golf ball and tees on my desk and thought of smacking it long and hard, especially during bad phone calls.  You know; complaints, descriptions of risky situations, predictions of calamity, calls about budget cuts, bureaucratic threat both veiled and actual, lost grants, and the like.  I would listen to the speaker phone and respond appropriately, alone in my office, saying what I needed to say while staring at the golf ball, imagining it disappearing down the middle of the fairway.  More golf, less stress, was my goal.  

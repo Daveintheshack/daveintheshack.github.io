@@ -4,6 +4,7 @@ title:  "Can We Talk About Guns Now?"
 author: "Dave in the Shack"
 date:   2017-10-18 09:45:00 -0500
 original_url: https://daveintheshack.blogspot.com/2017/10/can-we-talk-about-guns-now.html
+tags: [Family, Politics, Current-Events, Music]
 ---
 
 [![](/assets/img/blog/2017-10-18-can-we-talk-about-guns-now-1.jpg)](/assets/img/blog/2017-10-18-can-we-talk-about-guns-now-1.jpg) **  

@@ -4,6 +4,7 @@ title:  "The Difference Between Him and Me"
 author: "Dave in the Shack"
 date:   2013-10-25 11:39:00 -0500
 original_url: https://daveintheshack.blogspot.com/2013/10/the-difference-between-him-and-me.html
+tags: [Personal-Essays]
 ---
 
 They were layering up at the homeless shelter in Ottawa as they headed out the door Monday morning. Summer is over. The rules say shelter residents must leave by nine but most are gone by the time nine rolls around. First to go was the woman who works as a maid at one of our local hotels. She had brought her bike inside for safe keeping. I thought of the hotel up by Route 80 where she was heading, the shelter’s location downtown, and the long way up our big river bluff that separates them. I don’t ride my bike up that big hill.  

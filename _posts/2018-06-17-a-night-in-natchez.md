@@ -4,6 +4,7 @@ title:  "A Night in Natchez"
 author: "Dave in the Shack"
 date:   2018-06-17 10:17:00 -0500
 original_url: https://daveintheshack.blogspot.com/2018/06/a-night-in-natchez.html
+tags: [Family, Civil-Rights-History, Travel, Gardening, Cocktails-Spirits]
 ---
 
 I knew nothing about Natchez.  I went there on the recommendation of a good guy I’ve gotten to know from Louisiana.  Hearing I was roughly following the Mississippi down to Florida, he said if I was anywhere near Natchez it was worth seeing.  So I went. From Bostrop I drove toward Sterlington and headed the direction of Monroe.  In Columbia I turned on 4 East following it through Gilbert, Jigger, and Ft. Necessity.  I picked up 425 S. again there and crossed the Mississippi River for the last time, entering the State of Mississippi into the town of Natchez.  

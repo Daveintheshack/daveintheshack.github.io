@@ -4,6 +4,7 @@ title:  "Dueling: I'm not Talking Banjos."
 author: "Dave in the Shack"
 date:   2016-04-29 11:02:00 -0500
 original_url: https://daveintheshack.blogspot.com/2016/04/dueling-im-not-talking-banjos.html
+tags: [Ireland, Civil-Rights-History, Politics, Current-Events]
 ---
 
 I think Americans have an abbreviated sense of history and time.  It is as if nothing of any real consequence happened before 1776, or at the very earliest 1492.  We, and especially our kids (though they tend to think more globally than us) are increasingly rooted in the present moment and the very recent past.  So when you say “not so long ago” you almost always get an argument to the contrary.   

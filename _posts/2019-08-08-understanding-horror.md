@@ -4,6 +4,7 @@ title:  "Understanding Horror"
 author: "Dave in the Shack"
 date:   2019-08-08 12:57:00 -0500
 original_url: https://daveintheshack.blogspot.com/2019/08/understanding-horror.html
+tags: [Civil-Rights-History, Politics, Health]
 ---
 
 [![](/assets/img/blog/2019-08-08-understanding-horror-1.png)](/assets/img/blog/2019-08-08-understanding-horror-1.png) I read the essay written by the El Paso shooter.  Just reading his words is controversial.  There’s a belief we should not give those words credence, not help their author achieve fame, and not repeat them.  But in college I had a wise English professor who believed this; *It is always better to know than not to know*.  I’ve stuck with that idea ever since.  How can we recognize terrorism, understand it, and challenge it in the future if we don’t know read and understand the words and thoughts of terrorists? In his essay, the El Paso shooter begins by expressing support of the Christchurch shooter who, on March 19, 2019, shot and killed 49 people in two New Zealand mosques, a hate crime against those of the Muslim faith.  That shooter was armed with an assault style weapon and concurrent with his murders published a 71-page essay online.  The El Paso shooter obviously read and agreed with it.  

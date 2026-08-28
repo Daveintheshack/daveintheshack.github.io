@@ -4,6 +4,7 @@ title:  "Glad That Didn't Happen to Me"
 author: "Dave in the Shack"
 date:   2023-11-02 12:44:00 -0500
 original_url: https://daveintheshack.blogspot.com/2023/11/glad-that-didnt-happen-to-me.html
+tags: [Ireland, Travel, Gardening, Christmas]
 ---
 
 As the pipeline job outside Aberdeen went on the weather and working conditions worsened.  More and more the talk among the workers turned to when the job would shut down. 

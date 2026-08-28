@@ -4,6 +4,7 @@ title:  "What's in a Name?"
 author: "Dave in the Shack"
 date:   2013-09-06 07:07:00 -0500
 original_url: https://daveintheshack.blogspot.com/2013/09/whats-in-name.html
+tags: [Family, Travel, Fishing]
 ---
 
 Using a method I know makes little sense, one that is admittedly imperfect and statistically flawed, I determine my odds of long life by checking the Tribune’s obituary section each morning to see if any McClures died the previous day. When none do I take comfort in knowing we, at least those of us in the immediate area, are all still healthy and alive. According to the Tribune, and by using this method and its logic, McClures hardly ever die.  

@@ -4,6 +4,7 @@ title:  "They kill us.  We kill them."
 author: "Dave in the Shack"
 date:   2017-02-10 11:10:00 -0600
 original_url: https://daveintheshack.blogspot.com/2017/02/they-kill-us-we-kill-them.html
+tags: [Politics, Current-Events]
 ---
 
 There is so much political news.  We’re drowning in it.  If I’m not careful I am grabbed by news stories out of Washington first thing in the morning and they stay with me all day.  My thoughts are taken up by what I read on illuminated screens rather than what I see in the real world around me.  I’m trying to find a balance, to inject humor, to turn my attention to other, perhaps smaller, less contentious topics.   

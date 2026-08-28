@@ -4,6 +4,7 @@ title:  "Entering Alabama"
 author: "Dave in the Shack"
 date:   2019-03-29 11:05:00 -0500
 original_url: https://daveintheshack.blogspot.com/2019/03/entering-alabama.html
+tags: [Civil-Rights-History, Travel, Fishing]
 ---
 
 Soon after crossing into Alabama from Tennessee on I-65, near Ardmore, you hit the welcome center.  These welcome center deals vary from state to state.  Some are just the first rest area on the interstate when you cross the state line with an extra rack of pamphlets in the lobby.  Others are built out, tricked up, staffed, and designed to be special.  Alabama went all out in its center welcoming visitors on Interstate 65.  I rarely miss a visit to a welcome center, whether I have to use the facilities or not, but this one is especially hard to ignore.   

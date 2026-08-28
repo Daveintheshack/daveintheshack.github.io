@@ -4,6 +4,7 @@ title:  "Artifical Calamari"
 author: "Dave in the Shack"
 date:   2013-12-13 15:43:00 -0600
 original_url: https://daveintheshack.blogspot.com/2013/12/artifical-calamari.html
+tags: [Gardening, Fishing, Christmas]
 ---
 
 [![](/assets/img/blog/2013-12-13-artifical-calamari-1.jpg)](/assets/img/blog/2013-12-13-artifical-calamari-1.jpg)Sometimes I figure out what I’m feeling by listening to what I say. I’m not forced to talk nearly as much as when I was working. On some days, when I get to the shack early and work all morning, I don’t utter a word till almost noon. I tend to remember what I say now, because I say fairly little compared to when I was directing a social service agency. When I do talk to people they sometimes ask me something like this:  

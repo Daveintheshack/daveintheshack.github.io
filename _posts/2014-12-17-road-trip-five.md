@@ -4,6 +4,7 @@ title:  "Road Trip Five"
 author: "Dave in the Shack"
 date:   2014-12-17 13:50:00 -0600
 original_url: https://daveintheshack.blogspot.com/2014/12/road-trip-five.html
+tags: [Family, Road-Trips, Civil-Rights-History, Travel, Food, Community]
 ---
 
 On Sunday morning I drove through the Talledega National Forest at sunup. There’s nothing flashy about that national forest; it’s deserted, quiet, and beautiful. Perfect for a Sunday morning. My two lane was such that I was chasing east into the rising sun much of the time. Often the sun streamed down the hallways created by tall straight pines on both sides of the road forming a narrow column of bright sky. The hills rolled gently. When I rounded a turn the sun fell through the trees in yellow stripes across the road, the Buick going light then dark as it passed through them. I turned off the CD player for the quiet and put the windows down for the air. Just me and the Buick, the trees and the sun. It was damn near religious.  

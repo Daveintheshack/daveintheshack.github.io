@@ -4,6 +4,7 @@ title:  "Do Not Resuscitate-1 of 2"
 author: "Dave in the Shack"
 date:   2017-04-26 10:33:00 -0500
 original_url: https://daveintheshack.blogspot.com/2017/04/do-not-resuscitate-1-of-2.html
+tags: [Family, Health]
 ---
 
 I spent a couple of days in the hospital getting my ankle fixed.  Rebuilt in a way.  It was elective surgery to fix an old problem.  I think of it as restoring a vital part of an old tractor; a two cycle John Deere say, or an old Minneapolis Moline.  The details are boring and often constitute the vapid medical discussions of people I’m afraid have nothing better to talk about.  This post is not about what they did to fix my ankle (well maybe a little).  It’s about experiencing and enduring the medical system.  As you may know, or might guess, there are problems.  

@@ -4,6 +4,7 @@ title:  "Back to the Farm"
 author: "Dave in the Shack"
 date:   2024-02-05 08:16:00 -0600
 original_url: https://daveintheshack.blogspot.com/2024/02/back-to-farm.html
+tags: [Travel]
 ---
 
 *Let'*s *go back* *to that Midwest farm kid who went to Europe, dashed around the continent, quit his school teaching job, and stayed there to finance more travel.  So far, he has gotten turned down by the oil rigs in Aberdeen Scotland, landed a job on a gas pipeline, quit for a job that didn’t exist, and got screwed out of $100 US.  He went back to his roots and started work on a dairy farm.*

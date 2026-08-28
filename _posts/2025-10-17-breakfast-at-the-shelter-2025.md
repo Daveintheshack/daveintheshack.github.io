@@ -4,6 +4,7 @@ title:  "Breakfast at the Shelter 2025"
 author: "Dave in the Shack"
 date:   2025-10-17 11:22:00 -0500
 original_url: https://daveintheshack.blogspot.com/2025/10/breakfast-at-shelter-2025.html
+tags: [Personal-Essays]
 ---
 
 [Open Table Church](https://www.google.com/search?ved=1t:260882&q=Open+Table+Church+Ottawa+Illinois&bbid=1021671425926267999&bpid=831195195982863247) got a late start on its once-a-month Sunday dinner and Monday breakfast project at the Ottawa PADS shelter.  [Illinois Valley PADS](https://www.google.com/search?ved=1t:260882&q=Illinois+Valley+PADS&bbid=1021671425926267999&bpid=831195195982863247) started tearing down its worn-out shelter on Ottawa's West Side this summer, but structural changes to the former Ottawa YMCA Building on the Fox River, its new temporary shelter, took longer than anticipated.  PADS in Ottawa couldn’t open till October.  Stuff like that happens. Even good plans bend to reality.  Open Table was just glad to be back for another year.

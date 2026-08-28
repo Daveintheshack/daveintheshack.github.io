@@ -4,6 +4,7 @@ title:  "Making Pulled Pork"
 author: "Dave in the Shack"
 date:   2025-04-14 16:20:00 -0500
 original_url: https://daveintheshack.blogspot.com/2025/04/making-pulled-pork.html
+tags: [Family, Road-Trips, Civil-Rights-History, Travel, Gardening, Food]
 ---
 
 **[<img src="/assets/img/blog/2025-04-14-making-pulled-pork-1.jpg" width="240" height="320" />](/assets/img/blog/2025-04-14-making-pulled-pork-1.jpg)**A friend who shares original poems with me wrote about a pork butt, in free verse, which prompted me to ask him if he makes pulled pork.  He said no.

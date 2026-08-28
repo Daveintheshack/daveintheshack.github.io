@@ -4,6 +4,7 @@ title:  "Remembering a Poet"
 author: "Dave in the Shack"
 date:   2019-01-18 13:06:00 -0600
 original_url: https://daveintheshack.blogspot.com/2019/01/before-storm-hits-both-here-in-midwest.html
+tags: [Travel]
 ---
 
 Before the storm hits, both here in the Midwest and in Washington (though it seems like foul weather is now the norm in Washington) take a deep breath and consider poetry.  One of America’s wonderful poets died yesterday, Mary Oliver.  She was 83.  She won a Pulitzer Prize in 1984 for a collection of poems called <u>American Primitive</u>.  <u>New and Selected Poems</u> earned her a National Book Award in 1992.  Even with those accomplishments, she achieved only modest fame.  Because she was a poet.  Few poets achieve wide readership let alone notoriety.  It’s the quietest of the writing genres, the most obscure.  If you don’t know her don’t feel bad.  Most of us don’t.  She lived a quiet life in Ohio, where she immersed herself in nature most days of her life.  

@@ -4,6 +4,7 @@ title:  "Out of Selfishness"
 author: "Dave in the Shack"
 date:   2016-07-18 08:01:00 -0500
 original_url: https://daveintheshack.blogspot.com/2016/07/out-of-selfishness.html
+tags: [Family, Politics, Aging, Music, Christmas]
 ---
 
 Out of selfishness, I want to talk to you about something important.  It will sound preachy.  There will be imperative sentences.  I don’t know how else to say this.  

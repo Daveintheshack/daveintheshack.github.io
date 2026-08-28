@@ -4,6 +4,7 @@ title:  "Santa Survives the Pandemic"
 author: "Dave in the Shack"
 date:   2020-12-31 08:37:00 -0600
 original_url: https://daveintheshack.blogspot.com/2020/12/santa-survives-pandemic.html
+tags: [Family, Current-Events, Health, Christmas]
 ---
 
 I saw him from across the park and thought it might be him.  But it wasn’t until he slid onto the bench on the opposite side of the picnic table, at the other end, appropriately distanced and masked, that I knew for sure.  His eyes gave him away.  I’d given up on seeing Santa this year.

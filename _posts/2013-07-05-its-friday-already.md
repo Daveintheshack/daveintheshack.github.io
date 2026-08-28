@@ -4,6 +4,7 @@ title:  "It's Friday Already?"
 author: "Dave in the Shack"
 date:   2013-07-05 11:32:00 -0500
 original_url: https://daveintheshack.blogspot.com/2013/07/its-friday-already.html
+tags: [Gardening]
 ---
 
 I think it is good to surprise yourself, if even in a negative way. This is my fifth day of retirement. I’m still not used to the fact that I get so few e mails, and I find myself thinking about what may be happening in my office. So I certainly haven’t settled into retirement. I figure after five days I’m just flirting with the concept at this point. But I was caught off guard by my reaction to a friend’s e mail yesterday. Let me set this up a little.  

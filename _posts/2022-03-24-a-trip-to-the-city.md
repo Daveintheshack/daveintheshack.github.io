@@ -4,6 +4,7 @@ title:  "A Trip to the City"
 author: "Dave in the Shack"
 date:   2022-03-24 14:38:00 -0500
 original_url: https://daveintheshack.blogspot.com/2022/03/a-trip-to-city.html
+tags: [Family, Current-Events]
 ---
 
 My wife and I try to get to Chicago once a month to be with our kids and our new Granddaughter June.  We’re doing that by booking Air B&B’s in neighborhoods close to them.  We used to find deals on hotel rooms downtown but somehow the pandemic has changed that vibe. 

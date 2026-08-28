@@ -4,6 +4,7 @@ title:  "This post interrupted by an urgent message"
 author: "Dave in the Shack"
 date:   2014-07-21 09:57:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/07/this-post-interrupted-by-urgent-message_21.html
+tags: [Family, Gardening]
 ---
 
 Hustling Hoppers  

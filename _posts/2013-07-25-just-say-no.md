@@ -4,6 +4,7 @@ title:  "Just Say No"
 author: "Dave in the Shack"
 date:   2013-07-25 18:49:00 -0500
 original_url: https://daveintheshack.blogspot.com/2013/07/just-say-no.html
+tags: [Family, Politics]
 ---
 
 Either I didn’t work as many hours as I thought or I was doing more personal business during work than I realized but I don’t have as much time on my hands in retirement as I imagined I would. I did get my first (make that my second) call today from someone who assumed (correctly apparently) that I wasn’t doing anything and could surely drop whatever I was otherwise engaged in to help “since you’re retired.” There was a problem with an air conditioning unit at church which needed the attention of someone from the trustees. Right away. She thought of me ‘because you’re not doing anything.’ So I did. In doing so I accepted her assessment of my current life.  

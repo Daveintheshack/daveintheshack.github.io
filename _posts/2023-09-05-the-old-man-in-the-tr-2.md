@@ -4,6 +4,7 @@ title:  "The Old Man in the TR 2"
 author: "Dave in the Shack"
 date:   2023-09-05 18:33:00 -0500
 original_url: https://daveintheshack.blogspot.com/2023/09/the-old-man-in-tr-2.html
+tags: [Road-Trips, Travel, Cars, Christmas]
 ---
 
 It was the fall of 1974.  I entered the UK for the first time early one morning at Dover, England as a foot passenger on a car ferry.  I was a little alarmed at the cost of the fare.  After paying it, I had less than $100 USD.  I would need a job quickly, maybe instantly, in Aberdeen, and until then, I would have to travel on the cheap.  The view of those white cliffs from the boat was free and beautiful.  I felt lucky to be there.

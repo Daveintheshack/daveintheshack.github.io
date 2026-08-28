@@ -4,6 +4,7 @@ title:  "Getting the Tree"
 author: "Dave in the Shack"
 date:   2017-12-01 09:46:00 -0600
 original_url: https://daveintheshack.blogspot.com/2017/12/getting-tree.html
+tags: [Family, Christmas]
 ---
 
 [![](/assets/img/blog/2017-12-01-getting-the-tree-1.jpg)](/assets/img/blog/2017-12-01-getting-the-tree-1.jpg)  

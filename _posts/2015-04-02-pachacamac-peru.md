@@ -4,6 +4,7 @@ title:  "Pachacamac, Peru"
 author: "Dave in the Shack"
 date:   2015-04-02 12:54:00 -0500
 original_url: https://daveintheshack.blogspot.com/2015/04/pachacamac-peru.html
+tags: [Guatemala, Gardening, Health]
 ---
 
 As travel days go, it was not by far the worst. We met up in Morris at 10:30 a.m., packed the equipment in a trailer, headed to the airport, and checked in with no problem. Avianca, the Central American airline we prefer to fly, was accommodating and welcoming. Our flight left at 4:00 p.m., landing first in San Salvador where we changed planes and took off for Lima. We went by bus straight from the airport to the small inland town of Pachacamac, following the foggy Pacific coast until we turned inland, and up, into the Lurin Valley. The roads grew narrower, bumpier, and the going was slow.  

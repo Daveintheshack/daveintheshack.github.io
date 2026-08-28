@@ -4,6 +4,7 @@ title:  "Sharing the Truth We Discover"
 author: "Dave in the Shack"
 date:   2013-10-11 11:21:00 -0500
 original_url: https://daveintheshack.blogspot.com/2013/10/sharing-truth-we-discover.html
+tags: [Travel, Gardening]
 ---
 
 A guy visited the shack recently and asked me a great question.  

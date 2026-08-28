@@ -4,6 +4,7 @@ title:  "Imagining \"The Talk\""
 author: "Dave in the Shack"
 date:   2023-05-08 15:27:00 -0500
 original_url: https://daveintheshack.blogspot.com/2023/05/imagining-talk.html
+tags: [Family, Civil-Rights-History, Travel, Food, Politics, Current-Events]
 ---
 
 After visiting Tyre Nichols’ South Memphis neighborhood, I almost called it a day and headed back to my hotel.  Imagining the details of chaos and mayhem has that effect on me.  Makes me want to hide away in a safe place.

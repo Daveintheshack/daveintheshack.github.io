@@ -4,6 +4,7 @@ title:  "Vote with your Heart"
 author: "Dave in the Shack"
 date:   2018-11-02 10:05:00 -0500
 original_url: https://daveintheshack.blogspot.com/2018/11/vote-with-your-heart.html
+tags: [Family, Fishing, Politics, Aging, Music]
 ---
 
 [<img src="/assets/img/blog/2018-11-02-vote-with-your-heart-1.jpg" width="240" height="320" />](/assets/img/blog/2018-11-02-vote-with-your-heart-1.jpg) I’ve had some medical issues and my older brother called to check on me.  I get tired of talking about it so as soon as I could I changed the subject.  The best way to do that with Darwin is to talk about politics.  He’s a student of current events, a voracious reader of recent books, a news watcher, and an historian of sorts about politics in America.  He’s 80.  He’s seen a lot and I think he remembers it all.  When he becomes discouraged, and he is so often these days, he worries not for himself but for his grandkids.  Lately he worries a lot.  I was in my recliner with ice on my knee watching CNN when he called. Darwin was talking about the pipe bombs sent from Florida to prominent Democratic politicians and donors.  He often says how unprecedented the times are in which we live.  He likens it to the violence that broke out across the country in 1968, fifty years ago, but thinks the rapid spread of news, rumor, and lies on social media and the 24 hour news cycle today has those days beat all to hell for being incendiary.   

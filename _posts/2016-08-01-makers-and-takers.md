@@ -4,6 +4,7 @@ title:  "Makers and Takers"
 author: "Dave in the Shack"
 date:   2016-08-01 09:27:00 -0500
 original_url: https://daveintheshack.blogspot.com/2016/08/makers-and-takers.html
+tags: [Food, Politics]
 ---
 
 A week ago Monday, after returning rented bikes to a bicycle shop early on a sunny morning, my wife and I were sitting outside a kosher donut store in Madison, Wisconsin having mediocre coffee and cold donuts.  We were wrapping up four nice days in that town, which as a state capitol is about as unlike Illinois’ as you can imagine.  Had I been forced to make overnight stays and countless trips to Madison rather than Springfield during my career as an agency exec I may not have retired.  

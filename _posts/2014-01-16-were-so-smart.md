@@ -4,6 +4,7 @@ title:  "We're So Smart"
 author: "Dave in the Shack"
 date:   2014-01-16 18:40:00 -0600
 original_url: https://daveintheshack.blogspot.com/2014/01/were-so-smart.html
+tags: [Family, Aging, Health, Christmas]
 ---
 
 In a week that saw a youth shot and killed at a Chicago bus stop reportedly for his cell phone, and two college students drowned in the Chicago river trying to retrieve a dropped cell phone, I’ve concluded we treasure these gadgets way too much. Calling them merely phones, however, understates their importance and value to us. They’re smart, these phones, and have become our link to knowledge and information, everyone we know, and in many ways the world around us. I think they’ve changed us.  

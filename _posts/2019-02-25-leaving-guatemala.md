@@ -4,6 +4,7 @@ title:  "Leaving Guatemala"
 author: "Dave in the Shack"
 date:   2019-02-25 08:44:00 -0600
 original_url: https://daveintheshack.blogspot.com/2019/02/leaving-guatemala.html
+tags: [Family, Guatemala, Ireland, Civil-Rights-History, Gardening, Current-Events, Christmas]
 ---
 
 I was in Guatemala on the top deck of a boat traveling across Lake Atitlan from San Antonio Polapo to San Lucas Toliman after the first day of I Care International’s free eye clinic when my friend Tim asked me this question;  

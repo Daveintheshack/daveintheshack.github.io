@@ -4,6 +4,7 @@ title:  "For Some, Winter Never Ends"
 author: "Dave in the Shack"
 date:   2014-05-16 14:43:00 -0500
 original_url: https://daveintheshack.blogspot.com/2014/05/for-some-winter-never-ends.html
+tags: [Aging]
 ---
 
 I’ve been working on a project, writing the history of an old organization, which defies brevity. It’s taking a lot of time. So last week’s blog post was a shortened earlier YSB essay on mushroom hunting. I’ve been retired almost a year so I took the hook out of that story and simply ran with the mushroom part. I should have left it alone.  

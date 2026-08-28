@@ -4,6 +4,7 @@ title:  "Catherine McClure’s Peanut Brittle"
 author: "Dave in the Shack"
 date:   2016-12-17 17:19:00 -0600
 original_url: https://daveintheshack.blogspot.com/2016/12/catherine-mcclures-peanut-brittle.html
+tags: [Family, Marriage, Food, Christmas]
 ---
 
 My sister in law Sheryl, Darwin’s wife, was my cooking teacher Friday.  Darwin wanted me to come down the day before but I was busy.  He was worried about the weather.  Sheryl had to take one of their granddaughters to an appointment and wouldn’t be home till ten.  They were calling for snow or something else to start in the afternoon.  Danvers is about an hour away.  I woke up later than I wanted, forgot the stuff I was going to bring them, made a thermos of coffee and still got there by 8:30.  That gave Darwin and I a chance to talk.  And we did.  We had a mutual political rant.  We’re on the same page politically and commiserated mightily about national and state politics.  It got loud.  It went something like this.  

@@ -4,6 +4,7 @@ title:  "BBQ and Lickin' Good Donuts"
 author: "Dave in the Shack"
 date:   2019-04-08 12:34:00 -0500
 original_url: https://daveintheshack.blogspot.com/2019/04/bbq-and-lickin-good-donuts.html
+tags: [Civil-Rights-History, Travel, Fishing, Food]
 ---
 
 I walked out of the Birmingham Civil Rights Institute still immersed in the Birmingham of 1963.  It was a nice late February Alabama day.  I got in my 2006 Buick, turned left aimlessly at the corner, and drove into the Birmingham of 2019.  Downtown is still developing, but it has a ways to go.  Lots of empty buildings.  

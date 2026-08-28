@@ -4,6 +4,7 @@ title:  "Leo Kottke Redux"
 author: "Dave in the Shack"
 date:   2017-08-24 08:44:00 -0500
 original_url: https://daveintheshack.blogspot.com/2017/08/leo-kottke-redux.html
+tags: [Road-Trips, Travel, Music]
 ---
 
 I’m not sure how old I was when I started thinking about death regularly, but it picked up quite a bit after I had a heart attack at 57.  It was mild as heart attacks go, one stent the fix, probably caused by stress and lack of sleep, but it made me pretty angry.  After that I considered the possibility of checking out quite a bit.  I may have thought occasionally about death prior to that, but I assure you it was only occasionally.  I can’t remember to tell the truth.  Aside from a few dark dramatic moments while traveling in my twenties I’ve always only thought about dying involuntarily.  I would never kill myself I don’t believe, unless I knew I was losing my mind, because I would always look forward to my next meal. When you’re young you consistently equate death with old people, who die regularly.  Perhaps young people now, what with terrorism, the opioid epidemic, and the dystopian pessimism going around think more about death than I did but I doubt it.  I took a lot of risks which, if I thought I was going to die, I probably would not have.  Death never crossed my mind when I was young.   

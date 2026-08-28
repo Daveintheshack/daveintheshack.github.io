@@ -4,6 +4,7 @@ title:  "Ferris Wheels and Accredited Professionals"
 author: "Dave in the Shack"
 date:   2018-04-19 10:55:00 -0500
 original_url: https://daveintheshack.blogspot.com/2018/04/ferris-wheels-and-accredited.html
+tags: [Family, Road-Trips, Travel]
 ---
 
 [<img src="/assets/img/blog/2018-04-19-ferris-wheels-and-accredited-professionals-1.jpg" width="320" height="223" />](/assets/img/blog/2018-04-19-ferris-wheels-and-accredited-professionals-1.jpg)  

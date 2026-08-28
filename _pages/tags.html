@@ -9,13 +9,13 @@ permalink: /tags/
     <div class="tags-header-line"></div>
   </div>
   <div class="tags-clouds">
-    {% assign sorted_tags = site.tags | sort %}
-    {% for tag in sorted_tags %}
-    <a href="#{{ tag[0] }}">{{ tag[0] }}</a>
+    {% assign tag_names = site.tags | keys | sort %}
+    {% for tag_name in tag_names %}
+    <a href="#{{ tag_name }}">{{ tag_name }}</a>
     {% endfor %}
   </div>
-  {% for tag in sorted_tags %}
-  <div class="tags-item" id="{{ tag[0] }}">
+  {% for tag_name in tag_names %}
+  <div class="tags-item" id="{{ tag_name }}">
     <svg
       class="tags-item-icon"
       xmlns="http://www.w3.org/2000/svg"
@@ -34,8 +34,8 @@ permalink: /tags/
       ></path>
       <line x1="7" y1="7" x2="7.01" y2="7"></line>
     </svg>
-    <h2 class="tags-item-label">{{ tag[0] }}</h2>
-    {% for post in tag[1] %}
+    <h2 class="tags-item-label">{{ tag_name }}</h2>
+    {% for post in site.tags[tag_name] %}
     <a class="tags-post" href="{{ post.url | prepend: site.baseurl }}">
       <div>
         <span class="tags-post-title">{{ post.title }}</span>

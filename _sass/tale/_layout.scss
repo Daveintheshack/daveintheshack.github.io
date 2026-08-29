@@ -115,6 +115,12 @@ footer {
     }
   }
 }
+#results-container:empty {
+  background: none;
+  border: none;
+  box-shadow: none;
+  display: none;
+}
 #back-to-top {
   align-items: center;
   background: $default-shade;

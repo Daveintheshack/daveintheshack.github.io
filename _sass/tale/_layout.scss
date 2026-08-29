@@ -161,15 +161,18 @@ footer {
   .post img.profile-photo {
     max-width: 200px !important;
   }
-}
 .footer-icons {
-  margin-top: .5rem;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-bottom: .5rem;
   a {
-    display: inline-block;
+    display: inline-flex;
     margin: 0 .4rem;
   }
 }
 .footer-icon {
+  display: block;
   height: 16px;
   opacity: .5;
   transition: opacity .2s ease-out;
@@ -177,4 +180,5 @@ footer {
   &:hover {
     opacity: .8;
   }
+}
 }

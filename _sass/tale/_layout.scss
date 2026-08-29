@@ -162,3 +162,19 @@ footer {
     max-width: 200px !important;
   }
 }
+.footer-icons {
+  margin-top: .5rem;
+  a {
+    display: inline-block;
+    margin: 0 .4rem;
+  }
+}
+.footer-icon {
+  height: 16px;
+  opacity: .5;
+  transition: opacity .2s ease-out;
+  width: 16px;
+  &:hover {
+    opacity: .8;
+  }
+}

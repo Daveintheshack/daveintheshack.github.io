@@ -1,10 +1,10 @@
 <footer>
-  <div class="footer-icons">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 0.8rem; margin-bottom: 0.5rem;">
     <a href="https://www.facebook.com/dave.mcclure.140" target="_blank" rel="noopener">
-      <img src="{{ "/assets/facebook-icon.svg" | relative_url }}" alt="Facebook" class="footer-icon">
+      <img src="{{ "/assets/facebook-icon.svg" | relative_url }}" alt="Facebook" style="display: block; width: 16px; height: 16px; opacity: 0.5;">
     </a>
     <a href="mailto:daveintheshack@gmail.com">
-      <img src="{{ "/assets/inbox-icon.svg" | relative_url }}" alt="Email" class="footer-icon">
+      <img src="{{ "/assets/inbox-icon.svg" | relative_url }}" alt="Email" style="display: block; width: 16px; height: 16px; opacity: 0.5;">
     </a>
   </div>
   <span>
@@ -12,7 +12,6 @@
   </span>
   <button id="back-to-top" title="Back to top">&#8593;</button>
 </footer>
-
 <script>
   var backToTopButton = document.getElementById('back-to-top');
   window.addEventListener('scroll', function() {

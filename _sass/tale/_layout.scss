@@ -161,24 +161,26 @@ footer {
   .post img.profile-photo {
     max-width: 200px !important;
   }
+}
 .footer-icons {
-  align-items: center;
-  display: flex;
-  justify-content: center;
-  margin-bottom: .5rem;
+  align-items: center !important;
+  display: flex !important;
+  justify-content: center !important;
+  margin-bottom: .5rem !important;
   a {
-    display: inline-flex;
-    margin: 0 .4rem;
+    display: inline-flex !important;
+    margin: 0 .4rem !important;
   }
 }
 .footer-icon {
-  display: block;
-  height: 16px;
-  opacity: .5;
+  display: block !important;
+  height: 16px !important;
+  margin: 0 !important;
+  max-width: none !important;
+  opacity: .5 !important;
   transition: opacity .2s ease-out;
-  width: 16px;
+  width: 16px !important;
   &:hover {
     opacity: .8;
   }
-}
 }

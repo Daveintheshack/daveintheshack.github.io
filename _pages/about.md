@@ -1,6 +1,5 @@
 ---
 layout: post
-title: ""
 author: "Dave McClure"
 permalink: /
 ---

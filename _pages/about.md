@@ -13,3 +13,5 @@ Daves lives in Ottawa, Illinois with his wife Colleen.  They have two children, 
 In 2005, Dave began writing a weekly blog at YSB to communicate the work of his agency to board members, staff, foster parents, and those connected with YSB’s programs.  He continues to blog today at daveintheshack.blogspot.com
 
 When asked what his blog is about, Dave replies “whatever comes to mind.”  His readers enjoy articles about community, food, family, faith, travel, and the Cubs.  Dave is about to complete a childhood memoir of his family’s life on their small farm from 1952-1969.
+
+<img src="/assets/img/shack.jpg" alt="shack" class="profile-photo">

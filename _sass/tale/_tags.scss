@@ -1,7 +1,7 @@
 .tags {
   &-header {
     &-title {
-      color: $default-shade;
+      color: var(--color-shade);
       font-family: $sans-serif;
       font-size: 4rem;
       margin: 1rem 0;
@@ -9,7 +9,7 @@
     }
 
     &-line {
-      border-top: 0.4rem solid $default-shade;
+      border-top: 0.4rem solid var(--color-shade);
       display: block;
       margin: 0 auto 3rem;
       width: 4rem;
@@ -26,7 +26,7 @@
       padding: 0.2rem 0.5rem;
       background: rgba(0, 0, 0, 0.05);
       border-radius: 5px;
-      color: $default-color;
+      color: var(--color-default);
       text-decoration: none;
 
       &:hover,
@@ -45,7 +45,7 @@
       display: inline-block;
       margin: 2rem 0 0.5rem;
       font-family: $sans-serif;
-      color: $default-color;
+      color: var(--color-default);
     }
   }
 
@@ -55,7 +55,7 @@
     padding: 5px 0;
 
     &-title {
-      color: $default-color;
+      color: var(--color-default);
       text-decoration: none;
       white-space: nowrap;
       overflow: hidden;
@@ -64,13 +64,13 @@
 
     &-line {
       @include transition(all 0.3s ease-out);
-      border-top: 0.1rem solid $default-shade;
+      border-top: 0.1rem solid var(--color-shade);
       display: block;
       width: 0;
     }
 
     &-meta {
-      color: $default-tint;
+      color: var(--color-tint);
       text-align: right;
       white-space: nowrap;
     }
@@ -82,7 +82,7 @@
       }
 
       .tags-post-meta {
-        color: $default-shade;
+        color: var(--color-shade);
       }
     }
   }

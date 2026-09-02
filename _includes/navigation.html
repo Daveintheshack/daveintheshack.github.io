@@ -22,3 +22,16 @@
     json: '{{ site.baseurl }}/search.json'
   });
 </script>
+
+<button id="dark-mode-toggle" aria-label="Toggle dark mode">🌙</button>
+<script>
+  var toggle = document.getElementById('dark-mode-toggle');
+  var html = document.documentElement;
+  if (localStorage.getItem('dark-mode') === 'true') {
+    html.classList.add('dark-mode');
+  }
+  toggle.addEventListener('click', function() {
+    html.classList.toggle('dark-mode');
+    localStorage.setItem('dark-mode', html.classList.contains('dark-mode'));
+  });
+</script>

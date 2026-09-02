@@ -23,7 +23,9 @@
   });
 </script>
 
-<button id="dark-mode-toggle" aria-label="Toggle dark mode">🌙</button>
+<button id="dark-mode-toggle" aria-label="Toggle dark mode">
+  <img src="{{ "/assets/moon.svg" | relative_url }}" alt="Toggle dark mode" style="width: 18px; height: 18px; display: block; opacity: 0.7;">
+</button>
 <script>
   var toggle = document.getElementById('dark-mode-toggle');
   var html = document.documentElement;

@@ -12,6 +12,10 @@ footer,
   width: 80%;
 }
 .nav {
+  background: var(--color-bg);
+  position: sticky;
+  top: 0;
+  z-index: 300;
   &-container {
     margin: 1rem auto;
     position: relative;

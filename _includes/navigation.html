@@ -11,6 +11,11 @@
         <input type="text" id="search-input" placeholder="Search...">
         <ul id="results-container"></ul>
       </li>
+      <li>
+        <button id="dark-mode-toggle" aria-label="Toggle dark mode" style="background: none !important; border: none !important; box-shadow: none !important; cursor: pointer; padding: 0 !important; margin: 0; display: inline-flex; align-items: center;">
+          <img src="{{ "/assets/moon.svg" | relative_url }}" alt="Toggle dark mode" style="width: 16px; height: 16px; display: block; opacity: 0.7;">
+        </button>
+      </li>
     </ul>
   </div>
 </nav>
@@ -22,10 +27,6 @@
     json: '{{ site.baseurl }}/search.json'
   });
 </script>
-
-<button id="dark-mode-toggle" aria-label="Toggle dark mode">
-  <img src="{{ "/assets/moon.svg" | relative_url }}" alt="Toggle dark mode" style="width: 18px; height: 18px; display: block; opacity: 0.7;">
-</button>
 <script>
   var toggle = document.getElementById('dark-mode-toggle');
   var html = document.documentElement;
